@@ -1,10 +1,10 @@
 # NeuroImmune-Virtual-Biotech (`v2.0`)
 
-Source code, data provenance manifests, and audit receipts accompanying the manuscript:
+Source code, figure source tables, data provenance manifests, and audit receipts accompanying the manuscript:
 
 > **Dynamic cellular specificity predicts inflammatory lock-in and clinical translation in acute brain injury**
 
-This repository mirrors **Additional file 3** (`Additional_file_3_Supplementary_Software_v2.0.zip`) accompanying the manuscript submission, covering the **NeuroImmune-Virtual-Biotech** analytical pipeline, the **vGlia-Niche** multicellular ODE world model, figure generation scripts, and automated audit gates.
+This repository accompanies the manuscript submission (mirroring **Additional file 1** source tables and **Additional file 3** `Additional_file_3_Supplementary_Software_v2.0.zip`), covering the **NeuroImmune-Virtual-Biotech** analytical pipeline, the **vGlia-Niche** multicellular ODE world model, figure generation scripts, and automated audit gates.
 
 ## Repository Structure
 
@@ -27,15 +27,25 @@ NeuroImmune_Virtual_Biotech/
 │   ├── 06_write_rebuttal_letter_and_update_status.py          # Revision audit & consistency verification
 │   ├── 07_agentic_trace_and_icu_chrono_validation.py          # Multi-agent deliberation traces, 2x2 protocol chrono-window & GSE63808 audit
 │   └── 08_build_extended_data_4_figures.py                    # Extended Data / Supplementary Figures 1-4 generation
+├── tables/
+│   ├── Table1_230Trials_Modality_and_Tau_Tier_Summary.csv               # Main Table 1 (Fig. 1 source data)
+│   ├── Table2_Top25_Tier1_Targets_MultiCohort_Ledger.csv                # Main Table 2 (Fig. 4 & Fig. 5 source data)
+│   ├── Table3_SixGate_Ablation_and_Benchmark_Comparison.csv             # Main Table 3 (Fig. 3 source data)
+│   ├── TableS1_230_ClinicalTrials_MultiAgent_Audit.csv                  # Supplementary Table S1 (N = 230 trials, Fig. 1 source data)
+│   ├── TableS2_133Genes_Dynamic_Tau_Trajectories.csv                    # Supplementary Table S2 (133 candidates, Fig. 2 & Fig. 3 source data)
+│   ├── TableS3_10_GEO_Cohorts_Architecture_and_Validation_Summary.csv   # Supplementary Table S3 (10 GEO cohorts, Fig. 2 source data)
+│   └── TableS4_Agentic_CrossDivision_Deliberation_Traces.csv            # Supplementary Table S4 (12 cross-division deliberation traces)
 └── data/
-    ├── DATA_PROVENANCE_MANIFEST.json                          # SHA-256 checksums for isolated public datasets
-    ├── CLINICALTRIALS_PRISMA_FUNNEL_RECEIPT.json              # ClinicalTrials.gov PRISMA 370 -> 230 screening receipt
-    ├── GEO_EXHAUSTIVE_CENSUS_RECEIPT.json                     # Exhaustive NCBI GEO cohort census receipt
-    ├── trial_230_retrospective_stats.json                     # Retrospective trial failure & dynamic tau(t) statistics
-    ├── rebuttal_sensitivity_and_loco_stats.json               # Sensitivity, LORO/LOCO CV, and LHS ODE summary statistics
-    ├── flagship_v2_f1_f2_d2_summary.json                      # Dry-lab audit & cross-species validation summary
-    ├── GSE63808_129Patients_Hysteresis_Separatrix_Audit.csv   # N = 129 human surgical hippocampus separatrix audit
-    └── Phase3_vGliaNiche_ChronoTrial_Summary_vs_PublicCohorts.csv # vGlia-Niche chrono-trial summary vs. public cohorts
+    ├── DATA_PROVENANCE_MANIFEST.json                                    # SHA-256 checksums for isolated public datasets
+    ├── CLINICALTRIALS_PRISMA_FUNNEL_RECEIPT.json                        # ClinicalTrials.gov PRISMA 370 -> 230 screening receipt
+    ├── GEO_EXHAUSTIVE_CENSUS_RECEIPT.json                               # Exhaustive NCBI GEO cohort census receipt
+    ├── trial_230_retrospective_stats.json                               # Retrospective trial failure & dynamic tau(t) statistics
+    ├── rebuttal_sensitivity_and_loco_stats.json                         # Sensitivity, LORO/LOCO CV, and LHS ODE summary statistics
+    ├── flagship_v2_f1_f2_d2_summary.json                                # Dry-lab audit & cross-species validation summary
+    ├── GSE63808_human_129patients_glia_vs_neuron_scores.csv             # N = 129 human surgical hippocampus glia vs. neuron scores (Fig. 2)
+    ├── GSE63808_129Patients_Hysteresis_Separatrix_Audit.csv             # N = 129 human surgical hippocampus separatrix audit
+    ├── Phase3_vGliaNiche_ChronoTrial_Summary_vs_PublicCohorts.csv       # vGlia-Niche chrono-trial summary vs. public cohorts (Fig. 4 & Fig. 5)
+    └── Phase3_vGliaNiche_CellBehavior_Grammar_Rules.json                # vGlia-Niche multicellular Hill-type behavioral grammar rules
 ```
 
 ## Public Data Sources
