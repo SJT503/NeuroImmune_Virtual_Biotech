@@ -1,0 +1,838 @@
+{
+  "1_Mouse_TBI_SingleCell_or_Spatial": [
+    {
+      "accession": "GSE308043",
+      "n_samples": 62,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2026/09/25",
+      "title": "Multi-Organ Inflammatory and Endocrine Crosstalk Shapes the Early Brain Response to Combined Burn and Blast Injury",
+      "summary": "Thermal injury to the skin triggers a systemic response that affects the brain, with substantial evidence of blood–brain barrier disruption and neuroinflammation. By comparison, the consequences of combined burn and traumatic brain injury are largely unknown, despite their frequent co-occurrence in "
+    },
+    {
+      "accession": "GSE300113",
+      "n_samples": 59,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2026/04/30",
+      "title": "Heterogenous microglial reactivity contrasts with stable vascular transcriptional programs in mouse models of Alzheimer’s, CADASIL, and Traumatic Brain Injury (Main dataset)",
+      "summary": "The extent to which the cerebrovasculature is affected in various brain disorders is still not well understood. To address this, we established a transcriptomic repository of major vascular cell types and microglia to compare the transcriptomic response in  mouse models of three human brain disorder"
+    },
+    {
+      "accession": "GSE276647",
+      "n_samples": 54,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2025/01/15",
+      "title": "Gene expression profile of microglia following traumatic brain injury and nasal anti-CD3 treatment at acute and chronic timepoints",
+      "summary": "Bulk RNA-sequencing was performed to characterize the gene expression profile of microglia at acute and chronic timepoints following traumatic brain injury and nasal anti-CD3 treatment. We further investigated how the chronic microglial transcriptomic profile is modulated following traumatic brain i"
+    },
+    {
+      "accession": "GSE226072",
+      "n_samples": 48,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2023/08/01",
+      "title": "Exercise intensity and sex alter neurometabolic, transcriptional, and functional recovery following traumatic brain injury.",
+      "summary": "In order to assess the impact of treadmill exercise on traumatic brain injury outcomes, we subjected male and female swiss webster mice to a controlled cortical impact (CCI), followed by 10 days of sedentary, low-, moderate-, or high-intensity treadmill exercise. Outcome measures included neurometab"
+    },
+    {
+      "accession": "GSE189574",
+      "n_samples": 45,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2022/01/13",
+      "title": "Robust transcriptional profiling and identification of differentially expressed genes with low input RNA sequencing of adult hippocampal neural stem and progenitor populations [in vivo]",
+      "summary": "Multipotent neural stem cells (NSCs) are found in several isolated niches of the adult mammalian brain where they have unique potential to assist in tissue repair. Modern transcriptomics offer high-throughput methods for identifying disease or injury associated gene expression signatures in endogeno"
+    },
+    {
+      "accession": "GSE79510",
+      "n_samples": 45,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2016/05/17",
+      "title": "Single-cell RNA sequencing reveals non-canonical brain macrophage activation states in murine neurotrauma",
+      "summary": "Background: Macrophage polarization programs, commonly referred to as “classical” and “alternative” activation, are widely considered as distinct states that are exclusive of one another, and are associated with different functions such as inflammation and wound healing, respectively. In a number of"
+    },
+    {
+      "accession": "GSE180862",
+      "n_samples": 44,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2022/08/17",
+      "title": "Systems spatiotemporal dynamics of traumatic brain injury at single cell resolution",
+      "summary": "The etiology of mild traumatic brain injury (mTBI) remains elusive due to the tissue and cellular heterogeneity of the affected brain regions that underlie cognitive impairments and subsequent neurological disorders. This complexity is further exacerbated by disrupted circuits within and between cel"
+    },
+    {
+      "accession": "GSE247339",
+      "n_samples": 41,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2023/11/20",
+      "title": "Thyroid Hormone T4 Mitigates Traumatic Brain Injury by Dynamically Remodeling Cell Type Specific Genes, Pathways, and Networks in Hippocampus and Frontal Cortex",
+      "summary": "The complex pathology of traumatic brain injury (TBI) is a main contributor to the difficulties in achieving a successful therapeutic regimen. Previously, we showed that thyroxine (T4) administration prevented the cognitive impairments induced by TBI in mice. To understand the underlying mechanism, "
+    },
+    {
+      "accession": "GSE213804",
+      "n_samples": 40,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2023/04/02",
+      "title": "Embryonic stem cell-derived brainstem and spinal astrocyte-like cells develop a neurotoxic phenotype in vitro following clinically relevant pro-inflammatory stimulation",
+      "summary": "Traumatic axonal injury (TAI) in the brainstem carries a particularly poor prognosis. Although the role of neuroinflammation in this process is incompletely characterized, astrogliosis has been shown to coincide with TAI. Moreover, astrogliotic forebrain astrocytes were recently shown to confer a to"
+    },
+    {
+      "accession": "GSE269748",
+      "n_samples": 36,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2024/07/02",
+      "title": "A single-cell atlas deconstructs heterogeneity across multiple models in murine traumatic brain injury and identifies novel cell-specific targets",
+      "summary": "The problem of traumatic brain injury (TBI) heterogeneity has been a critical barrier to successful translation of therapies in the field. TBI heterogeneity exists in the patient substrate pre-injury (genetics, sex, comorbidities), external injury characteristics (severity, mechanism), and resultant"
+    },
+    {
+      "accession": "GSE313407",
+      "n_samples": 34,
+      "taxon": "Mus musculus",
+      "gdstype": "Other",
+      "pubdate": "2025/12/17",
+      "title": "Adult Mouse Controlled Cortical Impact Visium Spatial Transcriptomics",
+      "summary": "Here we investigated the topographical relationship of early transcriptional responses to a single, focal TBI in mice by controlled cortical impact (CCI). Guided by the presence of the anterior commissure (AC) in coronal sections at the rostro-caudal point of impact, we compared gene expression chan"
+    },
+    {
+      "accession": "GSE319409",
+      "n_samples": 24,
+      "taxon": "Mus musculus",
+      "gdstype": "Other",
+      "pubdate": "2026/02/12",
+      "title": "Mapping the Secondary Response to Traumatic Brain Injury Using Spatial Transcriptomics Shows Acute 4-aminopyridine Treatment Mitigates Axonal and Molecular Pathology",
+      "summary": "Damage to long myelinated axons of white matter tracts is a hallmark pathology resulting from traumatic brain injury (TBI) forces and secondary injury processes. 4-aminopyridine (4-AP) is an FDA-approved Kv1 potassium channel inhibitor designed to mitigate axon dysfunction.  We examined repurposing "
+    },
+    {
+      "accession": "GSE189572",
+      "n_samples": 18,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2022/01/13",
+      "title": "Robust transcriptional profiling and identification of differentially expressed genes with low input RNA sequencing of adult hippocampal neural stem and progenitor populations [in vitro dilutions]",
+      "summary": "Multipotent neural stem cells (NSCs) are found in several isolated niches of the adult mammalian brain where they have unique potential to assist in tissue repair. Modern transcriptomics offer high-throughput methods for identifying disease or injury associated gene expression signatures in endogeno"
+    },
+    {
+      "accession": "GSE319914",
+      "n_samples": 16,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2026/08/19",
+      "title": "Endothelial miR-15a/16-1 regulation of Syne1 mediates structural and functional recovery after traumatic brain injury",
+      "summary": "Traumatic brain injury (TBI) disrupts the blood-brain barrier (BBB) and compromises endothelial function, leading to persistent neurological dysfunction. Although miR-15a/16-1 deletion has recently been shown to be neuroprotective in brain injury, the endothelial pathways mediating long-term structu"
+    },
+    {
+      "accession": "GSE282909",
+      "n_samples": 16,
+      "taxon": "Mus musculus",
+      "gdstype": "Other",
+      "pubdate": "2025/04/29",
+      "title": "Widespread and cell-type-specific transcriptomic reorganization following mild traumatic brain injury",
+      "summary": "Here, we examined the molecular landscape of Traumatic Brain Injury by employing Visium Spatial Transcriptomics on CHIMERA TBI mice."
+    },
+    {
+      "accession": "GSE271769",
+      "n_samples": 16,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2024/12/02",
+      "title": "Impact of severe traumatic brain injury (TBI) on cerebral blood flow and the endothelial cell phenotype",
+      "summary": "TBI causes the disruption of blood vessels in brain leading to hemorrhage, edema, and changes in cerebral blood flow. How such altered vascular and flow condition affect endothelial cells, the cellular unit of blood vessels, is not known. We used single cell RNA sequencing (scRNAseq) to analyze the "
+    },
+    {
+      "accession": "GSE240430",
+      "n_samples": 15,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2023/09/24",
+      "title": "Endothelial deletion of EPH receptor A4 alters single-cell profile and Tie2/Akap12 signaling to preserve blood-brain barrier integrity",
+      "summary": "Neurobiological consequences of traumatic brain injury (TBI) result from a complex interplay of secondary injury responses and sequela that mediates chronic disability. Endothelial cells are important regulators of the cerebrovascular response to TBI. Our work demonstrates that genetic deletion of e"
+    },
+    {
+      "accession": "GSE226207",
+      "n_samples": 15,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2023/08/25",
+      "title": "Shared inflammatory glial cell signature after brain injury, revealed by spatial, temporal and cell-type-specific profiling of the murine cerebral cortex [scRNA-Seq]",
+      "summary": "Traumatic brain injury leads to a highly orchestrated immune- and glial cell response partially responsible for long-lasting disability and the development of secondary neurodegenerative diseases. A holistic understanding of the mechanisms controlling the responses of specific cell types and their c"
+    },
+    {
+      "accession": "GSE206941",
+      "n_samples": 14,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2022/12/22",
+      "title": "The meningeal transciptional response to traumatic brain injury and aging",
+      "summary": "This SuperSeries is composed of the SubSeries listed below."
+    },
+    {
+      "accession": "GSE129927",
+      "n_samples": 13,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2019/04/18",
+      "title": "Single cell RNA sequencing of myeloid cell subsets in brain trauma links targeting Ccr2-dependent macrophages with both improved functional outcomes and a reduction in type I IFN responses from TBI microglia subsets",
+      "summary": "Traumatic brain injury (TBI) induces neuroinflammatory innate immune responses that plays roles in both worsening brain damage and facilitating functional recovery. A major goal is to understand the heterogeneity of the immune responses to TBI, and to precisely identify key components that impact fu"
+    },
+    {
+      "accession": "GSE277487",
+      "n_samples": 12,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2026/04/24",
+      "title": "Single-nucleus RNA-seq of mouse cortex following CCI-induced traumatic brain injury across multiple time points",
+      "summary": "This dataset provides single-nucleus transcriptomic profiles of mouse cortex following controlled cortical impact (CCI)-induced traumatic brain injury (TBI) across multiple time points, including control, 6 hours, 2 days, and 4 days. It enables the investigation of dynamic, cell-type-specific transc"
+    },
+    {
+      "accession": "GSE297412",
+      "n_samples": 12,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2025/05/25",
+      "title": "Zileuton protects against arachidonic acid/5-lipoxygenase/leukotriene axis-mediated neuroinflammation in experimental traumatic brain injury",
+      "summary": "Traumatic brain injury (TBI) is a leading cause of death and disability globally. Several studies have shown that 5-lipoxygenase (5-LOX) inhibition reduces leukotriene (LT) release and the inflammatory response, attenuating the development of respiratory diseases, myocardial infarction, and ischemic"
+    },
+    {
+      "accession": "GSE290150",
+      "n_samples": 12,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2025/04/21",
+      "title": "Single Cell RNA Sequencing after Moderate Traumatic Brain Injury: Effects of Therapeutic Hypothermia",
+      "summary": "Traumatic brain injury (TBI) initiates a cascade of cellular and molecular events that promote acute and long-term patterns of neuronal, glial, vascular, and synaptic vulnerability leading to lasting neurological deficits.  These complex responses lead to patterns of programmed cell death, diffuse a"
+    },
+    {
+      "accession": "GSE276648",
+      "n_samples": 12,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2025/01/15",
+      "title": "Effect of blocking the IL-10 receptor on the microglial transcriptomic signature following chronic traumatic brain injury and nasal anti-CD3 treatment",
+      "summary": "Investigating the impact of blocking the IL-10 receptor on the gene expression profile of microglia following chronic traumatic brain injury and nasal anti-CD3 treatment."
+    },
+    {
+      "accession": "GSE206932",
+      "n_samples": 12,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2022/12/22",
+      "title": "The meningeal transciptional response to traumatic brain injury and aging [Bulk-seq]",
+      "summary": "Emerging evidence suggests that the meningeal compartment plays instrumental roles in various neurological disorders and can modulate neurodevelopment and behavior. While this has sparked great interest in the meninges, we still lack fundamental knowledge about meningeal biology. Here, we utilized h"
+    },
+    {
+      "accession": "GSE175430",
+      "n_samples": 11,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2021/05/25",
+      "title": "Single cell RNA sequencing of post-traumatic brain injury day 4 ipsilateral brain leukocytes in C57BL/6 adult male mice",
+      "summary": "The goals of this project include 1) determining the cellular immune response induced by acute traumatic brain injury in vivo with a focus on microglia and monocyte/macrophages, and 2) correlate immune responses with improved function post-TBI in Ccr2-/- TBI mice, which lack monocyte infiltration in"
+    },
+    {
+      "accession": "GSE302776",
+      "n_samples": 10,
+      "taxon": "Mus musculus",
+      "gdstype": "Other",
+      "pubdate": "2025/09/05",
+      "title": "ALKBH5 Demethylates the m6A Modification of SOCS3 in Microglia/Macrophages and Alleviates Neuroinflammation after Brain Injury",
+      "summary": "Microglia/macrophage_induced neuroinflammation plays a crucial role in the progression of traumatic brain injury (TBI). However, the involvement of N6_methyladenosine (m6A) RNA modifications in this process remains elusive. Single_cell RNA sequencing (scRNA_seq) and m6A RNA immunoprecipitation seque"
+    },
+    {
+      "accession": "GSE260719",
+      "n_samples": 8,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing; Non-coding RNA profiling by high throughput sequencing",
+      "pubdate": "2024/10/23",
+      "title": "T cell infiltration as a novel therapeutic target in aged traumatic brain injury",
+      "summary": "Patients aged 65 years and older account for an increasing proportion of those who suffer from traumatic brain injury (TBI). Aged TBI patients experience increased morbidity and mortality compared to young TBI patients. Our prior data demonstrated that anti-CD49d antibody (aCD49d Ab), an FDA-approve"
+    },
+    {
+      "accession": "GSE230942",
+      "n_samples": 8,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2024/03/18",
+      "title": "Traumatic brain injury modifies adult hippocampal neural stem cell fate to promote neurogenesis at the cost of astrogliogenesis.",
+      "summary": "We aimed to assess how TBI affects hippocampal NSCs and their subsequent commitment to the neuronal or astroglial lineages. Using a controlled cortical impact model of TBI, single cell RNA sequencing and spatial transcriptomics, we observed a cell population-specific increase in NSC-derived neuronal"
+    },
+    {
+      "accession": "GSE179176",
+      "n_samples": 8,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2022/03/21",
+      "title": "Astrocyte-targeted gene delivery of interleukin 2 specifically increases brain-resident regulatory T cell numbers and protects against pathological neuroinflammation",
+      "summary": "The ability of immune-modulating biologics to prevent and reverse pathology has transformed recent clinical practice. Full utility in the neuroinflammation space, however, requires identification of both effective targets for local immune-modulation and a delivery system capable of crossing the bloo"
+    },
+    {
+      "accession": "GSE160763",
+      "n_samples": 8,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2020/11/15",
+      "title": "Single-cell sequencing of cortical cells following murine traumatic brain injury [scRNA-seq]",
+      "summary": "Traumatic brain injury (TBI) can lead to significant neuropsychiatric problemsand neurodegenerative pathologies, which develop and persist years after injury. Neuroinflammatory processes evolve over this same period. Cortical mRNA analysis  showed a  robust contribution of  microglia  to  neuroinfla"
+    },
+    {
+      "accession": "GSE318960",
+      "n_samples": 6,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2026/04/30",
+      "title": "Heterogenous microglial reactivity contrasts with stable vascular transcriptional programs in mouse models of Alzheimer’s, CADASIL, and Traumatic Brain Injury (ArcSwe data)",
+      "summary": "The extent to which the cerebrovasculature is affected in various brain disorders is still not well understood. To address this, we established a transcriptomic repository of major vascular cell types and microglia to compare the transcriptomic response in  mouse models of three human brain disorder"
+    },
+    {
+      "accession": "GSE272808",
+      "n_samples": 6,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2024/07/27",
+      "title": "Single-cell RNA sequencing analysis of the effect of 4-octyl itaconate administration on gene expression in immune cells isolated from traumatic brain injury mice brain",
+      "summary": "4-octyl itaconate regulates immune response of brain immune cells following traumatic brain injury."
+    },
+    {
+      "accession": "GSE101901",
+      "n_samples": 6,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2018/09/26",
+      "title": "Single cell sequencing of hippocampus tissues in traumatic brain injury",
+      "summary": "A single cell suspension was generated from 24hr TBI and Sham mouse hippocampi, and single-cell mRNAseq libraries were generated with Drop-Seq."
+    },
+    {
+      "accession": "GSE302863",
+      "n_samples": 5,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2025/09/05",
+      "title": "ALKBH5 Demethylates the m6A Modification of SOCS3 in Microglia/Macrophages and Alleviates Neuroinflammation after Brain Injury [scRNA-seq]",
+      "summary": "Microglia/macrophage-induced neuroinflammation plays a crucial role in the progression of traumatic brain injury (TBI). However, the involvement of N6-methyladenosine (m6A) RNA modifications in this process remains elusive. Single-cell RNA sequencing (scRNA-seq) and m6A RNA immunoprecipitation seque"
+    },
+    {
+      "accession": "GSE316519",
+      "n_samples": 4,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2026/09/17",
+      "title": "Interleukin-1 Receptor-1 Signaling Mediates Neuroinflammation, Neuronal Injury, and Cognitive Decline after Diffuse Traumatic Brain Injury",
+      "summary": "Traumatic brain injury (TBI) increases the risk of developing neuropsychiatric illness and cognitive impairment. Previous work indicates that inflammatory pathways associated with interleukin (IL)-1 and interferon signaling persist in the brain chronically after TBI. Several cell types in the brain "
+    },
+    {
+      "accession": "GSE260805",
+      "n_samples": 4,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2026/05/08",
+      "title": "Gene expression profile of immune cells at single cell level from the hippocampus and thalamus of mice after traumatic brain injury",
+      "summary": "Substantial microglial activation in the thalamus is observed after cortical injury. We used single-cell RNA-seq (scRNA-seq) to analyze the diversity of microglia in the hippocampus and thalamus after cortical injury."
+    },
+    {
+      "accession": "GSE236171",
+      "n_samples": 4,
+      "taxon": "Mus musculus",
+      "gdstype": "Other",
+      "pubdate": "2023/07/03",
+      "title": "Spatiotemporal trajectory analysis and validation of microglia activation in traumatic brain injury",
+      "summary": "Spatial transcriptomics (ST) is an innovative technology that holds tremendous potential for transforming the field of tissue biology research. By simultaneously capturing multiple types of spatial data, including gene expression values, spatial distance information, and tissue morphology, ST enable"
+    },
+    {
+      "accession": "GSE179541",
+      "n_samples": 4,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2021/09/14",
+      "title": "Complement factor C1q mediates sleep spindle disruption and epileptic spikes after mild brain injury",
+      "summary": "While traumatic brain injury (TBI) acutely disrupts the cortex, most TBI-related disabilities reflect secondary injuries that accrue over time. The thalamus is a likely site of secondary damage because of its reciprocal connections with the cortex. Using a mouse model of mild cortical injury that do"
+    },
+    {
+      "accession": "GSE333879",
+      "n_samples": 3,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2026/10/25",
+      "title": "A single-nucleus RNA sequencing dataset of the mouse hippocampus after controlled cortical impact with astrocyte-specific TGF-betaR1 knockout",
+      "summary": "Traumatic brain injury (TBI) drives a sustained neuroinflammatory response in which astrocytes are central effectors, and damage to the hippocampus is closely linked to long-term cognitive and emotional sequelae. We generated a single-nucleus RNA-seq (snRNA-seq) dataset of the ipsilateral hippocampu"
+    },
+    {
+      "accession": "GSE308044",
+      "n_samples": 3,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2026/09/25",
+      "title": "Multi-Organ Inflammatory and Endocrine Crosstalk Shapes the Early Brain Response to Combined Burn and Blast Injury",
+      "summary": "Thermal injury to the skin triggers a systemic response that affects the brain, with substantial evidence of blood–brain barrier disruption and neuroinflammation. By comparison, the consequences of combined burn and traumatic brain injury are largely unknown, despite their frequent co-occurrence in "
+    },
+    {
+      "accession": "GSE308368",
+      "n_samples": 3,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2026/02/18",
+      "title": "The IL-25–ILC2–IL-13 axis improves traumatic brain injury by mediating CXCL-10-dependent regulation of Blood Brain Barrier integrity",
+      "summary": "Traumatic brain injury (TBI) induces severe disruption of the blood brain barrier (BBB), a pivotal event that drives secondary neurological damage. Interleukin-25 (IL-25) has emerged as a key modulator of neuroinflammation, but its role and underlying mechanisms in BBB repair after TBI remain unclea"
+    },
+    {
+      "accession": "GSE316172",
+      "n_samples": 3,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2026/01/15",
+      "title": "scRNA-sequence of NeuroD1-astrocyte therapy post-TBI mouse",
+      "summary": "Astrocytes, the most abundant glial cells in the central nervous system (CNS), play a critical role in brain injury responses. While NeuroD1 overexpression in astrocytes has been shown to reverse glial scar formation and promote tissue repair in mouse models of traumatic brain injury (TBI), the unde"
+    },
+    {
+      "accession": "GSE305371",
+      "n_samples": 3,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2025/11/01",
+      "title": "scRNA-seq of NeuroD1-astrocyte therapy post-TBI mouse",
+      "summary": "Astrocytes, the most abundant glial cells in the central nervous system (CNS), play a critical role in brain injury responses. While NeuroD1 overexpression in astrocytes has been shown to reverse glial scar formation and promote tissue repair in mouse models of traumatic brain injury (TBI), the unde"
+    },
+    {
+      "accession": "GSE275711",
+      "n_samples": 2,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2026/05/08",
+      "title": "Gene expression profile of immune cells at single cell level from the thalamus of mice after traumatic brain injury and after anti-CD9 Ab treatment",
+      "summary": "Loss of synapses and cognitive impairment were mitigated by anti-CD9 Ab after cortical injury. We used single-cell RNA-seq (scRNA-seq) to analyze how microglial gene expression was altered by anti-CD9 Ab treatment after cortical injury."
+    },
+    {
+      "accession": "GSE327284",
+      "n_samples": 2,
+      "taxon": "Mus musculus",
+      "gdstype": "Other",
+      "pubdate": "2026/04/30",
+      "title": "Heterogenous microglial reactivity contrasts with stable vascular transcriptional programs in mouse models of Alzheimer’s, CADASIL, and Traumatic Brain Injury (Spatial data)",
+      "summary": "The extent to which the cerebrovasculature is affected in various brain disorders is still not well understood. To address this, we established a transcriptomic repository of major vascular cell types and microglia to compare the global transcriptomic response in mouse models of three human brain di"
+    },
+    {
+      "accession": "GSE292715",
+      "n_samples": 2,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2025/12/11",
+      "title": "Single-Cell Sequencing Reveals the Impact of Mild Traumatic Brain Injury on the Hippocampus",
+      "summary": "To elucidate molecular features of the cells of Hippocampus, their progeny at each differentiation stage, and surrounding cells in hippocampus undercontrolled cortical impact (CCI)  conditions, >15000 cells were profiled from matched hippocampus of 3 mice that had received CCI and 3 sham-operated co"
+    },
+    {
+      "accession": "GSE299005",
+      "n_samples": 2,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2025/06/05",
+      "title": "Impaired cortical neuronal homeostasis and cognition after diffuse traumatic brain injury are dependent on microglia and type I interferon responses",
+      "summary": "Neuropsychiatric complications including depression and cognitive decline develop in the years after traumatic brain injury (TBI), negatively affecting quality of life. Microglial and type 1 interferon (IFN-I) responses are associated with the transition from acute to chronic neuroinflammation after"
+    },
+    {
+      "accession": "GSE266610",
+      "n_samples": 2,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2025/04/09",
+      "title": "Expression Profiling of Cells In The Perilesional Area of Mouse Cerebral Cortex After Traumatic Brain Injury (TBI) with Immune-Modifying Particle (IMP) Treatment",
+      "summary": "To investigate the cell type specific responses to traumatic brain injury with and without PLGA-based immune-modifying nanoparticle treatments, We performed single cell RNA sequencing of perilesion are cells from mice that received TBI with and without IMP treatment."
+    },
+    {
+      "accession": "GSE262317",
+      "n_samples": 2,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2025/01/13",
+      "title": "The transcriptional response of cortical neurons to concussion reveals divergent fates after injury",
+      "summary": "Traumatic brain injury (TBI) is a risk factor for neurodegeneration, however little is known about how different neuron types respond to this kind of injury. In this study, we follow neuronal populations over several months after a single mild TBI (mTBI) to assess long ranging consequences of injury"
+    },
+    {
+      "accession": "GSE276065",
+      "n_samples": 2,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2024/09/04",
+      "title": "Gene expression file at single cell level of nerve cells in damaged areas of the cerebral cortex in mice with traumatic brain injury",
+      "summary": "Endothelial cells-derived extracellular vesicles can promote nerve function in mice with traumatic brain injury. We used snRNAseq to analyze the effects of extracellular vesicles derived from endothelial cells on nerve cells in mice with traumatic brain injury."
+    },
+    {
+      "accession": "GSE230253",
+      "n_samples": 2,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2023/09/04",
+      "title": "The hippocampus on Blast-related Traumatic Brain Injury at Single-cell Resolution",
+      "summary": "To elucidate molecular features of the cells of Hippocampus, their progeny at each differentiation stage, and surrounding cells in hippocampus under blast wave-induced changes, cells were profiled from matched hippocampus of 3 mice that had received blast injury and 3 controls.Cell type specific gen"
+    },
+    {
+      "accession": "GSE226208",
+      "n_samples": 2,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing; Other",
+      "pubdate": "2023/08/25",
+      "title": "Shared inflammatory glial cell signature after brain injury, revealed by spatial, temporal and cell-type-specific profiling of the murine cerebral cortex [spatial transcriptomics]",
+      "summary": "Traumatic brain injury leads to a highly orchestrated immune- and glial cell response partially responsible for long-lasting disability and the development of secondary neurodegenerative diseases. A holistic understanding of the mechanisms controlling the responses of specific cell types and their c"
+    },
+    {
+      "accession": "GSE206940",
+      "n_samples": 2,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2022/12/22",
+      "title": "The meningeal transciptional response to traumatic brain injury and aging [scRNA-seq]",
+      "summary": "Emerging evidence suggests that the meningeal compartment plays instrumental roles in various neurological disorders and can modulate neurodevelopment and behavior. While this has sparked great interest in the meninges, we still lack fundamental knowledge about meningeal biology. Here, we utilized h"
+    },
+    {
+      "accession": "GSE198074",
+      "n_samples": 2,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2022/06/28",
+      "title": "The Sub-ventricular Zone in Mild Traumatic Brain Injury at Single-cell Resolution",
+      "summary": "The subventricular zone (SVZ) is a neurogenetic niche that contributes to homeostasis and repair after brain injury. However, effects of mild traumatic brain injury (mTBI) on genomewide gene expression in the SVZ remain largely unexplored. To address this issue, we investigated the single-nucleus tr"
+    },
+    {
+      "accession": "GSE125976",
+      "n_samples": 2,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2022/01/01",
+      "title": "Single-cell RNA sequencing of post-traumatic brain injury day 4 ipsilateral brain leukocytes in C57BL/6 adult male mice",
+      "summary": "To determine immune response differences to TBI that correlate with improved function post-TBI in Ccr2-/- mice, single-cell RNA sequencing was performed on brain leukocytes from Ccr2-/- mice and wild type mice isolated during the acute TBI time point of 4 days post-TBI."
+    },
+    {
+      "accession": "GSE276567",
+      "n_samples": 1,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2026/09/05",
+      "title": "Cognitive dysfunction following brain trauma results from sex-specific reactivation of the developmental pruning processes [scRNA-Seq]",
+      "summary": "Cognitive losses resulting from severe brain trauma have long been associated with the focal region of tissue damage, leading to devastating functional impairment. For decades, researchers have focused on the sequelae of cellular alterations that exist within the perilesional tissues; however, few c"
+    },
+    {
+      "accession": "GSE207078",
+      "n_samples": 1,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2022/06/28",
+      "title": "Single-nucleus profiling of adult mice subventricular zone after blast-TBI",
+      "summary": "To elucidate molecular features of the cells of Sub-ventricular Zone (SVZ), their progeny at each differentiation stage, and surrounding cells in SVZ under blast wave-induced changes, cells were profiled from matched SVZ of 3 mice that had received blast injury and 3 controls（The controls sequencing"
+    },
+    {
+      "accession": "GSE189573",
+      "n_samples": 1,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2022/01/13",
+      "title": "Robust transcriptional profiling and identification of differentially expressed genes with low input RNA sequencing of adult hippocampal neural stem and progenitor populations [scRNA-Seq]",
+      "summary": "Multipotent neural stem cells (NSCs) are found in several isolated niches of the adult mammalian brain where they have unique potential to assist in tissue repair. Modern transcriptomics offer high-throughput methods for identifying disease or injury associated gene expression signatures in endogeno"
+    },
+    {
+      "accession": "GSE167942",
+      "n_samples": 1,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2021/05/01",
+      "title": "Repetitive mild closed head injury in adolescent mice is associated with impaired proteostasis, neuroinflammation, and tauopathy",
+      "summary": "Repetitive mild traumatic brain injury (mTBI) in children and adolescents leads to acute and chronic neurological sequelae and is linked by epidemiological data to later life neurodegenerative disease.  However, the biological mechanisms connecting early life mTBI to neurodegeneration remain unknown"
+    }
+  ],
+  "2_Human_TBI_or_Epilepsy_Surgical_SingleCell": [
+    {
+      "accession": "GSE322851",
+      "n_samples": 45,
+      "taxon": "Homo sapiens",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2026/03/29",
+      "title": "Inducible XIST-mediated trisomy 21 correction uncovers a USP16-p16 senescence axis driving epileptogenesis in Down syndrome",
+      "summary": "Down syndrome (DS), caused by human chromosome 21 (HSA21) trisomy, carries elevated epilepsy risk with unknown mechanisms. We integrated clinical epidemiology, fetal brain single-nucleus RNA sequencing, patient-derived induced pluripotent stem cell (iPSC) models, cerebral organoids, and in vivo chim"
+    },
+    {
+      "accession": "GSE159929",
+      "n_samples": 45,
+      "taxon": "Homo sapiens",
+      "gdstype": "Expression profiling by high throughput sequencing; Other",
+      "pubdate": "2020/11/09",
+      "title": "Single-cell transcriptome profiling of an adult human cell atlas of 15 major organs",
+      "summary": "Background: As core units of organ tissues, cells of various types play their harmonious rhythms to maintain the homeostasis of the human body. It is essential to identify the characteristics of cells in human organs and their regulatory networks for understanding the biological mechanisms related t"
+    },
+    {
+      "accession": "GSE237013",
+      "n_samples": 32,
+      "taxon": "Homo sapiens",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2023/08/09",
+      "title": "Mitochondria dysregulation contributes to secondary neurodegeneration progression post-contusion injury in human 3D in vitro triculture brain tissue model.",
+      "summary": "Traumatic Brain injury-induced disturbances in mitochondrial fission-and-fusion dynamics have been linked to the onset and propagation of neuroinflammation and neurodegeneration. However, cell-type-specific contributions and crosstalk between neurons, microglia, and astrocytes in mitochondria-driven"
+    },
+    {
+      "accession": "GSE209552",
+      "n_samples": 30,
+      "taxon": "Homo sapiens",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2023/03/03",
+      "title": "Single-cell transcriptomics of resected human traumatic brain injury tissues reveals acute activation of endogenous retroviruses in oligodendroglia",
+      "summary": "Traumatic brain injury (TBI) is a leading cause of chronic brain impairment and results in a robust, but poorly understood, neuroinflammatory response that contributes to the long-term pathology. We used snRNA-seq to study transcriptomic changes in different cell populations in human brain tissue ob"
+    },
+    {
+      "accession": "GSE140393",
+      "n_samples": 26,
+      "taxon": "Homo sapiens",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2020/10/29",
+      "title": "Glia-specific nuclei isolation and single cell transcriptomics inform astrocyte pathology in human temporal lobe epilepsy",
+      "summary": "The role of human glia in many neurological disorders is still poorly understood due to the lack of tools that reliably isolate specific glial subpopulations from bulk tissue, directly from their native niche. To better understand the contributions of glial pathology in human epilepsy, we developed "
+    },
+    {
+      "accession": "GSE223245",
+      "n_samples": 16,
+      "taxon": "Homo sapiens",
+      "gdstype": "Expression profiling by array",
+      "pubdate": "2023/02/02",
+      "title": "Integrated single-cell multiomics reveals novel immune candidate markers for post-traumatic coagulopathy",
+      "summary": "Introduction: Post-traumatic coagulopathy (PTC) is a critical pathology in traumatic brain injury (TBI), however, its potential mechanism is not clear. To explore this in peripheral samples, we integrated single cell RNA-sequencing and T cell repertoire (TCR)-sequencing across a cohort of patients w"
+    },
+    {
+      "accession": "GSE294775",
+      "n_samples": 14,
+      "taxon": "Homo sapiens",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2025/08/06",
+      "title": "Fate mapping of peripherally derived macrophages reveals a long-lasting engrafted population that maintains a distinct transcriptomic profile for up to 8 months after Traumatic Brain Injury IV",
+      "summary": "Traumatic Brain Injury (TBI) is one of the most established environmental risk factors for the development of dementia and long term neurological deficits representing a critical health problem for our society. It is well-established that TBI-induced neuroinflammation contributes to the long-lasting"
+    },
+    {
+      "accession": "GSE208672",
+      "n_samples": 14,
+      "taxon": "Homo sapiens",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2023/10/10",
+      "title": "Human inhibitory interneuron cell therapy for chronic focal epilepsy",
+      "summary": "Mesial temporal lobe epilepsy (MTLE) is the most common type of focal seizure disorder. In MTLE, seizures typically originate from a sclerotic hippocampus. Approximately one-third of patients do not respond to anti-seizure drugs and have few effective therapeutic options. Surgery to resect or ablate"
+    },
+    {
+      "accession": "GSE303810",
+      "n_samples": 8,
+      "taxon": "Homo sapiens",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2026/07/09",
+      "title": "snRNA-seq profiles distinguish anti-Drebrin- and anti-GAD65-positive encephalitis",
+      "summary": "Autoantibodies (ABs) against intracellular proteins, including glutamate-decarboxylase 65 (anti-GAD65), are increasingly recognized in autoimmune and limbic encephalitis (AE/LE). Anti-GAD65 LE frequently progresses into severe temporal lobe epilepsy (TLE), neuropathologically characterized by hippoc"
+    },
+    {
+      "accession": "GSE190452",
+      "n_samples": 8,
+      "taxon": "Homo sapiens",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2023/02/08",
+      "title": "Lipid-accumulated reactive astrocytes promote seizure activity in epilepsy [single-cell RNA-seq]",
+      "summary": "Abnormal lipid accumulation have been reported in patients with temporal lobe epilepsy (TLE) by in vivo magnetic resonance imaging (MRI). However, the role of astrocytes in the regulation of neuronal activity or lipid metabolism in epilepsy is unclear. Using single-nucleus RNA sequencing of TLE pati"
+    },
+    {
+      "accession": "GSE182398",
+      "n_samples": 6,
+      "taxon": "Homo sapiens",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2025/08/27",
+      "title": "Single-cell RNA-seq of traumatic brain injury samples",
+      "summary": "The pathological process of traumatic brain injury (TBI) is complicated, and endothelial cells (ECs) is critical in these pathological and physiological processes. In this study, ECs from surgically removed injury tissues were isolated, and then subjected to single-cell RNAseq to explore their trans"
+    },
+    {
+      "accession": "GSE190451",
+      "n_samples": 6,
+      "taxon": "Homo sapiens",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2023/02/08",
+      "title": "Lipid-accumulated reactive astrocytes promote seizure activity in epilepsy [Human bulk RNA-seq]",
+      "summary": "Abnormal lipid accumulation have been reported in patients with temporal lobe epilepsy (TLE) by in vivo magnetic resonance imaging (MRI). However, the role of astrocytes in the regulation of neuronal activity or lipid metabolism in epilepsy is unclear. Using single-nucleus RNA sequencing of TLE pati"
+    },
+    {
+      "accession": "GSE324211",
+      "n_samples": 4,
+      "taxon": "Homo sapiens",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2026/03/29",
+      "title": "Inducible XIST-mediated trisomy 21 correction uncovers a USP16-p16 senescence axis driving epileptogenesis in Down syndrome [scRNA-Seq]",
+      "summary": "Down syndrome (DS), caused by human chromosome 21 (HSA21) trisomy, carries elevated epilepsy risk with unknown mechanisms. We integrated clinical epidemiology, fetal brain single-nucleus RNA sequencing, patient-derived induced pluripotent stem cell (iPSC) models, cerebral organoids, and in vivo chim"
+    },
+    {
+      "accession": "GSE216877",
+      "n_samples": 4,
+      "taxon": "Homo sapiens",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2022/11/03",
+      "title": "Multi-modal characterization and simulation of human epileptic circuitry",
+      "summary": "Temporal lobe epilepsy is the fourth most common neurological disorder with about 40% of patients not responding to pharmacological treatment. Increased cellular loss in the hippocampus is linked to disease severity and pathological phenotypes such as heightened seizure propensity. While the hippoca"
+    },
+    {
+      "accession": "GSE260532",
+      "n_samples": 2,
+      "taxon": "Homo sapiens",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2024/03/04",
+      "title": "KCNJ2 inhibition mitigates mechanical injury in human brain organoids [scRNA-seq]",
+      "summary": "Traumatic brain injury (TBI) strongly correlates with neurodegenerative disease. However, it remains unclear which neurodegenerative mechanisms are intrinsic to the brain itself and which strategies most potently mitigate these processes, particularly in individuals genetically predisposed to neurod"
+    }
+  ],
+  "3_Mouse_Hippocampus_Epileptogenesis_SE_SingleCell_or_Timecourse": [
+    {
+      "accession": "GSE175965",
+      "n_samples": 320,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing; Genome binding/occupancy profiling by high throughput sequencing; Other",
+      "pubdate": "2022/12/16",
+      "title": "An NPAS4:NuA4 complex couples synaptic activity to DNA repair ",
+      "summary": "This SuperSeries is composed of the SubSeries listed below."
+    },
+    {
+      "accession": "GSE161619",
+      "n_samples": 304,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2021/10/02",
+      "title": "Recurrent rewiring of the adult hippocampal mossy fiber system by a single transcriptional regulator, Id2",
+      "summary": "Circuit formation in the central nervous system has been historically studied during development, after which cell-autonomous and nonautonomous wiring factors inactivate. In principle, balanced reactivation of such factors could enable further wiring in adults, but their relative contributions may b"
+    },
+    {
+      "accession": "GSE66762",
+      "n_samples": 49,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by array",
+      "pubdate": "2016/01/04",
+      "title": "HT-project: Expression profiling after prolonged experimental febrile seizures suggests structural remodeling in the hippocampus",
+      "summary": "Febrile seizures are the most prevalent type of seizures among children up to 5 years of age (2-4% of Western-European children). Complex febrile seizures are associated with an increased risk to develop temporal lobe epilepsy. To investigate short- and long-term effects of experimental febrile seiz"
+    },
+    {
+      "accession": "GSE319769",
+      "n_samples": 36,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2026/04/16",
+      "title": "Transcriptomic profiling of the intra-amygdala kainate mouse model across the stages of epileptogenesis",
+      "summary": "Mesial temporal lobe epilepsy (MTLE) is a prevalent form of drug-resistant epilepsy often associated with hippocampal sclerosis (HS). While various rodent models exist to study this condition, their molecular fidelity to human MTLE requires detailed evaluation. As part of a larger cross-species tran"
+    },
+    {
+      "accession": "GSE330624",
+      "n_samples": 32,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2026/09/28",
+      "title": "A stage-resolved neuron-glia transcriptional atlas reveals a glial inflammatory pivot in epilepsy",
+      "summary": "Abstract Background Epileptogenesis transforms a healthy brain into an epileptic network, yet the temporal and cell-type-specific molecular events driving this transition remain poorly defined. Neuron-glia interactions are essential in this process, but no study has systematically charted their tran"
+    },
+    {
+      "accession": "GSE306031",
+      "n_samples": 31,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2026/07/30",
+      "title": "Single-Nucleus Transcriptomics Reveals Cell Type-Specific Remodeling and Epilepsy Associated Microglia",
+      "summary": "In acquired epilepsy, an inciting injury is believed to trigger epileptogenesis, leading to dysfunctional networks that have both a propensity to give rise to seizures as well as impair normal cogntition. We have performed single nucleus sequencing on hippocampal tissue from a mouse model of tempora"
+    },
+    {
+      "accession": "GSE22994",
+      "n_samples": 15,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by array",
+      "pubdate": "2013/12/31",
+      "title": "Global gene profiling of kainate-induced neuronal death",
+      "summary": "It has long been established that in neurological disease models, KA is a potent excitotoxin, mediating acute limbic seizures and long-term morphologic changes in the hippocampus, which are hallmark characteristics seen in temporal lobe epilepsy (i.e. mossy-fiber sprouting, neuronal loss, and reacti"
+    },
+    {
+      "accession": "GSE175958",
+      "n_samples": 10,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2022/12/16",
+      "title": "An NPAS4:NuA4 complex couples synaptic activity to DNA repair [snRNA-seq]",
+      "summary": "Neuronal activity is critical for adaptive circuit remodeling but poses an inherent risk to the stability of the genome across the long lifespan of post-mitotic neurons. Whether neurons have acquired specialized genome protection mechanisms that enable them to withstand decades of potentially damagi"
+    },
+    {
+      "accession": "GSE343089",
+      "n_samples": 8,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2026/09/15",
+      "title": "Single-nucleus transcriptomic analysis reveals subfield-specific cell-to-cell synaptic reorganisation of the mouse hippocampus in focal temporal lobe epilepsy",
+      "summary": "Preclinical animal models are critical tools for studying the pathophysiology of epilepsy. Here, we generated a single-nucleus RNA-seq dataset from ipsilateral hippocampi collected two weeks after status epilepticus in the mouse intra-amygdala kainic acid model, including kainic acid-treated and PBS"
+    },
+    {
+      "accession": "GSE318570",
+      "n_samples": 4,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2026/02/18",
+      "title": "Inhibition of Astrocytic MAGL Reprograms Glial Reactivity and Prevents Seizure Sequelae",
+      "summary": "Background Temporal lobe epilepsy (TLE) is the most common form of focal epilepsy and is characterized by a pathological cascade of excitotoxicity that leads to neuroinflammation, progressive neuronal loss, and subsequent cognitive decline. Despite its prevalence, effective disease-modifying therapi"
+    },
+    {
+      "accession": "GSE274303",
+      "n_samples": 2,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2024/10/21",
+      "title": "A novel anti-epileptogenesis strategy of temporal lobe epilepsy based on nitric oxide donor",
+      "summary": "The molecular mechanism underlying the role of hippocampal hilar interneuron degeneration in temporal lobe epilepsy (TLE) remains unclear. Especially, very few studies have focused on the role of neuronal nitric oxide synthase (nNOS, encoded by Nos1) containing hilar interneurons in TLE. In the pres"
+    }
+  ],
+  "4_Hippocampus_TBI_or_SE_Chromatin_Epigenomics": [
+    {
+      "accession": "GSE173975",
+      "n_samples": 22,
+      "taxon": "Rattus norvegicus",
+      "gdstype": "Expression profiling by high throughput sequencing; Genome binding/occupancy profiling by high throughput sequencing",
+      "pubdate": "2021/10/31",
+      "title": "Transcriptional Pathology Evolves Over Time in Rat Hippocampus Following Lateral Fluid Percussion Traumatic Brain Injury",
+      "summary": "Traumatic brain injury (TBI) causes acute and lasting impacts on the brain, driving pathology along anatomical, cellular, and behavioral dimensions. Rodent models offer the opportunity to study TBI in a controlled setting, and enable analysis of the temporal progression that occurs from injury to re"
+    },
+    {
+      "accession": "GSE326007",
+      "n_samples": 12,
+      "taxon": "Mus musculus",
+      "gdstype": "Genome binding/occupancy profiling by high throughput sequencing",
+      "pubdate": "2026/07/15",
+      "title": "Genome-wide analysis of histone H3K18 lactylation in a kainic acid-induced epilepsy model",
+      "summary": "Metabolic reprogramming has been increasingly linked to epilepsy, but the epigenetic mechanisms connecting altered glucose metabolism to seizure susceptibility remain incompletely understood. In this study, we aimed to investigate whether lactate-associated histone modification contributes to epilep"
+    },
+    {
+      "accession": "GSE175958",
+      "n_samples": 10,
+      "taxon": "Mus musculus",
+      "gdstype": "Expression profiling by high throughput sequencing",
+      "pubdate": "2022/12/16",
+      "title": "An NPAS4:NuA4 complex couples synaptic activity to DNA repair [snRNA-seq]",
+      "summary": "Neuronal activity is critical for adaptive circuit remodeling but poses an inherent risk to the stability of the genome across the long lifespan of post-mitotic neurons. Whether neurons have acquired specialized genome protection mechanisms that enable them to withstand decades of potentially damagi"
+    },
+    {
+      "accession": "GSE285372",
+      "n_samples": 7,
+      "taxon": "Mus musculus",
+      "gdstype": "Genome binding/occupancy profiling by high throughput sequencing",
+      "pubdate": "2025/09/17",
+      "title": "Fos binding in hippocampal chromain 1 h after peritoneal KA administration",
+      "summary": "Fos induction is the most commonly used marker of neuronal activation. Here, we investigate the binding profile of Fos in the adult mouse hippocampus using antibodies specific against this transcription factor and the chromatin Immunoprecipitation coupled to DNA-sequencing (ChIP-seq) method.  We gen"
+    },
+    {
+      "accession": "GSE292126",
+      "n_samples": 6,
+      "taxon": "Mus musculus",
+      "gdstype": "Genome binding/occupancy profiling by high throughput sequencing",
+      "pubdate": "2025/12/11",
+      "title": "ATAC-Seq Reveals the Impact of Mild Traumatic Brain Injury on the Hippocampus",
+      "summary": "To elucidate the epigenomic features of hippocampal cells following mTBI, approximately 50,000 nuclei were profiled from matched hippocampal tissues of three mice subjected to controlled cortical impact (CCI) and three sham-operated controls. Cell type-specific chromatin accessibility changes in res"
+    },
+    {
+      "accession": "GSE96721",
+      "n_samples": 2,
+      "taxon": "Mus musculus",
+      "gdstype": "Genome binding/occupancy profiling by high throughput sequencing",
+      "pubdate": "2017/06/25",
+      "title": "CDYL ChIP-Seq in mouse hippocampus",
+      "summary": "Here we report that the epigenetic factor Chromodomain Y-like (CDYL) protein is a critical regulator for the initiation and maintenance of activity-dependent intrinsic neuroplasticity. Genome-wide ChIP-sequencing analysis revealed that CDYL regulates multiple neuronal functional pathways including v"
+    }
+  ]
+}

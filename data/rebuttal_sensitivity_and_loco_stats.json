@@ -1,0 +1,139 @@
+{
+  "T1_and_T9_clinical_trials": {
+    "completed_halted_only_n119": {
+      "total_n": 119,
+      "high_tau_n": 89,
+      "high_tau_fail_n": 2,
+      "high_tau_fail_pct": 2.25,
+      "low_mod_tau_n": 30,
+      "low_mod_tau_fail_n": 8,
+      "low_mod_tau_fail_pct": 26.67,
+      "odds_ratio": 15.82,
+      "haldane_anscombe_or": 13.22,
+      "fisher_two_sided_p": 0.0002276727910260475
+    },
+    "scientifically_evaluable_completed_or_failed_n93": {
+      "total_n": 92,
+      "high_tau_n": 67,
+      "high_tau_fail_n": 2,
+      "high_tau_fail_pct": 2.99,
+      "low_mod_tau_n": 25,
+      "low_mod_tau_fail_n": 8,
+      "low_mod_tau_fail_pct": 32.0,
+      "odds_ratio": 15.29,
+      "haldane_anscombe_or": 12.73,
+      "fisher_two_sided_p": 0.0003510785811914377
+    },
+    "pharmacotherapy_and_biologics_only_n60": {
+      "total_n": 60,
+      "high_tau_drug_biologic_n": 35,
+      "high_tau_fail_n": 2,
+      "high_tau_fail_pct": 5.71,
+      "pleiotropic_drug_n": 25,
+      "pleiotropic_fail_n": 8,
+      "pleiotropic_fail_pct": 32.0,
+      "odds_ratio": 7.76,
+      "haldane_anscombe_or": 6.51,
+      "fisher_one_sided_p": 0.009527412623913623,
+      "fisher_two_sided_p": 0.01196234549494634,
+      "abi_molecular_n": 51,
+      "abi_molecular_high_tau_fail": "0/27 (0.00%)",
+      "abi_molecular_low_tau_fail": "8/24 (33.33%)",
+      "abi_molecular_haldane_or": 28.33,
+      "abi_molecular_fisher_p": 0.0011550151975683893,
+      "completed_halted_drug_biologic_n": 38,
+      "completed_halted_high_tau_fail": "2/19 (10.53%)",
+      "completed_halted_pleio_fail": "8/19 (42.11%)",
+      "completed_halted_or": 6.18,
+      "completed_halted_fisher_p": 0.06249641288573434,
+      "within_pharm_fail_vs_pass_tau2_auroc": 0.774,
+      "within_pharm_fail_vs_pass_tau2_p": 0.006317146538316839,
+      "tau_t2_mannwhitney_p_within_pharm": 3.872569811939195e-11,
+      "cwas_mannwhitney_p_within_pharm": 3.853070827908402e-11,
+      "multivariable_adjusted_or_low_tau": 9.06,
+      "multivariable_adjusted_wald_p": 0.009492695191809508
+    },
+    "paired_bootstrap_roc_gain": {
+      "delta_auroc_cwas_vs_unfiltered_t0": 0.367,
+      "delta_auroc_cwas_vs_deconvolved_t0": 0.001,
+      "delta_auroc_tau2_vs_deconvolved_t0": -0.012,
+      "delta_auroc_tmin_vs_unfiltered_t0": 0.356,
+      "boot_mean_delta_cwas_vs_t0": 0.001,
+      "boot_ci95_delta_cwas_vs_t0": [
+        -0.028,
+        0.03
+      ],
+      "boot_p_cwas_vs_t0": 0.959,
+      "boot_p_cwas_vs_unfiltered": 0.0
+    }
+  },
+  "T3_vglia_niche_loco_and_sensitivity": {
+    "n_public_benchmark_points": 16,
+    "modality_breakdown": {
+      "Microglia_Storm_Pct": 4,
+      "Astro_BBB_Pct": 4,
+      "Chromatin_Lock_Pct": 4,
+      "Neuronal_Gate_Pct": 4
+    },
+    "in_sample_full_r": 0.935,
+    "in_sample_full_r2": 0.874,
+    "in_sample_full_p": 1.1135790362785407e-07,
+    "loro_16fold_out_of_sample_r": 0.908,
+    "loro_16fold_out_of_sample_r2": 0.823,
+    "loro_16fold_out_of_sample_p": 1.1751427693538065e-06,
+    "loro_16fold_normalized_rmse": 0.0983,
+    "loco_cv_out_of_sample_r": 0.909,
+    "loco_cv_out_of_sample_r2": 0.821,
+    "loco_cv_out_of_sample_p": 1.1018954976772279e-06,
+    "loco_cv_normalized_rmse": 0.099,
+    "sensitivity_1000mc_20pct": {
+      "e_crit_nominal": 9.5,
+      "e_crit_ci95_range": [
+        7.7,
+        11.3
+      ],
+      "t50_nominal_hr": 16.4,
+      "t50_median_hr": 16.6,
+      "t50_iqr_hr": [
+        15.4,
+        17.6
+      ],
+      "t50_ci95_hr": [
+        13.8,
+        19.6
+      ],
+      "late_mono_c72_mean_pct": 25.8,
+      "late_mono_c72_sd_pct": 3.2,
+      "combo_24h_c72_mean_pct": 97.9,
+      "combo_24h_c72_sd_pct": 0.4,
+      "late_monotherapy_trapped_pct": 100.0,
+      "triple_combo_24h_rescued_pct": 100.0
+    }
+  },
+  "T4_internal_control_archetypes": {
+    "archetype_I_n": 26,
+    "archetype_I_mean_tau0": 0.846,
+    "archetype_I_mean_tau2": 0.731,
+    "archetype_I_mean_delta_tau": -0.116,
+    "archetype_II_neuronal_gate_n": 44,
+    "archetype_II_mean_tau0": 0.788,
+    "archetype_II_mean_tau2": 0.807,
+    "archetype_II_mean_delta_tau": 0.019,
+    "archetype_III_decoy_n": 31,
+    "archetype_III_mean_tau0": 0.77,
+    "archetype_III_mean_tau2": 0.687,
+    "archetype_III_mean_delta_tau": -0.092,
+    "archetype_IV_artifact_n": 32,
+    "archetype_IV_mean_tau0": 0.789,
+    "archetype_IV_mean_tau2": 0.705,
+    "archetype_IV_mean_delta_tau": -0.077,
+    "mannwhitney_archII_vs_archIII_delta_u": 925.0,
+    "mannwhitney_archII_vs_archIII_delta_p": 0.0003658770607081714,
+    "kruskal_4archetypes_delta_h": 22.37,
+    "kruskal_4archetypes_delta_p": 5.4547070461618336e-05,
+    "mannwhitney_archII_vs_archIII_tau2_u": 947.5,
+    "mannwhitney_archII_vs_archIII_tau2_p": 0.004355643314365385,
+    "kruskal_4archetypes_tau2_h": 8.7,
+    "kruskal_4archetypes_tau2_p": 0.03356196143871282
+  }
+}

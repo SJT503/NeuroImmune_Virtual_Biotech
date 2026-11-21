@@ -1,0 +1,62 @@
+{
+  "Division4_ClinicalTrialsGov_Live_TBI_Neuroimmune_Trials.csv": {
+    "local_isolated_path": "D:\\AI工具\\NeuroImmune_Virtual_Biotech\\flagship_paper\\data\\Division4_ClinicalTrialsGov_Live_TBI_Neuroimmune_Trials.csv",
+    "size_bytes": 79032,
+    "status": "VERIFIED_ISOLATED_PUBLIC",
+    "sha256": "aa957ada6ee5211170996638ccb720609540d41c8712b6f99081ec4421828c88"
+  },
+  "Division4_Retrospective_Trial_Failure_and_Precision_Ledger.csv": {
+    "local_isolated_path": "D:\\AI工具\\NeuroImmune_Virtual_Biotech\\flagship_paper\\data\\Division4_Retrospective_Trial_Failure_and_Precision_Ledger.csv",
+    "size_bytes": 4331,
+    "status": "VERIFIED_ISOLATED_PUBLIC",
+    "sha256": "ee54c85676faea946f92272d9f7e3f2aed5c55315de970bd673a9ad0d1064f2f"
+  },
+  "Phase1_Virtual_CSO_Target_Priority_Ledger_133Genes.csv": {
+    "local_isolated_path": "D:\\AI工具\\NeuroImmune_Virtual_Biotech\\flagship_paper\\data\\Phase1_Virtual_CSO_Target_Priority_Ledger_133Genes.csv",
+    "size_bytes": 94364,
+    "status": "VERIFIED_ISOLATED_PUBLIC",
+    "sha256": "665b3d4970b875e3c90d3c45d6fdb15cbd7c400847fa0f3d25e65735722c2f42"
+  },
+  "Phase3_vGliaNiche_72hr_Trajectories.csv": {
+    "local_isolated_path": "D:\\AI工具\\NeuroImmune_Virtual_Biotech\\flagship_paper\\data\\Phase3_vGliaNiche_72hr_Trajectories.csv",
+    "size_bytes": 391499,
+    "status": "VERIFIED_ISOLATED_PUBLIC",
+    "sha256": "ae7c998385fc4c2248188c943f176d4e15049a29e2fcea01bc568caf78465064"
+  },
+  "Phase3_vGliaNiche_ChronoTrial_Summary_vs_PublicCohorts.csv": {
+    "local_isolated_path": "D:\\AI工具\\NeuroImmune_Virtual_Biotech\\flagship_paper\\data\\Phase3_vGliaNiche_ChronoTrial_Summary_vs_PublicCohorts.csv",
+    "size_bytes": 1575,
+    "status": "VERIFIED_ISOLATED_PUBLIC",
+    "sha256": "7dec9c45d66ce3fb888f9005432cd78b47777f5a08dfc774223a814b69a219b5"
+  },
+  "Phase3_vGliaNiche_CellBehavior_Grammar_Rules.json": {
+    "local_isolated_path": "D:\\AI工具\\NeuroImmune_Virtual_Biotech\\flagship_paper\\data\\Phase3_vGliaNiche_CellBehavior_Grammar_Rules.json",
+    "size_bytes": 2886,
+    "status": "VERIFIED_ISOLATED_PUBLIC",
+    "sha256": "0a5813278a6e5649c6bb062c8c91b44ce7df96e04c9469292fa90a39658f0aeb"
+  },
+  "GSE180862_sc_gene_celltype_dotplot_matrix.csv": {
+    "local_isolated_path": "D:\\AI工具\\NeuroImmune_Virtual_Biotech\\flagship_paper\\data\\GSE180862_sc_gene_celltype_dotplot_matrix.csv",
+    "size_bytes": 281959,
+    "status": "VERIFIED_ISOLATED_PUBLIC",
+    "sha256": "560aa1ea258bcc7c35df61d2eeab47284b10cba43bd0e55d1f76d9c92de93883"
+  },
+  "GSE180862_sc_gene_primary_celltype_assignment.csv": {
+    "local_isolated_path": "D:\\AI工具\\NeuroImmune_Virtual_Biotech\\flagship_paper\\data\\GSE180862_sc_gene_primary_celltype_assignment.csv",
+    "size_bytes": 15439,
+    "status": "VERIFIED_ISOLATED_PUBLIC",
+    "sha256": "f94cbdd867dfbba543744632e0d4844ea431f742204baae484994e26774ed8fe"
+  },
+  "GSE63808_human_129patients_glia_vs_neuron_scores.csv": {
+    "local_isolated_path": "D:\\AI工具\\NeuroImmune_Virtual_Biotech\\flagship_paper\\data\\GSE63808_human_129patients_glia_vs_neuron_scores.csv",
+    "size_bytes": 12289,
+    "status": "VERIFIED_ISOLATED_PUBLIC",
+    "sha256": "934025f13578cf2992391146fefd81125b1f159555c2e2b39e14db73021fdc85"
+  },
+  "cns_agent_papers_metadata.json": {
+    "local_isolated_path": "D:\\AI工具\\NeuroImmune_Virtual_Biotech\\flagship_paper\\data\\cns_agent_papers_metadata.json",
+    "size_bytes": 45095,
+    "status": "VERIFIED_ISOLATED_PUBLIC",
+    "sha256": "1f6268220332d10fdc64dd0ebabc1211448c3930b3ddc2dbda09a714209f51d0"
+  }
+}

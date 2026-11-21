@@ -1,0 +1,147 @@
+{
+  "pillar_2a_clinical_protocol_chrono_factorial": {
+    "total_trials": 230,
+    "explicit_hour_criterion_n": 47,
+    "explicit_day_criterion_n": 10,
+    "stage1_pre_separatrix_le16_4h_n": 18,
+    "stage2_subacute_16_4_to_72h_n": 91,
+    "stage3_chronic_gt72h_n": 121,
+    "pharmacotherapy_biologics_2x2_factorial": {
+      "HighTau_PreSeparatrix_le16_4h": {
+        "n_trials": 6,
+        "n_failed": 0,
+        "failure_rate_pct": 0.0,
+        "example_ncts": [
+          "NCT01048138",
+          "NCT01058395",
+          "NCT02997371",
+          "NCT06966830",
+          "NCT06401707"
+        ]
+      },
+      "HighTau_PostSeparatrix_gt16_4h": {
+        "n_trials": 36,
+        "n_failed": 2,
+        "failure_rate_pct": 5.56,
+        "example_ncts": [
+          "NCT05226780",
+          "NCT04639310",
+          "NCT07861126",
+          "NCT05632627",
+          "NCT06146062"
+        ]
+      },
+      "LowModTau_PreSeparatrix_le16_4h": {
+        "n_trials": 7,
+        "n_failed": 3,
+        "failure_rate_pct": 42.86,
+        "example_ncts": [
+          "NCT01143064",
+          "NCT01730443",
+          "NCT00822900",
+          "NCT00048646",
+          "NCT03138876"
+        ]
+      },
+      "LowModTau_PostSeparatrix_gt16_4h": {
+        "n_trials": 35,
+        "n_failed": 5,
+        "failure_rate_pct": 14.29,
+        "example_ncts": [
+          "NCT03061565",
+          "NCT02148367",
+          "NCT00987454",
+          "NCT05671692",
+          "NCT00004817"
+        ]
+      }
+    },
+    "explicit_hour_gated_2x2_factorial": {
+      "HighTau_PreSeparatrix_le16_4h": {
+        "n_trials": 7,
+        "n_failed": 0,
+        "failure_rate_pct": 0.0
+      },
+      "HighTau_PostSeparatrix_gt16_4h": {
+        "n_trials": 25,
+        "n_failed": 0,
+        "failure_rate_pct": 0.0
+      },
+      "LowModTau_PreSeparatrix_le16_4h": {
+        "n_trials": 5,
+        "n_failed": 3,
+        "failure_rate_pct": 60.0
+      },
+      "LowModTau_PostSeparatrix_gt16_4h": {
+        "n_trials": 10,
+        "n_failed": 1,
+        "failure_rate_pct": 10.0
+      }
+    }
+  },
+  "pillar_2b_human_gse63808_129patients_separatrix": {
+    "total_patients": 129,
+    "separatrix_glial_z_threshold": 0.312,
+    "collapse_neuronal_z_threshold": -0.454,
+    "equivalent_e_crit_storm_hr": 9.5,
+    "pre_separatrix_n": 96,
+    "pre_separatrix_collapse_n": 14,
+    "pre_separatrix_collapse_pct": 14.58,
+    "pre_separatrix_mean_neuronal_z": 0.167,
+    "post_separatrix_n": 33,
+    "post_separatrix_collapse_n": 19,
+    "post_separatrix_collapse_pct": 57.58,
+    "post_separatrix_mean_neuronal_z": -0.485,
+    "odds_ratio_gate_collapse": 7.95,
+    "fisher_two_sided_p": 3.833742933862704e-06,
+    "mannwhitney_neuronal_z_p": 1.3366717709923518e-08,
+    "binned_trajectory": {
+      "bin_centers_glial_z": [
+        -0.606,
+        -0.316,
+        -0.075,
+        0.207,
+        0.788
+      ],
+      "bin_mean_neuronal_z": [
+        0.456,
+        0.272,
+        0.027,
+        -0.228,
+        -0.526
+      ],
+      "bin_se_neuronal_z": [
+        0.107,
+        0.118,
+        0.105,
+        0.07,
+        0.078
+      ],
+      "bin_collapse_pct": [
+        7.7,
+        11.5,
+        16.0,
+        26.9,
+        65.4
+      ],
+      "bin_counts": [
+        26,
+        26,
+        25,
+        26,
+        26
+      ]
+    }
+  },
+  "d2_cross_species_single_cell_tau_validation": {
+    "cso_elite_n21_mean_gse247339_tau": 0.789,
+    "arch3_decoy_n31_mean_gse247339_tau": 0.679,
+    "gse247339_tau_mannwhitney_p": 0.04347039813372591,
+    "cso_elite_n21_mean_hum_gse209552_tau": 0.736,
+    "arch3_decoy_n31_mean_hum_gse209552_tau": 0.658,
+    "hum_gse209552_tau_mannwhitney_p": 0.12355680442869316,
+    "cso_elite_n21_mean_hum_gse209552_auc": 0.713,
+    "arch3_decoy_n31_mean_hum_gse209552_auc": 0.72,
+    "hum_gse209552_auc_mannwhitney_p": 0.8590353628495364
+  }
+}

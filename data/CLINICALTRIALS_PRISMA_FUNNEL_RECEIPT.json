@@ -1,0 +1,17 @@
+{
+  "search_date": "2026-10-28",
+  "api_endpoint": "https://clinicaltrials.gov/api/v2/studies (Untruncated Pagination)",
+  "search_axes": {
+    "Axis1_TBI_Neuroinflammation_Neuroprotection": 117,
+    "Axis2_TBI_Excitotoxicity_Epileptogenesis_Circuit": 236,
+    "Axis3_PTE_StatusEpilepticus_SecondaryCascade": 17
+  },
+  "step1_raw_identified_records": 370,
+  "step2_deduplicated_unique_nct_records": 349,
+  "duplicates_removed": 21,
+  "step3_excluded_non_tbi_metabolic_congenital_neonatal": 30,
+  "step3_remaining_acquired_tbi_pte_se": 319,
+  "step4_excluded_observational_diagnostic_or_non_mechanistic": 89,
+  "step4_final_eligible_prisma_cohort": 230,
+  "zero_off_axis_verification": "0 hepatic encephalopathy, 0 neonatal HIE, 0 congenital Dravet/Lennox-Gastaut, 0 neurodegenerative"
+}

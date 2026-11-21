@@ -1,0 +1,357 @@
+{
+  "total_trials": 230,
+  "total_enrolled_planned": 98119,
+  "operational_covid_accrual_stops_n": 27,
+  "scientific_translational_failures_n": 10,
+  "high_tau_n": 188,
+  "high_tau_sci_failure_n": 2,
+  "high_tau_sci_failure_pct": 1.06,
+  "low_mod_tau_n": 42,
+  "low_mod_tau_sci_failure_n": 8,
+  "low_mod_tau_sci_failure_pct": 19.05,
+  "sci_failure_odds_ratio": 21.88,
+  "sci_failure_haldane_or": 18.38,
+  "sci_failure_fisher_p": 2.307333913697499e-05,
+  "roc_unfiltered_registry_stop_static_tau0": {
+    "auroc": 0.501,
+    "ci95": [
+      0.39,
+      0.616
+    ],
+    "p": 0.9928327199436268
+  },
+  "roc_sci_failure_static_tau0": {
+    "auroc": 0.866,
+    "ci95": [
+      0.817,
+      0.913
+    ],
+    "p": 3.3813806545449246e-05
+  },
+  "roc_sci_failure_dynamic_tau1": {
+    "auroc": 0.883,
+    "ci95": [
+      0.838,
+      0.926
+    ],
+    "p": 1.4471553051169747e-05
+  },
+  "roc_sci_failure_dynamic_tau2": {
+    "auroc": 0.854,
+    "ci95": [
+      0.78,
+      0.915
+    ],
+    "p": 6.145425393738005e-05
+  },
+  "roc_sci_failure_dynamic_tmin": {
+    "auroc": 0.857,
+    "ci95": [
+      0.81,
+      0.903
+    ],
+    "p": 5.3899721516106715e-05
+  },
+  "roc_sci_failure_cwas": {
+    "auroc": 0.868,
+    "ci95": [
+      0.822,
+      0.912
+    ],
+    "p": 5.5155642644726974e-05
+  },
+  "roc_sci_failure_vbtcs": {
+    "auroc": 0.86,
+    "ci95": [
+      0.813,
+      0.905
+    ],
+    "p": 7.894226125295356e-05
+  },
+  "strata": {
+    "full_230_registry": {
+      "n_trials": 230,
+      "total_participants": 98119,
+      "operational_stops_n": 27,
+      "scientific_failures_n": 10,
+      "high_tau_n": 188,
+      "high_tau_sci_failure_n": 2,
+      "high_tau_sci_failure_pct": 1.06,
+      "low_mod_tau_n": 42,
+      "low_mod_tau_sci_failure_n": 8,
+      "low_mod_tau_sci_failure_pct": 19.05,
+      "fisher_exact_or": 21.88,
+      "haldane_anscombe_or": 18.38,
+      "fisher_exact_p": 2.307333913697499e-05,
+      "roc_unfiltered_stop_tau0": {
+        "auroc": 0.501,
+        "ci95": [
+          0.39,
+          0.616
+        ],
+        "p": 0.9928327199436268
+      },
+      "roc_sci_failure_tau0": {
+        "auroc": 0.866,
+        "ci95": [
+          0.817,
+          0.913
+        ],
+        "p": 3.3813806545449246e-05
+      },
+      "roc_sci_failure_tau1": {
+        "auroc": 0.883,
+        "ci95": [
+          0.838,
+          0.926
+        ],
+        "p": 1.4471553051169747e-05
+      },
+      "roc_sci_failure_tau2": {
+        "auroc": 0.854,
+        "ci95": [
+          0.78,
+          0.915
+        ],
+        "p": 6.145425393738005e-05
+      },
+      "roc_sci_failure_tmin": {
+        "auroc": 0.857,
+        "ci95": [
+          0.81,
+          0.903
+        ],
+        "p": 5.3899721516106715e-05
+      },
+      "roc_sci_failure_cwas": {
+        "auroc": 0.868,
+        "ci95": [
+          0.822,
+          0.912
+        ],
+        "p": 5.5155642644726974e-05
+      },
+      "roc_sci_failure_vbtcs": {
+        "auroc": 0.86,
+        "ci95": [
+          0.813,
+          0.905
+        ],
+        "p": 7.894226125295356e-05
+      }
+    },
+    "acquired_brain_injury_213": {
+      "n_trials": 213,
+      "total_participants": 75209,
+      "operational_stops_n": 26,
+      "scientific_failures_n": 8,
+      "high_tau_n": 172,
+      "high_tau_sci_failure_n": 0,
+      "high_tau_sci_failure_pct": 0.0,
+      "low_mod_tau_n": 41,
+      "low_mod_tau_sci_failure_n": 8,
+      "low_mod_tau_sci_failure_pct": 19.51,
+      "fisher_exact_or": "inf",
+      "haldane_anscombe_or": 87.54,
+      "fisher_exact_p": 1.0386729861499504e-06,
+      "roc_unfiltered_stop_tau0": {
+        "auroc": 0.481,
+        "ci95": [
+          0.362,
+          0.6
+        ],
+        "p": 0.7177705905435066
+      },
+      "roc_sci_failure_tau0": {
+        "auroc": 0.879,
+        "ci95": [
+          0.831,
+          0.922
+        ],
+        "p": 0.0001055978380463413
+      },
+      "roc_sci_failure_tau1": {
+        "auroc": 0.884,
+        "ci95": [
+          0.836,
+          0.926
+        ],
+        "p": 8.591710880178423e-05
+      },
+      "roc_sci_failure_tau2": {
+        "auroc": 0.887,
+        "ci95": [
+          0.842,
+          0.928
+        ],
+        "p": 7.543486524073133e-05
+      },
+      "roc_sci_failure_tmin": {
+        "auroc": 0.862,
+        "ci95": [
+          0.812,
+          0.907
+        ],
+        "p": 0.00021334053164449193
+      },
+      "roc_sci_failure_cwas": {
+        "auroc": 0.87,
+        "ci95": [
+          0.819,
+          0.915
+        ],
+        "p": 0.0002547325931929532
+      },
+      "roc_sci_failure_vbtcs": {
+        "auroc": 0.862,
+        "ci95": [
+          0.813,
+          0.907
+        ],
+        "p": 0.00034898777435427535
+      }
+    },
+    "molecular_pharmacotherapy_60": {
+      "n_trials": 60,
+      "total_participants": 16349,
+      "operational_stops_n": 6,
+      "scientific_failures_n": 10,
+      "high_tau_n": 35,
+      "high_tau_sci_failure_n": 2,
+      "high_tau_sci_failure_pct": 5.71,
+      "low_mod_tau_n": 25,
+      "low_mod_tau_sci_failure_n": 8,
+      "low_mod_tau_sci_failure_pct": 32.0,
+      "fisher_exact_or": 7.76,
+      "haldane_anscombe_or": 6.51,
+      "fisher_exact_p": 0.01196234549494634,
+      "roc_unfiltered_stop_tau0": {
+        "auroc": 0.398,
+        "ci95": [
+          0.196,
+          0.597
+        ],
+        "p": 0.2755272848692415
+      },
+      "roc_sci_failure_tau0": {
+        "auroc": 0.752,
+        "ci95": [
+          0.606,
+          0.878
+        ],
+        "p": 0.012046464082340695
+      },
+      "roc_sci_failure_tau1": {
+        "auroc": 0.826,
+        "ci95": [
+          0.714,
+          0.921
+        ],
+        "p": 0.0011499566801278537
+      },
+      "roc_sci_failure_tau2": {
+        "auroc": 0.774,
+        "ci95": [
+          0.623,
+          0.903
+        ],
+        "p": 0.006317146538316839
+      },
+      "roc_sci_failure_tmin": {
+        "auroc": 0.724,
+        "ci95": [
+          0.594,
+          0.845
+        ],
+        "p": 0.02570145433732072
+      },
+      "roc_sci_failure_cwas": {
+        "auroc": 0.757,
+        "ci95": [
+          0.627,
+          0.88
+        ],
+        "p": 0.01043456922244764
+      },
+      "roc_sci_failure_vbtcs": {
+        "auroc": 0.723,
+        "ci95": [
+          0.595,
+          0.845
+        ],
+        "p": 0.026766478345884914
+      }
+    },
+    "acquired_brain_injury_molecular_51": {
+      "n_trials": 51,
+      "total_participants": 16044,
+      "operational_stops_n": 6,
+      "scientific_failures_n": 8,
+      "high_tau_n": 27,
+      "high_tau_sci_failure_n": 0,
+      "high_tau_sci_failure_pct": 0.0,
+      "low_mod_tau_n": 24,
+      "low_mod_tau_sci_failure_n": 8,
+      "low_mod_tau_sci_failure_pct": 33.33,
+      "fisher_exact_or": "inf",
+      "haldane_anscombe_or": 28.33,
+      "fisher_exact_p": 0.0011550151975683893,
+      "roc_unfiltered_stop_tau0": {
+        "auroc": 0.417,
+        "ci95": [
+          0.194,
+          0.656
+        ],
+        "p": 0.42405025325008705
+      },
+      "roc_sci_failure_tau0": {
+        "auroc": 0.82,
+        "ci95": [
+          0.703,
+          0.922
+        ],
+        "p": 0.004335149566245623
+      },
+      "roc_sci_failure_tau1": {
+        "auroc": 0.843,
+        "ci95": [
+          0.731,
+          0.939
+        ],
+        "p": 0.0022052474316089847
+      },
+      "roc_sci_failure_tau2": {
+        "auroc": 0.858,
+        "ci95": [
+          0.754,
+          0.945
+        ],
+        "p": 0.0014160445180450582
+      },
+      "roc_sci_failure_tmin": {
+        "auroc": 0.738,
+        "ci95": [
+          0.605,
+          0.855
+        ],
+        "p": 0.03373444002371109
+      },
+      "roc_sci_failure_cwas": {
+        "auroc": 0.778,
+        "ci95": [
+          0.631,
+          0.901
+        ],
+        "p": 0.013233271739292446
+      },
+      "roc_sci_failure_vbtcs": {
+        "auroc": 0.738,
+        "ci95": [
+          0.603,
+          0.861
+        ],
+        "p": 0.03418712981837654
+      }
+    }
+  }
+}

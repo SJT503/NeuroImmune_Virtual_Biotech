@@ -1,0 +1,9 @@
+﻿Regimen,Time_hr,Checkpoint_Tone_V,aMG_Storm_State_M,Astro_GCPII_State_A,Hysteresis_Lock_State_L,Dentate_Channel_Integrity_C,Synaptic_Splicing_Integrity_S,Pred_Microglia_Storm_Pct,Pred_Astro_BBB_Pct,Pred_Chromatin_Lock_Pct,Pred_Neuronal_Gate_Pct,Pred_Hyperexcitability_Index,Obs_Public_Microglia_Storm_Pct,Obs_Public_Astro_BBB_Pct,Obs_Public_Chromatin_Lock_Pct,Obs_Public_Neuronal_Gate_Pct
+1_Sham_Baseline (Intact Homeostatic Checkpoint),72.0,0.62,0.015,0.015,0.012,0.985,0.96,1.7,1.7,1.2,98.5,2.4,23.8,31.0,6.2,63.2
+2_Moderate_TBI_Insult (Intact Checkpoint + Moderate Injury),72.0,0.62,0.3522,0.3847,0.1112,0.7319,0.7355,39.1,42.7,11.1,73.2,47.5,37.7,42.7,17.1,70.0
+3_Severe_Unbraked_TBI_SE (Checkpoint Loss -> Glial Storm & Gate Collapse),72.0,0.06,0.8764,0.8106,0.8608,0.1995,0.2079,97.3,90.0,86.1,19.9,85.7,83.9,65.4,70.5,30.6
+4_Severe_TBI_plus_Early_Glial_Brake (t=0h Stage-1 Innate Brake),72.0,0.763,0.2915,0.2889,0.0617,0.8011,0.8016,32.4,32.1,6.2,80.1,35.5,29.3,46.4,11.1,70.1
+5_Severe_TBI_plus_Subacute_Glial_Brake (Delayed t=12h Dosing),72.0,0.763,0.3656,0.4759,0.2675,0.5905,0.599,40.6,52.8,26.7,59.1,60.0,,,,
+6_Severe_TBI_plus_Late_Glial_Brake (Delayed t=36h Monotherapy),72.0,0.763,0.5716,0.7293,0.8084,0.2542,0.2633,63.4,81.0,80.8,25.4,80.7,,,,
+7_Severe_TBI_plus_Subacute_AstroGCPII_Inhib (t=24h Folh1/2-PMPA Alone),72.0,0.06,0.8607,0.2247,0.8596,0.2459,0.3245,95.5,24.9,86.0,24.6,81.4,,,,
+8_Severe_TBI_Delayed_Triple_Combo (t=24h Stage-1 Brake + Folh1 Inhib + DG Gate Stabilizer),72.0,0.726,0.3117,0.045,0.012,0.9822,0.96,34.6,5.0,1.2,98.2,11.6,,,,
