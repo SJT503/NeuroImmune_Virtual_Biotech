@@ -1,0 +1,11 @@
+﻿Framework_Configuration,Selection_Criteria_or_Ablated_Gate,Selected_Targets_N,Mean_Baseline_Tau_t0,Mean_Subacute_Tau_t2,Mean_Human_GSE63808_Abs_r,Mean_External_Cohort_AUROC,Mean_Neuronal_Safety_Sparing,Choroid_Artifact_Leakage_Pct,SixGate_Precision_Retention_Pct
+1. Unfiltered Bulk DEG Baseline,Two-sample Welch/Stouffer meta-analytic DEG baseline without agentic gates (All 133 candidates),133,0.773,0.74,0.235,0.73,0.778,3,52.6
+2. Static Yanai Tau_0 Only (Zhang et al. Baseline),Single-cell static specificity tau_0 >= 0.65 without purity or dynamic gates,116,0.824,0.781,0.248,0.735,0.822,0.9,60.3
+3. Ablate Gate 1 (-Choroid/Ependymal Purity Gate),Removes Division 2 choroid plexus / ependymal decontamination filter,62,0.8129999999999999,0.786,0.323,0.756,0.839,1.6,98.40000000000001
+4. Ablate Gate 2 (-4-Cohort Concordance Gate),Removes multi-cohort directional consensus requirement,69,0.823,0.8,0.327,0.76,0.849,0,88.40000000000001
+5. Ablate Gate 3 (-Dynamic Specificity tau(t) Gate),Permits pleiotropic/low-tau targets (tau < 0.65) into final portfolio,67,0.791,0.754,0.32,0.754,0.822,0,91
+6. Ablate Gate 4 (-Human GSE63808 Conservation Gate),Removes cross-species 129-patient human surgical hippocampus coupling filter,71,0.821,0.791,0.297,0.743,0.845,0,85.90000000000001
+7. Ablate Gate 5 (-Sarle Bimodality Switch Gate),Removes single-cell bimodal ON/OFF state-switch requirement,66,0.8110000000000001,0.777,0.324,0.755,0.838,0,92.40000000000001
+"8. Full 6-Gate Reviewer Pass (Tier 1, n=70)",All 6 Independent Reviewer gates enforced across 133 candidates,70,0.8100000000000001,0.779,0.296,0.745,0.838,0,100
+9. Tier-1 + BTL Tournament Dominance (n=43),6/6 Reviewer gates + Bradley-Terry-Luce win rate >= 0.50,43,0.824,0.789,0.369,0.767,0.848,0,100
+"10. Virtual CSO Elite Portfolio (6/6 Gates + Elo >= 1850, n=21)",Top-ranked multi-agent consensus hubs for chrono-staged translation,21,0.843,0.797,0.44,0.766,0.865,0,100
