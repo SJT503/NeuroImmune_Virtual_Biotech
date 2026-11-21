@@ -1,0 +1,37 @@
+[
+  {
+    "Rule_ID": "R1_Homeostatic_Checkpoint_on_aMG",
+    "Subject_Cell": "Activated_Microglia_Macrophage (aMG/MAC)",
+    "Signal_Input": "Acute_Injury_DAMPs (+) & Homeostatic_Checkpoint_Tone (-)",
+    "Plain_Language_Grammar": "IF Acute_Injury_DAMPs are high AND Homeostatic_Checkpoint_Tone decreases, THEN Homeostatic_MG transforms to Activated_aMG (Tlr4/Relb/C3ar1 high) and amplifies Cytokine_Storm (IL-6, IL-1beta, TNF-alpha).",
+    "Mathematical_Hill_Form": "d(aMG)/dt = k_act * Hill+(Injury_DAMPs) * Hill-(Checkpoint_V) * (1 - aMG) - k_res * Checkpoint_V * aMG"
+  },
+  {
+    "Rule_ID": "R2_aMG_Induces_Astrocyte_GCPII_and_Hysteresis",
+    "Subject_Cell": "Reactive_Astrocyte (ASC: Folh1/GCPII & Plin4 high) + Chromatin_Lock_L",
+    "Signal_Input": "Cytokine_Storm (IL-1beta/TNF-alpha/C3a) (+)",
+    "Plain_Language_Grammar": "Sustained severe Cytokine_Storm (>15-17h) induces Reactive_ASC_GCPII (Folh1) and triggers a bistable chromatin/transcriptional lock-in state L(t) that persists even if upstream cytokines are partially lowered at late timepoints (t=36h).",
+    "Mathematical_Hill_Form": "d(ASC_react)/dt = k_asc * Hill+(aMG + 0.5*Lock_L) * (1 - ASC_react) - d_asc * ASC_react"
+  },
+  {
+    "Rule_ID": "R3_Glia_Storm_Collapses_Dentate_Gate_Channels",
+    "Subject_Cell": "Dentate_CA1d_Neurons (DG/CA1d: Scn3a/Scn3b, Kctd4, Ryr2, Gabrd)",
+    "Signal_Input": "Cytokine_Storm (+) & Astrocyte_GCPII_Glutamate (+) & Chromatin_Lock_L (+)",
+    "Plain_Language_Grammar": "Cytokine_Storm and Astrocyte_GCPII_Glutamate suppress Dentate_Channel_Homeostasis (Scn3a/Scn3b/Kctd4/Gabrd/Ryr2), driving neuronal gate collapse (C(t) falling from 98.5% to 19.9% in GSE319769 & GSE63808).",
+    "Mathematical_Hill_Form": "d(Channel_Integrity)/dt = k_rec*(1-Lock_L)*(1-C) - k_col*Hill+(Cytokine + ASC_GCPII + Lock_L)*C"
+  },
+  {
+    "Rule_ID": "R4_Transcriptional_and_Synaptic_Gate_Collapse",
+    "Subject_Cell": "Schaffer_CA1_Synapse (Rnf112, C1ql2, Rapgefl1, Lin7b)",
+    "Signal_Input": "Cytokine_Storm (+) & Astrocyte_GCPII_Glutamate (+) & Chromatin_Lock_L (+)",
+    "Plain_Language_Grammar": "Glial inflammation and glutamate overload suppress Rnf112, Rapgefl1, and Lin7b and lock subacute synaptic transcriptional state S(t).",
+    "Mathematical_Hill_Form": "d(Synaptic_State)/dt = k_syn*(1-Lock_L)*(1-S) - k_ltp*Hill+(Cytokine + ASC_GCPII + Lock_L)*S"
+  },
+  {
+    "Rule_ID": "R5_Emergent_Network_Hyperexcitability",
+    "Subject_Cell": "Hippocampal_Cortical_Network (Circuit Hyperexcitability Index)",
+    "Signal_Input": "Channel_Gate_Loss (+) & Glial_Storm_State (+)",
+    "Plain_Language_Grammar": "Network hyperexcitability emerges nonlinearly when Dentate_Gate_Channel_Integrity C(t) falls below critical threshold.",
+    "Mathematical_Hill_Form": "Hyperexcitability_Idx = 100 * Hill+(1 - Channel_Integrity) * Hill+(aMG + ASC_GCPII)"
+  }
+]
