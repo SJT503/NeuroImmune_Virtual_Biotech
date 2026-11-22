@@ -1,0 +1,3075 @@
+{
+  "NCT07861126": {
+    "NCT_ID": "NCT07861126",
+    "Title": "Sovateltide for the Treatment of Acute Traumatic Brain Injury",
+    "Overall_Status": "NOT_YET_RECRUITING",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DRUG:Placebo; DRUG:Sovateltide"
+  },
+  "NCT01809639": {
+    "NCT_ID": "NCT01809639",
+    "Title": "Does Oral Micronized Progesterone Shorten Time of Symptoms From Concussion",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Concussion",
+    "Interventions": "DRUG:Progesterone; DRUG:Placebo"
+  },
+  "NCT05833568": {
+    "NCT_ID": "NCT05833568",
+    "Title": "Five-day 20-minute 10-Hz tACS in Patients With a Disorder of Consciousness",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Brain Injury Traumatic Severe; Disorder of Consciousness; Brain Injuries",
+    "Interventions": "DEVICE:Active Transcranial alternative current stimulation; DEVICE:SHAM Transcranial alternative current stimulation"
+  },
+  "NCT03061565": {
+    "NCT_ID": "NCT03061565",
+    "Title": "Long Term Effects of Erythropoietin in Patients With Moderate to Severe Traumatic Brain Injury",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DRUG:erythropoietin; DRUG:Placebos"
+  },
+  "NCT06927063": {
+    "NCT_ID": "NCT06927063",
+    "Title": "Long-term Recovery and Microbiota-Gut-Brain Axis Disruption After Traumatic Brain Injury",
+    "Overall_Status": "NOT_YET_RECRUITING",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DIAGNOSTIC_TEST:blood-based protein biomarker assessments; DIAGNOSTIC_TEST:blood-based metabolomic/lipidomic biomarker assessments; DIAGNOSTIC_TEST:Diffusion-weighted magnetic resonance imaging (brain); DIAGNOSTIC_TEST:Structural magnetic resonance imaging (brain)"
+  },
+  "NCT05857761": {
+    "NCT_ID": "NCT05857761",
+    "Title": "GAIN Symptoms: Post-traumatic Headache",
+    "Overall_Status": "ACTIVE_NOT_RECRUITING",
+    "Conditions": "Post-Traumatic Headache; Concussion, Mild; MTBI - Mild Traumatic Brain Injury",
+    "Interventions": "DEVICE:Active repetitive transcranial magnetic stimulation (rTMS); DEVICE:Sham repetitive transcranial magnetic stimulation (rTMS)"
+  },
+  "NCT01108744": {
+    "NCT_ID": "NCT01108744",
+    "Title": "Double Blind Study of Hypertonic Saline vs Mannitol in the Management of Increased Intracranial Pressure (ICP).",
+    "Overall_Status": "WITHDRAWN",
+    "Conditions": "Elevated Intracranial Pressure",
+    "Interventions": "DRUG:hypertonic saline; DRUG:Mannitol"
+  },
+  "NCT05075382": {
+    "NCT_ID": "NCT05075382",
+    "Title": "Fracture and Neurological Injury",
+    "Overall_Status": "WITHDRAWN",
+    "Conditions": "Elbow Fracture; Neurologic Deficits",
+    "Interventions": "PROCEDURE:Elbow surgery for fracture"
+  },
+  "NCT03907254": {
+    "NCT_ID": "NCT03907254",
+    "Title": "Biopsychosocial Effect of Service Dog Training on Post-traumatic Stress (PTS) and Post Concussive Symptoms",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Post-traumatic Stress Disorder; Posttraumatic Stress Disorder; Traumatic Brain Injury",
+    "Interventions": "OTHER:Service Dog Training Program"
+  },
+  "NCT05632627": {
+    "NCT_ID": "NCT05632627",
+    "Title": "Cannabinoids and Traumatic Brain Injury: A Randomized, Placebo Controlled Trial",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Brain Injuries, Traumatic",
+    "Interventions": "DRUG:Cannabidiol; DRUG:Placebo"
+  },
+  "NCT00205582": {
+    "NCT_ID": "NCT00205582",
+    "Title": "Excitatory Amino Acids and Activated Microglia After Traumatic Brain Injury: a (R)-[11C]PK11195 PET Study",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DEVICE:Positron Emission Tomography"
+  },
+  "NCT03241732": {
+    "NCT_ID": "NCT03241732",
+    "Title": "PET-MRI in Chronic Traumatic Brain Injury (CTBI)",
+    "Overall_Status": "ENROLLING_BY_INVITATION",
+    "Conditions": "Chronic Traumatic Brain Injury",
+    "Interventions": "OTHER:Anti-inflammatory Diet; DIETARY_SUPPLEMENT:N-acetyl Cysteine; BEHAVIORAL:Neuro Emotive Technique"
+  },
+  "NCT01143064": {
+    "NCT_ID": "NCT01143064",
+    "Title": "Efficacy and Safety Study of Intravenous Progesterone in Patients With Severe Traumatic Brain Injury",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Brain Injuries",
+    "Interventions": "DRUG:Progesterone; DRUG:Lipid emulsion without progesterone"
+  },
+  "NCT05183087": {
+    "NCT_ID": "NCT05183087",
+    "Title": "Long-Term Effects of Repetitive, Low-Level Blast Exposure on Special Operations Forces Service Members",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury; Blast Injuries",
+    "Interventions": "DIAGNOSTIC_TEST:3T Connectome MRI; DIAGNOSTIC_TEST:7 Tesla MRI; DIAGNOSTIC_TEST:TSPO PET; DIAGNOSTIC_TEST:Tau PET"
+  },
+  "NCT01239706": {
+    "NCT_ID": "NCT01239706",
+    "Title": "Safety Study of Human Chorionic Gonadotropin (hCG) and Epoetin Alfa (EPO) in Traumatic Brain Injury: Dosing Tier 1",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DRUG:NTx 265"
+  },
+  "NCT03560843": {
+    "NCT_ID": "NCT03560843",
+    "Title": "The Effects of MBSR on Patients With TBI and Chronic Insomnia",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Chronic Insomnia; TBI (Traumatic Brain Injury)",
+    "Interventions": "BEHAVIORAL:MBSR"
+  },
+  "NCT04426487": {
+    "NCT_ID": "NCT04426487",
+    "Title": "Effect of Progesterone Therapy on Traumatic Subarachinoid Haemorrhage on Clinical Outcome and Resistive Vasculer Indices of Middle Cerebral Artery Transcranial Doppler",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DRUG:Progesterone"
+  },
+  "NCT02969824": {
+    "NCT_ID": "NCT02969824",
+    "Title": "Post-acute Structured Exercise Following Sport Concussion",
+    "Overall_Status": "TERMINATED",
+    "Conditions": "Concussion, Brain",
+    "Interventions": "BEHAVIORAL:Supervised Aerobic Exercise"
+  },
+  "NCT05825027": {
+    "NCT_ID": "NCT05825027",
+    "Title": "Risk Stratification in Children With Concussion",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Concussion, Brain; Mild Traumatic Brain Injury",
+    "Interventions": ""
+  },
+  "NCT05235802": {
+    "NCT_ID": "NCT05235802",
+    "Title": "Long-term Follow-up in Severe Traumatic Brain Injury",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Traumatic Brain Injury; Neurodegenerative Diseases; Chronic Traumatic Encephalopathy",
+    "Interventions": "DIAGNOSTIC_TEST:Magnetic Resonance Imaging (MRI) (including functional MRI); DIAGNOSTIC_TEST:Blood sampling (serum/plasma preparation); DIAGNOSTIC_TEST:Cerebrospinal fluid (CSF); DIAGNOSTIC_TEST:Clinical assessments / questionnaires"
+  },
+  "NCT05129514": {
+    "NCT_ID": "NCT05129514",
+    "Title": "Imaging Lymphatic/Cerebrospinal Fluid (CSF) Drainage From the Head and Neck in Persons With Traumatic Brain Injury: Demonstration of Feasibility and Evaluation of Manual Therapy to Improve Drainage and Facilitate Cognitive Recovery",
+    "Overall_Status": "TERMINATED",
+    "Conditions": "Trauma, Brain; Neuroinflammation",
+    "Interventions": "OTHER:Manual Lymphatic Drainage (MLD)"
+  },
+  "NCT02993549": {
+    "NCT_ID": "NCT02993549",
+    "Title": "TBI Multimodal Monitoring Study",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Traumatic Brain INjury; Microdialysis",
+    "Interventions": ""
+  },
+  "NCT03900182": {
+    "NCT_ID": "NCT03900182",
+    "Title": "The Role of Hyperbaric Oxygen and Neuropsychological Therapy in Cognitive Function Following Traumatic Brain Injury",
+    "Overall_Status": "TERMINATED",
+    "Conditions": "Brain Injuries, Traumatic; Neuropsychology",
+    "Interventions": "DEVICE:Hyperbaric Oxygen Therapy"
+  },
+  "NCT00170352": {
+    "NCT_ID": "NCT00170352",
+    "Title": "Comparison Between Different Types of Oxygen Treatment Following Traumatic Brain Injury",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "PROCEDURE:Hyperbaric Oxygen Treatment (HBOT); PROCEDURE:Enhanced Oxygen Treatment (Enhanced FiO2)"
+  },
+  "NCT04602806": {
+    "NCT_ID": "NCT04602806",
+    "Title": "Transforming Research and Clinical Knowledge in Traumatic Brain Injury (TRACK-TBI) Precision Medicine Phase 2 Option 1",
+    "Overall_Status": "ENROLLING_BY_INVITATION",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": ""
+  },
+  "NCT02525432": {
+    "NCT_ID": "NCT02525432",
+    "Title": "Autologous Stem Cell Study for Adult TBI (Phase 2b)",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Brain Injuries, Traumatic; Brain Injuries, Acute; TBI (Traumatic Brain Injury)",
+    "Interventions": "BIOLOGICAL:Placebo Infusion; BIOLOGICAL:Autologous BMMNC Infusion"
+  },
+  "NCT01048138": {
+    "NCT_ID": "NCT01048138",
+    "Title": "Use of Biperiden for the Prevention of Post-traumatic Epilepsy",
+    "Overall_Status": "TERMINATED",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DRUG:Biperiden Lactate; DRUG:Placebo"
+  },
+  "NCT05951777": {
+    "NCT_ID": "NCT05951777",
+    "Title": "Autologous Adipose-Derived Mesenchymal Stem Cells for Chronic Traumatic Brain Injury",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "BIOLOGICAL:Autologous HB-adMSCs; DRUG:Normal Saline"
+  },
+  "NCT03659006": {
+    "NCT_ID": "NCT03659006",
+    "Title": "Identification of Predictive Neuroinflammatory Biomarkers of Neuro-radiological Evolution in Severe Traumatic Brain Injury",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Severe Traumatic Brain Injury",
+    "Interventions": "BIOLOGICAL:Biological Collection"
+  },
+  "NCT04614922": {
+    "NCT_ID": "NCT04614922",
+    "Title": "Acceptance and Commitment Therapy-based Rehabilitation of Post-concussion Symptoms",
+    "Overall_Status": "TERMINATED",
+    "Conditions": "Post-Concussion Syndrome; Post-Traumatic Headache",
+    "Interventions": "BEHAVIORAL:Acceptance and Commitment Therapy"
+  },
+  "NCT06146062": {
+    "NCT_ID": "NCT06146062",
+    "Title": "Effects of Intravascular Administration of Mesenchymal Stromal Cells Derived from Wharton's Jelly of the Umbilical Cord on Systemic Immunomodulation and Neuroinflammation After Traumatic Brain Injury.",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DRUG:Mesenchymal Stromal Cells (MSC); DRUG:placebo"
+  },
+  "NCT06665633": {
+    "NCT_ID": "NCT06665633",
+    "Title": "Treatment of U.S. Veterans With Mild Traumatic Brain Injury With Hyperbaric Oxygen Therapy",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Mild Traumatic Brain Injury; Hyperbaric Oxygen Therapy; Depression",
+    "Interventions": "DRUG:Oxygen 100 % Gas for Inhalation; DEVICE:Hyperbaric Oxygen Therapy Chamber"
+  },
+  "NCT03035838": {
+    "NCT_ID": "NCT03035838",
+    "Title": "Importance of Substance P in Intracranial Pressure Elevation Following Traumatic Brain Injury",
+    "Overall_Status": "WITHDRAWN",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DRUG:Fosaprepitant"
+  },
+  "NCT01336413": {
+    "NCT_ID": "NCT01336413",
+    "Title": "Neuroactive Steroids and Traumatic Brain Injury (TBI) in OEF/OIF Veterans",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Brain Injuries, Traumatic",
+    "Interventions": "DRUG:Pregnenolone; DRUG:Placebo"
+  },
+  "NCT03032302": {
+    "NCT_ID": "NCT03032302",
+    "Title": "Micronutrient Supplement Effects on Cognitive Outcomes in Post-Acute TBI",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DIETARY_SUPPLEMENT:Swisse Womens 50+ Ultivite Multivitamin; DIETARY_SUPPLEMENT:Holland and Barrett Triple Strength Omega-3 Fish Oil"
+  },
+  "NCT07326059": {
+    "NCT_ID": "NCT07326059",
+    "Title": "Safety and Outcomes of MUSE Stem Cell Therapy in Individuals With Traumatic Brain Injury",
+    "Overall_Status": "NOT_YET_RECRUITING",
+    "Conditions": "Traumatic Brain Injury; Traumatic Brain Injury (TBI) Patients; Traumatic Brain Injury (TBI); Concussion, Initial Encounter",
+    "Interventions": "BIOLOGICAL:MUSE Stem Cell Therapy"
+  },
+  "NCT00987454": {
+    "NCT_ID": "NCT00987454",
+    "Title": "Erythropoietin in Traumatic Brain Injury (EPO-TBI)",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DRUG:Epoetin Alfa; DRUG:Sodium Chloride 0.9%"
+  },
+  "NCT07269457": {
+    "NCT_ID": "NCT07269457",
+    "Title": "Vitamin D3 for Moderate to Mild Traumatic Brain Injury: A Randomized Trial on Inflammation and Recovery (VIMOT)",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Traumatic Brain Injury (TBI) Patients; Neuroinflammation",
+    "Interventions": "DRUG:Vitamin D3 (Cholecalciferol)"
+  },
+  "NCT04489160": {
+    "NCT_ID": "NCT04489160",
+    "Title": "Complement Inhibition: Attacking the Overshooting Inflammation @Fter Traumatic Brain Injury",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Traumatic Brain Injury; Trauma, Head",
+    "Interventions": "DRUG:C1 Inhibitor, Human; DRUG:Placebo"
+  },
+  "NCT03818451": {
+    "NCT_ID": "NCT03818451",
+    "Title": "Co-ultra PEALut Enhances Neuronal Recovery Following Moderate Traumatic Brain Injury",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DIETARY_SUPPLEMENT:Co-ultraPEALut (Glialia)"
+  },
+  "NCT06163833": {
+    "NCT_ID": "NCT06163833",
+    "Title": "Mesenchymal Stromal Cells for Traumatic Brain Injury",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Traumatic Brain Injury With Loss of Consciousness",
+    "Interventions": "DRUG:Mesenchymal stromal cell low dosage-80*10^6 cells; DRUG:Mesenchymal stromal cell low dosage-160*10^6 cells; OTHER:Placebo-storage solution"
+  },
+  "NCT05647304": {
+    "NCT_ID": "NCT05647304",
+    "Title": "Pilot Clinical Investigation Evaluating the Safety and Performance of RGn550 in Treating Sportspeople Suffering From Acute Concussion Syndrome",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Acute Concussion Syndrome",
+    "Interventions": "DEVICE:RGn550 5 Hz-PWM; DEVICE:RGn550 10 Hz-PWM"
+  },
+  "NCT04588311": {
+    "NCT_ID": "NCT04588311",
+    "Title": "ErythroPOietin Alfa to Prevent Mortality and Reduce Severe Disability in Critically Ill TRAUMA Patients",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Trauma; Traumatic Injury; Traumatic Brain Injury",
+    "Interventions": "DRUG:Epoetin Alfa 40000 UNT/ML; DRUG:Sodium Chloride 0.9%"
+  },
+  "NCT00929448": {
+    "NCT_ID": "NCT00929448",
+    "Title": "The Predictive Value of Clinical and Immunological Factors in the Development of Pneumonia After Traumatic Brain Injury",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": ""
+  },
+  "NCT02443142": {
+    "NCT_ID": "NCT02443142",
+    "Title": "Ibuprofen Versus Acetaminophen for Treatment of Mild Traumatic Brain Injury",
+    "Overall_Status": "WITHDRAWN",
+    "Conditions": "Brain Concussion",
+    "Interventions": "DRUG:Ibuprofen; DRUG:Acetaminophen"
+  },
+  "NCT07527949": {
+    "NCT_ID": "NCT07527949",
+    "Title": "PASTRAMI : Patient-specific Statistics for Microstructure-augmented Connectomics",
+    "Overall_Status": "NOT_YET_RECRUITING",
+    "Conditions": "Traumatic Brain Injury; Magnetic Resonance Imaging (MRI)",
+    "Interventions": "OTHER:Measures of brain microstructure"
+  },
+  "NCT07844811": {
+    "NCT_ID": "NCT07844811",
+    "Title": "Early Redox Biomarker Changes After Stellate Ganglion Block in Traumatic Brain Injury",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Brain Injuries, Traumatic",
+    "Interventions": "OTHER:Ultrasound-guided stellate ganglion block (parent study)"
+  },
+  "NCT07623967": {
+    "NCT_ID": "NCT07623967",
+    "Title": "Rapid Recovery: Gut Microbiome Correction for PTSD",
+    "Overall_Status": "ACTIVE_NOT_RECRUITING",
+    "Conditions": "PTSD - Post Traumatic Stress Disorder",
+    "Interventions": "DRUG:Investigational Probiotic Preparation"
+  },
+  "NCT01357421": {
+    "NCT_ID": "NCT01357421",
+    "Title": "Effects of TT301 on Cytokine Levels Post Endotoxin Challenge",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DRUG:TT301; DRUG:Placebo"
+  },
+  "NCT06873477": {
+    "NCT_ID": "NCT06873477",
+    "Title": "Evaluation of Patients Affected by Traumatic and Hypoxic-ischemic Brain Injury",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Brain Injuries; Brain Ischemia",
+    "Interventions": "DIAGNOSTIC_TEST:Gross Motor Function Classification System"
+  },
+  "NCT04796207": {
+    "NCT_ID": "NCT04796207",
+    "Title": "The Effects of Fish Oil Supplementation on the Brain Health of Collegiate Football Athletes",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury (TBI); Chronic Traumatic Encephalopathy (CTE)",
+    "Interventions": "DIETARY_SUPPLEMENT:Fish Oil (DPA+EPA 2:1 ratio) Capsules; DIETARY_SUPPLEMENT:High Oleic Safflower Oil Capsules"
+  },
+  "NCT04117672": {
+    "NCT_ID": "NCT04117672",
+    "Title": "Antisecretory Factor In Severe Traumatic Brain Injury",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DIETARY_SUPPLEMENT:Salovum; DIETARY_SUPPLEMENT:Placebo egg yolk powder"
+  },
+  "NCT03990064": {
+    "NCT_ID": "NCT03990064",
+    "Title": "Benefits of Relaxation by Music Therapy on PTSD Symptoms",
+    "Overall_Status": "TERMINATED",
+    "Conditions": "Stress Disorder, Post Traumatic",
+    "Interventions": "OTHER:musicotherapy"
+  },
+  "NCT07259382": {
+    "NCT_ID": "NCT07259382",
+    "Title": "Neuro-Inflammation in Extremity Trauma: Risk Verification in Elbow Trauma: The NERVE Study",
+    "Overall_Status": "NOT_YET_RECRUITING",
+    "Conditions": "Elbow Dislocation; Elbow Fractures; Inflammation Biomarkers",
+    "Interventions": "OTHER:Biomarkers evaluation"
+  },
+  "NCT07222306": {
+    "NCT_ID": "NCT07222306",
+    "Title": "Cannabis, Neuroinflammation, and Suicidal Ideation: A Supplemental Brain Imaging Study",
+    "Overall_Status": "ENROLLING_BY_INVITATION",
+    "Conditions": "PTSD; Suicidal Thoughts and Behaviors; PTSD Symptoms",
+    "Interventions": "DRUG:1-(2-[+F]fluoroethyl)-L-tryptophan"
+  },
+  "NCT02148367": {
+    "NCT_ID": "NCT02148367",
+    "Title": "Effect of Recombinant Erythropoietin on Numbers of Circulating Endothelial Progenitor Cells in Subacute TBI",
+    "Overall_Status": "WITHDRAWN",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DRUG:Erythropoietin"
+  },
+  "NCT03453749": {
+    "NCT_ID": "NCT03453749",
+    "Title": "Anti-secretory Factor as a Treatment for Adults With Severe Traumatic Head Injury",
+    "Overall_Status": "WITHDRAWN",
+    "Conditions": "Head Trauma; Intensive Care Neurological Disorder; Edema Brain",
+    "Interventions": "DIETARY_SUPPLEMENT:Salovum"
+  },
+  "NCT05033444": {
+    "NCT_ID": "NCT05033444",
+    "Title": "A First in Human Study of the Safety, Tolerability and Pharmacokinetics of PRV-002 in Healthy Volunteers",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury (TBI)",
+    "Interventions": "DRUG:PRV-002; DRUG:Placebo"
+  },
+  "NCT01730443": {
+    "NCT_ID": "NCT01730443",
+    "Title": "Blood Biomarkers of Injury and Outcome in Traumatic Brain Injury",
+    "Overall_Status": "TERMINATED",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": ""
+  },
+  "NCT04806620": {
+    "NCT_ID": "NCT04806620",
+    "Title": "Unhide® Project: A Digital Health Platform to Collect Lifestyle Data for Brain Inflammation Research",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Post-Acute COVID-19 Syndrome; ME/CFS; Rheumatic Arthritis",
+    "Interventions": ""
+  },
+  "NCT05786729": {
+    "NCT_ID": "NCT05786729",
+    "Title": "Aerobic Exercise After Traumatic Brain Injury",
+    "Overall_Status": "ENROLLING_BY_INVITATION",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "OTHER:Aerobic Exercise (AER); OTHER:Rehabilitation"
+  },
+  "NCT05826912": {
+    "NCT_ID": "NCT05826912",
+    "Title": "Multi-Arm Multi-Stage Adaptive Platform Trial (APT) for the Acute Treatment of Traumatic Brain Injury",
+    "Overall_Status": "ENROLLING_BY_INVITATION",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DRUG:Atorvastatin Calcium; DRUG:Minocycline Hydrochloride; DRUG:Candesartan Cilexetil; DRUG:Placebo"
+  },
+  "NCT07849465": {
+    "NCT_ID": "NCT07849465",
+    "Title": "Hyperbaric Oxygen Therapy for Veterans With TBI and PCS: A Biomarker Study",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Traumatic Brain Injury (TBI) Patients; Post Concussive Symptoms; PTSD",
+    "Interventions": "DRUG:Hyperbaric Oxygen Therapy (HBOT)"
+  },
+  "NCT05671692": {
+    "NCT_ID": "NCT05671692",
+    "Title": "Novel Intervention for Chronic Complex TBI in OEF/OIF/OND Veterans",
+    "Overall_Status": "SUSPENDED",
+    "Conditions": "Traumatic Brain Injury; TBI",
+    "Interventions": "DRUG:Pregnenolone; DRUG:Placebo"
+  },
+  "NCT03999164": {
+    "NCT_ID": "NCT03999164",
+    "Title": "Imaging of Neuro-Inflammation and the Risk for Post-Traumatic Epilepsy",
+    "Overall_Status": "ACTIVE_NOT_RECRUITING",
+    "Conditions": "Epilepsy, Post-Traumatic",
+    "Interventions": "DRUG:[18F]DPA-714 Positron Emission Tomography Scan"
+  },
+  "NCT00990028": {
+    "NCT_ID": "NCT00990028",
+    "Title": "Effect of Rosuvastatin on Cytokines After Traumatic Brain Injury",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Head Injury",
+    "Interventions": "DRUG:Rosuvastatin; DRUG:Placebo"
+  },
+  "NCT03482115": {
+    "NCT_ID": "NCT03482115",
+    "Title": "Brain Network Disruptions Related to Traumatic Coma",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Coma",
+    "Interventions": "RADIATION:PET examination with radiopharmaceutical drug [18F] DPA-714; DIAGNOSTIC_TEST:MRI examination; BIOLOGICAL:Blood samples"
+  },
+  "NCT05515640": {
+    "NCT_ID": "NCT05515640",
+    "Title": "Dysautonomia and Systemic Interactions in Traumatic Brain Injury",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Traumatic Brain Injury; Dysautonomia; Sympathetic; Imbalance",
+    "Interventions": ""
+  },
+  "NCT02731495": {
+    "NCT_ID": "NCT02731495",
+    "Title": "Effect of Epigallocatechin -3-gallate Supplementation in Traumatic Brain Injury Patients",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DIETARY_SUPPLEMENT:EGCG; DIETARY_SUPPLEMENT:Placebo (deionized water)"
+  },
+  "NCT01058395": {
+    "NCT_ID": "NCT01058395",
+    "Title": "Safety and Feasibility of Minocycline in the Treatment of Traumatic Brain Injury (TBI)",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DRUG:Minocycline"
+  },
+  "NCT01420939": {
+    "NCT_ID": "NCT01420939",
+    "Title": "Developing Therapies for Traumatic Brain Injury",
+    "Overall_Status": "TERMINATED",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": ""
+  },
+  "NCT06735157": {
+    "NCT_ID": "NCT06735157",
+    "Title": "Repetitive Transcranial Magnetic Stimulation Paired with Augmented Reality to Alter Concussion Symptoms",
+    "Overall_Status": "NOT_YET_RECRUITING",
+    "Conditions": "Mild Traumatic Brain Injury, Concussion; Chronic Dizziness; Vestibular Problem",
+    "Interventions": "DEVICE:Repetitive transcranial magnetic stimulation; BEHAVIORAL:Augmented reality vestibular rehabilitation therapy; DEVICE:SHAM repetitive transcranial magnetic stimulation"
+  },
+  "NCT00048646": {
+    "NCT_ID": "NCT00048646",
+    "Title": "Progesterone Treatment of Blunt Traumatic Brain Injury",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DRUG:IV Progesterone"
+  },
+  "NCT02957123": {
+    "NCT_ID": "NCT02957123",
+    "Title": "Intranasal Inhalations of Bioactive Factors Produced by M2 Macrophages in Patients With Organic Brain Syndrome",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Organic Brain Syndrome, Nonpsychotic; Neurocognitive Disorders; Mental Disorder, Organic",
+    "Interventions": "DRUG:Intranasal auto-M2-BFs"
+  },
+  "NCT03242395": {
+    "NCT_ID": "NCT03242395",
+    "Title": "PRIME: Cognitive Outcome Following Major Burns",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Cognitive Dysfunction; Burns; Inflammation, Brain",
+    "Interventions": ""
+  },
+  "NCT03895450": {
+    "NCT_ID": "NCT03895450",
+    "Title": "Treating Persistent Post-concussion Symptoms With Exercise",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Brain Injuries, Traumatic; Concussion, Brain; Mild Traumatic Brain Injury",
+    "Interventions": "BEHAVIORAL:Aerobic Exercise Protocol; BEHAVIORAL:Stretching Protocol"
+  },
+  "NCT01363583": {
+    "NCT_ID": "NCT01363583",
+    "Title": "Study on the Effect of Prostacyclin Compared to Placebo in Traumatic Brain Injury",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DRUG:epoprostenol versus normal saline; DRUG:normal saline"
+  },
+  "NCT00822900": {
+    "NCT_ID": "NCT00822900",
+    "Title": "Progesterone for the Treatment of Traumatic Brain Injury III",
+    "Overall_Status": "TERMINATED",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DRUG:Progesterone; DRUG:Placebo"
+  },
+  "NCT04418440": {
+    "NCT_ID": "NCT04418440",
+    "Title": "Nutritional Treatment for the Amelioration of Traumatic Brain Injury",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DIETARY_SUPPLEMENT:Souvenaid oral nutritional supplement (Nutricia)"
+  },
+  "NCT05942638": {
+    "NCT_ID": "NCT05942638",
+    "Title": "Longitudinal Assessment of Post-concussion Driving in Young Adults",
+    "Overall_Status": "ENROLLING_BY_INVITATION",
+    "Conditions": "Brain Injuries, Traumatic; Concussion, Brain; Brain Injury Traumatic Mild",
+    "Interventions": ""
+  },
+  "NCT02509689": {
+    "NCT_ID": "NCT02509689",
+    "Title": "Neurofeedback Technology (GZNT) for Persistent Post-Concussive Symptoms in Soldiers",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "BEHAVIORAL:Global Z-Score Neurofeedback Training"
+  },
+  "NCT04554537": {
+    "NCT_ID": "NCT04554537",
+    "Title": "Strategic Memory and Reasoning Training for Cognitive Problems",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury; Posttraumatic Stress Disorder",
+    "Interventions": "BEHAVIORAL:SMART; BEHAVIORAL:Brain Health Workshop"
+  },
+  "NCT02690584": {
+    "NCT_ID": "NCT02690584",
+    "Title": "Metacognitive Therapy for Post-concussive Symptoms After Mild Traumatic Brain Injury",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Brain Injuries; Post-Concussive Symptom; Post-Concussive Syndrome",
+    "Interventions": "BEHAVIORAL:Metacognitive therapy"
+  },
+  "NCT04603443": {
+    "NCT_ID": "NCT04603443",
+    "Title": "SmART-TBI: Supplementation With Amino Acid Rehabilitative Therapy in TBI",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DIETARY_SUPPLEMENT:Branched Chain Amino Acids; DIETARY_SUPPLEMENT:Branched Chain Amino Acids; DIETARY_SUPPLEMENT:Branched Chain Amino Acids; DIETARY_SUPPLEMENT:Protein Control"
+  },
+  "NCT00025974": {
+    "NCT_ID": "NCT00025974",
+    "Title": "Brain Chemical Receptor Effects in Patients With Panic Disorder and Post-Traumatic Stress Disorder",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Panic Disorder; Posttraumatic Stress Disorder; Major Depressive Disorder",
+    "Interventions": ""
+  },
+  "NCT03514524": {
+    "NCT_ID": "NCT03514524",
+    "Title": "Synaptic Density, Tau and Multiparametric PET-MR in Brain Trauma, Stroke and Mild Cognitive or Behavioral Impairment.",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Neuro-Degenerative Disease",
+    "Interventions": "OTHER:PET-MR imaging"
+  },
+  "NCT02899468": {
+    "NCT_ID": "NCT02899468",
+    "Title": "Evaluation of a Novel Integrative and Intensive Virtual Rehabilitation Program for Service Members Post TBI",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DEVICE:BrightBrainer Virtual Reality (BBVR) Rehabilitation System"
+  },
+  "NCT04932096": {
+    "NCT_ID": "NCT04932096",
+    "Title": "Sleep Management And Recovery After Traumatic Brain Injury in Kids: Pilot Intervention of Melatonin",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury; Critical Illness; Sleep",
+    "Interventions": "DRUG:melatonin; OTHER:placebo"
+  },
+  "NCT02696538": {
+    "NCT_ID": "NCT02696538",
+    "Title": "Comparative Utility of Clinical Balance Measures in Traumatic Brain Injury",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury; Acquired Brain Injury; Accidental Falls",
+    "Interventions": "OTHER:Functional Gait Assessment; OTHER:mini-Balance Evaluation Systems Test; OTHER:Berg Balance Scale"
+  },
+  "NCT04631484": {
+    "NCT_ID": "NCT04631484",
+    "Title": "International Trial of Efficacy of Cytoflavin in Head Trauma",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Head Trauma,Closed",
+    "Interventions": "DRUG:Cytoflavin ((Inosine + Nicotinamide + Riboflavin + Succinic Acid); DRUG:Placebo"
+  },
+  "NCT04882215": {
+    "NCT_ID": "NCT04882215",
+    "Title": "Integrated PRocess and StrategieS Training: I-PRESS Training",
+    "Overall_Status": "TERMINATED",
+    "Conditions": "Acquired Brain Injury",
+    "Interventions": "BEHAVIORAL:GMT combined with WMU Training"
+  },
+  "NCT03225768": {
+    "NCT_ID": "NCT03225768",
+    "Title": "Guided Training for People With Cognitive Impairment",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "TBI (Traumatic Brain Injury); Stroke; Cognitive Impairment",
+    "Interventions": "BEHAVIORAL:Guided Training"
+  },
+  "NCT07303075": {
+    "NCT_ID": "NCT07303075",
+    "Title": "Family-Centred ACT After Paediatric ABI",
+    "Overall_Status": "NOT_YET_RECRUITING",
+    "Conditions": "Acquired Brain Injury",
+    "Interventions": "OTHER:Acceptance and Commitment Therapy (DNA-V)"
+  },
+  "NCT04095377": {
+    "NCT_ID": "NCT04095377",
+    "Title": "Development of Automated Analysis to Electroencephelogram (EEG) Data in Patients Treated at the Sagol Hyperbaric Medicine and Research Center at the Years 2017-2019.",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Healthy; CVA; Hemorrhage",
+    "Interventions": "OTHER:No intervention, this is a retrospective study."
+  },
+  "NCT05163262": {
+    "NCT_ID": "NCT05163262",
+    "Title": "Descriptive and Prospective Study of Sphincter Disorders in the Severe Traumatic Brain Injury Population",
+    "Overall_Status": "TERMINATED",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "OTHER:sexuality questionnaire"
+  },
+  "NCT06788262": {
+    "NCT_ID": "NCT06788262",
+    "Title": "Cerebral and Cognitive Impact of Female Professional SoccerPractice",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Traumatic Chronic Encephalopathy",
+    "Interventions": "OTHER:Cerebral MRI"
+  },
+  "NCT04489082": {
+    "NCT_ID": "NCT04489082",
+    "Title": "Near-Infrared Laser Stimulation for Various Neurological Conditions",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Refractory Depression; Anxiety Disorders; Neurodegenerative Diseases",
+    "Interventions": "DEVICE:Near Infrared Laser Stimulation"
+  },
+  "NCT03851380": {
+    "NCT_ID": "NCT03851380",
+    "Title": "Improving Brain Stimulation Through Imaging",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Depression; Depressive Disorder, Treatment-Resistant; COVID Stress",
+    "Interventions": "BEHAVIORAL:Psychological / Functional Assessment; OTHER:Structural and Functional MRI; DEVICE:Transcranial Magnetic Brain Stimulation and MR Image Guidance; DEVICE:Transcranial Electrical Stimulation (tES)"
+  },
+  "NCT06859996": {
+    "NCT_ID": "NCT06859996",
+    "Title": "CORE (Cognitive Optimization Through Rehabilitation and Education) Study",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Mild Traumatic Brain Injury; Concussion",
+    "Interventions": "BEHAVIORAL:Tools for Rehabilitation and Cognitive Care (On-TRACC); BEHAVIORAL:Brain Health psychoeducation"
+  },
+  "NCT04573803": {
+    "NCT_ID": "NCT04573803",
+    "Title": "Pharmacological Management of Seizures Post Traumatic Brain Injury",
+    "Overall_Status": "NOT_YET_RECRUITING",
+    "Conditions": "Traumatic Brain Injury; Post Traumatic Seizures",
+    "Interventions": "DRUG:Phenytoin Sodium; DRUG:Levetiracetam"
+  },
+  "NCT02699476": {
+    "NCT_ID": "NCT02699476",
+    "Title": "Enhancing Cognitive and Neurobehavioral Functions After Repetitive Traumatic Brain Injuries (rTBI) in Retired NFL Players and Military Veterans.",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Traumatic Brain Injury; Concussion; Mild Cognitive Disorder",
+    "Interventions": "BEHAVIORAL:Psycho-Social Therapy; DEVICE:Cognitive Behavioral Computer Training; BEHAVIORAL:Interactive Trainer-Subject Sessions; DEVICE:Active Control Games"
+  },
+  "NCT07883720": {
+    "NCT_ID": "NCT07883720",
+    "Title": "EXercise-induced PhysioLogical Adaptations In Neurological Disorders",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Epilepsy; Functional Neurological Disorder; Mild Cognitive Impairment",
+    "Interventions": "BEHAVIORAL:Acute Exercise"
+  },
+  "NCT06427980": {
+    "NCT_ID": "NCT06427980",
+    "Title": "Efficacy and Safety of Chinese Herbal HuoXue LiShui Formula for Chronic Subdural Hematoma",
+    "Overall_Status": "NOT_YET_RECRUITING",
+    "Conditions": "Chronic Subdural Hematoma",
+    "Interventions": "DRUG:Chinese Herbal formula HuoXue LiShui; DRUG:Chinese Herbal formula Placebo"
+  },
+  "NCT01670526": {
+    "NCT_ID": "NCT01670526",
+    "Title": "Rivastigmine Patch in Veterans With Cognitive Impairment Following TBI",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury; Cognitive Impairment",
+    "Interventions": "DRUG:Rivastigmine Transdermal Patch"
+  },
+  "NCT05065450": {
+    "NCT_ID": "NCT05065450",
+    "Title": "Amygdala Memory Enhancement",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Brain Diseases; Epilepsy; Memory Disorders",
+    "Interventions": "DEVICE:Intracranial Stimulation"
+  },
+  "NCT00893347": {
+    "NCT_ID": "NCT00893347",
+    "Title": "An Intervention Program to Reduce to the Risk of Persistent Symptoms After Concussion",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Mild Traumatic Brain Injury",
+    "Interventions": "BEHAVIORAL:Treatment as usual; BEHAVIORAL:Cognitive-behavioural therapy"
+  },
+  "NCT02442843": {
+    "NCT_ID": "NCT02442843",
+    "Title": "Non Invasive Brain Stimulation for PTSD",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Posttraumatic Stress Disorder (PTSD)",
+    "Interventions": "DEVICE:Active tDCS; DEVICE:Sham tDCS"
+  },
+  "NCT07785908": {
+    "NCT_ID": "NCT07785908",
+    "Title": "Individualized (fMRI-guided) TMS Intervention for Post-Traumatic Stress Disorder (PTSD)",
+    "Overall_Status": "NOT_YET_RECRUITING",
+    "Conditions": "PTSD; Post Traumatic Stress Disorder (PTSD)",
+    "Interventions": "DEVICE:Active Transcranial Magnetic Stimulation (TMS); DEVICE:Sham Transcranial Magnetic Stimulation (TMS)"
+  },
+  "NCT06074328": {
+    "NCT_ID": "NCT06074328",
+    "Title": "Blended Reality Immersion for Geriatric Head Trauma: The BRIGHT Study",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DEVICE:Virtual Reality Neurocognitive Exercises administered through an Oculus Headset"
+  },
+  "NCT07682207": {
+    "NCT_ID": "NCT07682207",
+    "Title": "Accelerated iTBS for PTSD and Depression",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Post Traumatic Stress Disorder PTSD; Major Depressive Disorder (MDD)",
+    "Interventions": "DEVICE:Accelerated intermittent theta burst stimulation"
+  },
+  "NCT00803036": {
+    "NCT_ID": "NCT00803036",
+    "Title": "Observational Study of Cortical Spreading Depression in Human Brain Trauma",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": ""
+  },
+  "NCT00483444": {
+    "NCT_ID": "NCT00483444",
+    "Title": "Telephone Follow-Up on Outcome After Mild Traumatic Brain Injury",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Brain Concussion",
+    "Interventions": "BEHAVIORAL:Scheduled telephone follow-up"
+  },
+  "NCT07166536": {
+    "NCT_ID": "NCT07166536",
+    "Title": "Effect of Mental Imagery in Patients With Persistent Post-concussion Symptoms",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Mild Traumatic Brain Injury, Concussion; Post Concussive Syndrome, Chronic; Post Traumatic Headache",
+    "Interventions": "OTHER:Provocation Test for Symptoms Using Mental Imagery"
+  },
+  "NCT03701594": {
+    "NCT_ID": "NCT03701594",
+    "Title": "The Impact of Yoga-based Physical Therapy for Individuals With Traumatic Brain Injury",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "OTHER:Yoga-based physical therapy group; OTHER:Seated Rest; OTHER:Conventional Physical Therapy"
+  },
+  "NCT01212679": {
+    "NCT_ID": "NCT01212679",
+    "Title": "Effects of Intranasal Nerve Growth Factor for Traumatic Brain Injury",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DRUG:nerve growth factor; DRUG:nomral saline"
+  },
+  "NCT05762796": {
+    "NCT_ID": "NCT05762796",
+    "Title": "Neuromodulation and Neuroimaging in Older Children With Mild Traumatic Brain Injury",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Brain Concussion; Mild Traumatic Brain Injury; Motor Disorders",
+    "Interventions": "DEVICE:tDCS in Youth with mild traumatic brain injury"
+  },
+  "NCT00771277": {
+    "NCT_ID": "NCT00771277",
+    "Title": "Team Based Initiative Support",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "BEHAVIORAL:Support Teams"
+  },
+  "NCT07332299": {
+    "NCT_ID": "NCT07332299",
+    "Title": "Remote Stimulation and Training to Advance Recovery From TBI in Seniors",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Traumatic Brain Injury; Aging Related Cognitive Decline",
+    "Interventions": "COMBINATION_PRODUCT:Active tDCS and Cognitive Training Intervention; COMBINATION_PRODUCT:Sham tDCS and Cognitive Training Intervention"
+  },
+  "NCT04372797": {
+    "NCT_ID": "NCT04372797",
+    "Title": "Standardized Instruments to Provide Diagnostic and Prognostic Information in Mild Traumatic Brain Injury (mTBI)",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Mild Traumatic Brain Injury",
+    "Interventions": "DEVICE:Diagnostic test"
+  },
+  "NCT06850584": {
+    "NCT_ID": "NCT06850584",
+    "Title": "Validation Study of Simplified Chinese Version of LOTCA Scale in the Assessment of Cognitive Impairment in Patients with Traumatic Brain Injury",
+    "Overall_Status": "NOT_YET_RECRUITING",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "OTHER:Observation"
+  },
+  "NCT02393079": {
+    "NCT_ID": "NCT02393079",
+    "Title": "Analysis of TCLT in TBI Patients: a Prospective, Randomized Controlled Trial",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Brain Injury; Cognitive Deficits",
+    "Interventions": "DEVICE:Transcranial LED Therapy (TCLT); DEVICE:Sham"
+  },
+  "NCT05837676": {
+    "NCT_ID": "NCT05837676",
+    "Title": "Problem-Solving Training for Concussion",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Brain Concussion",
+    "Interventions": "BEHAVIORAL:Problem Solving Training for Concussion; OTHER:Treatment as usual"
+  },
+  "NCT01214018": {
+    "NCT_ID": "NCT01214018",
+    "Title": "Evaluation of Post-traumatic Stress Among the Nearest Relatives of Brain-dead Organ Donors",
+    "Overall_Status": "TERMINATED",
+    "Conditions": "Stress Disorders, Post-Traumatic; Tissue Donors; Tissue and Organ Procurement",
+    "Interventions": "OTHER:Questionnaires and interview"
+  },
+  "NCT02918994": {
+    "NCT_ID": "NCT02918994",
+    "Title": "LearningRx Cognitive Training for Brain Injury",
+    "Overall_Status": "ACTIVE_NOT_RECRUITING",
+    "Conditions": "Traumatic Brain Injury (TBI); Acquired Brain Injury; Post COVID-19 Cognitive Impairment",
+    "Interventions": "BEHAVIORAL:LearningRx cognitive training"
+  },
+  "NCT07569354": {
+    "NCT_ID": "NCT07569354",
+    "Title": "Recovery Among Older Adults Following Mild TBI",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Mild Traumatic Brain Injury",
+    "Interventions": ""
+  },
+  "NCT02945605": {
+    "NCT_ID": "NCT02945605",
+    "Title": "Effects of Early Vestibular Rehabilitation in Patients With Dizziness and Balance Disorders After Sport Concussion",
+    "Overall_Status": "TERMINATED",
+    "Conditions": "Brain Concussion",
+    "Interventions": "OTHER:Early Vestibular Rehabilitation; OTHER:Standard of Care"
+  },
+  "NCT04287283": {
+    "NCT_ID": "NCT04287283",
+    "Title": "Cognitive Profile of Patients at the Sagol Center for Hyperbaric Medicine and Research",
+    "Overall_Status": "ACTIVE_NOT_RECRUITING",
+    "Conditions": "TBI (Traumatic Brain Injury); Stroke; Fibromyalgia",
+    "Interventions": "OTHER:Hyperbaric Oxygen"
+  },
+  "NCT06733025": {
+    "NCT_ID": "NCT06733025",
+    "Title": "Comparing Upper Limb Surgery and Botulinum Toxin for Spasticity: A Paired Design Study",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Muscle Spasticity; Spinal Cord Injury; Stroke",
+    "Interventions": "PROCEDURE:Tendon lengthening surgery; DRUG:BoNT Injections"
+  },
+  "NCT03755349": {
+    "NCT_ID": "NCT03755349",
+    "Title": "Covers to Improve Esthetic Outcome After Surgery for Chronic Subdural Hematoma",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Hematoma, Subdural, Chronic; Hematoma, Subdural, Intracranial; Haematoma;Subdural;Traumatic",
+    "Interventions": "DEVICE:Placement of burr-hole covers; OTHER:No placement of burr-hole covers"
+  },
+  "NCT06156735": {
+    "NCT_ID": "NCT06156735",
+    "Title": "Music Therapy on Cognition in Neurorehabilitation",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Dementia; Stroke; Traumatic Brain Injury",
+    "Interventions": "OTHER:Passive Music Therapy (P); OTHER:Active Music Therapy (A); OTHER:Standard Care Control Condition (C)"
+  },
+  "NCT01723033": {
+    "NCT_ID": "NCT01723033",
+    "Title": "Differences in Cognitive Performance and Brain Activity Between Patients With PTSD and OCD",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "PTSD; OCD",
+    "Interventions": ""
+  },
+  "NCT07507214": {
+    "NCT_ID": "NCT07507214",
+    "Title": "Optimized, Neuroplasticity-Enhanced-Depression (ONE-D) Transcranial Magnetic Stimulation (TMS) Treatment for Female Athletes With Co-morbid Depression and Concussion",
+    "Overall_Status": "NOT_YET_RECRUITING",
+    "Conditions": "Concussion; Depression",
+    "Interventions": "DEVICE:ONE-D TMS protocol and d-cycloserine (125 mg)"
+  },
+  "NCT00715052": {
+    "NCT_ID": "NCT00715052",
+    "Title": "The Effect of Hyperbaric Oxygen Therapy on Patients Suffering From Neurologic Deficiency Due Traumatic Brain Injury",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Neurologic Deficiency; Traumatic Brain Injury",
+    "Interventions": "PROCEDURE:Hyperbaric Oxygen Therapy (HBOT)"
+  },
+  "NCT04279431": {
+    "NCT_ID": "NCT04279431",
+    "Title": "Follow-up of MTBI Patients Discharged from the ED Using Standard Clinical Triage Including BrainScope One",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "TBI (Traumatic Brain Injury); Concussion, Brain; MTBI - Mild Traumatic Brain Injury",
+    "Interventions": "DEVICE:EEG Recording; OTHER:Neurocognitive Tests; OTHER:Clinician Evaluation; OTHER:22-item CSI"
+  },
+  "NCT02992327": {
+    "NCT_ID": "NCT02992327",
+    "Title": "Biomarker Levels as A Predictor of Concussion Severity OUTcomes (BlacOut)",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Concussion, Mild; Neurocognitive Dysfunction",
+    "Interventions": ""
+  },
+  "NCT07872761": {
+    "NCT_ID": "NCT07872761",
+    "Title": "Mindful RAVANS Study",
+    "Overall_Status": "NOT_YET_RECRUITING",
+    "Conditions": "mTBI - Mild Traumatic Brain Injury; Posttraumatic Stress Disorder; Posttraumatic Headache",
+    "Interventions": "DEVICE:Cala-RAVANS (Model CR-2); OTHER:Sham"
+  },
+  "NCT03600324": {
+    "NCT_ID": "NCT03600324",
+    "Title": "Randomized Controlled Trial for Vestibular Treatment in Concussion",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Vestibular Disorder; Mild Traumatic Brain Injury",
+    "Interventions": "BEHAVIORAL:T-REV"
+  },
+  "NCT00788723": {
+    "NCT_ID": "NCT00788723",
+    "Title": "Cortical Excitability in Patients With Severe Brain Injury",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Severe Traumatic Brain Injury; Subarachnoid Hemorrhage; Anoxic Brain Injury",
+    "Interventions": "DEVICE:Transcranial Magnetic Stimulation"
+  },
+  "NCT06212726": {
+    "NCT_ID": "NCT06212726",
+    "Title": "RTL Concussion Communication",
+    "Overall_Status": "WITHDRAWN",
+    "Conditions": "Concussion, Mild; Post Concussion Symptoms; Cognitive Impairments",
+    "Interventions": "BEHAVIORAL:InjureFree"
+  },
+  "NCT06429774": {
+    "NCT_ID": "NCT06429774",
+    "Title": "Comparative Effectiveness of Intervention in Multi-level Hospitals for Acute Traumatic Brain Injury(Metric-TBI)",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "OTHER:Neurological function; OTHER:Mental State, cognitive function, and life quality assessment; OTHER:Peripheral blood test; OTHER:Hematoma test"
+  },
+  "NCT03796936": {
+    "NCT_ID": "NCT03796936",
+    "Title": "3MDR to Treat PTSD With mTBI (3MDR)",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Posttraumatic Stress Disorder; Traumatic Brain Injury",
+    "Interventions": "BEHAVIORAL:Motion-assisted, Multi-modular Memory Desensitization and Reconsolidation (3MDR) Therapy"
+  },
+  "NCT03314584": {
+    "NCT_ID": "NCT03314584",
+    "Title": "Managing Mild Traumatic Brain Injury Related Headaches With Repetitive Transcranial Magnetic Stimulation",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury (TBI)",
+    "Interventions": "DEVICE:Transcranial Magnetic Stimulation; DEVICE:Sham Transcranial Magnetic Stimulation; DIAGNOSTIC_TEST:Magnetic resonance imaging (MRI)"
+  },
+  "NCT05976087": {
+    "NCT_ID": "NCT05976087",
+    "Title": "Improving Grasp Function in People With Sensorimotor Impairments by Combining Electrical Stimulation With a Robotic Hand Orthosis",
+    "Overall_Status": "ACTIVE_NOT_RECRUITING",
+    "Conditions": "Stroke; Spinal Cord Injuries; Traumatic Brain Injury",
+    "Interventions": "DEVICE:SensoExo"
+  },
+  "NCT05302362": {
+    "NCT_ID": "NCT05302362",
+    "Title": "Effect of Fixed vs. Tailored Intensity tDCS for Attention Deficit After TBI",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury; Attention Deficit; Cognitive Impairment",
+    "Interventions": "DEVICE:transcranial direct current stimulation"
+  },
+  "NCT03139682": {
+    "NCT_ID": "NCT03139682",
+    "Title": "Microvascular Injury and Blood-brain Barrier Dysfunction as Novel Biomarkers and Targets for Treatment in Traumatic Brain Injury",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury; Blood Brain Barrier Defect",
+    "Interventions": ""
+  },
+  "NCT04816591": {
+    "NCT_ID": "NCT04816591",
+    "Title": "Middle Meningeal Artery Embolization for the Treatment of Subdural Hematomas With TRUFILL® n-BCA",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Chronic Subdural Hematoma",
+    "Interventions": "DEVICE:Experimental: Interventional Cohort: TRUFILL n-Butyl Cyanoacrylate (n-BCA) Liquid Embolic System; OTHER:Standard of Care Surgery; DEVICE:Experimental: Interventional Cohort: TRUFILL n-BCA Liquid Embolic System; OTHER:Standard of Care Medical Management"
+  },
+  "NCT03138876": {
+    "NCT_ID": "NCT03138876",
+    "Title": "EEG Cap for Identification of Non-Convulsive Status Epilepticus",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Nonconvulsive Status Epilepticus; Subclinical Seizure; Altered Mental Status",
+    "Interventions": "DEVICE:EEG Cap; DRUG:Anti-seizure medication; PROCEDURE:Standard EEG"
+  },
+  "NCT07264166": {
+    "NCT_ID": "NCT07264166",
+    "Title": "Intranasal AAV9-PHP.eB Gene Therapy in Cerebral Palsy (CP) & Hypoxic Ischemic Encephalopathy (HIE)",
+    "Overall_Status": "ENROLLING_BY_INVITATION",
+    "Conditions": "Hypoxic Brain Damage; Hypoxic Ischaemic Encephalopathy (HIE); Hypoxic Ischaemic Encephalopathy Due to Cardiac Arrest",
+    "Interventions": ""
+  },
+  "NCT06792500": {
+    "NCT_ID": "NCT06792500",
+    "Title": "A Basket Clinical Study to Assess Glycerol Tributyrate in Patients With Mitochondrial Encephalopathy, Lactic Acidosis, Stroke-like Episodes (MELAS) or Leber's Hereditary Optic Neuropathy-Plus (LHON-Plus)",
+    "Overall_Status": "NOT_YET_RECRUITING",
+    "Conditions": "MELAS Syndrome; Lebers Hereditory Optic Neuropathy With Extra Ocular Symptoms (LHON-Plus)",
+    "Interventions": "DRUG:Glycerol Tributyrate"
+  },
+  "NCT05232630": {
+    "NCT_ID": "NCT05232630",
+    "Title": "Fenfluramine for the Treatment of Different Types of Developmental and Epileptic Encephalopathies: a Pilot Trial Exploring Epileptic and Non-epileptic Outcomes",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Refractory Epilepsy; SYNGAP1 Encephalopathy; STXBP1 Encephalopathy With Epilepsy",
+    "Interventions": "DRUG:Fenfluramine"
+  },
+  "NCT03572933": {
+    "NCT_ID": "NCT03572933",
+    "Title": "Study of Adjunctive Ganaxolone Treatment in Children and Young Adults With CDKL5 Deficiency Disorder",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "CDKL5 Deficiency Disorder",
+    "Interventions": "DRUG:ganaxolone; DRUG:Placebo"
+  },
+  "NCT03779672": {
+    "NCT_ID": "NCT03779672",
+    "Title": "Memantine for Epileptic Encephalopathy",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Epileptic Encephalopathy, Childhood-Onset",
+    "Interventions": "DRUG:Memantine Hydrochloride 10 mg"
+  },
+  "NCT03829215": {
+    "NCT_ID": "NCT03829215",
+    "Title": "Prehospital Non-invasive Cooling of Comatose Patients After Cardiac Arrest",
+    "Overall_Status": "WITHDRAWN",
+    "Conditions": "Cardiac Arrest; Postresuscitation Encephalopathy",
+    "Interventions": "DEVICE:CAERVest cooling device"
+  },
+  "NCT06500260": {
+    "NCT_ID": "NCT06500260",
+    "Title": "CNKSR2 Natural History Study",
+    "Overall_Status": "ACTIVE_NOT_RECRUITING",
+    "Conditions": "Developmental Dysphasia; Epileptic Encephalopathy, Childhood-Onset; X-Linked Intellectual Disability",
+    "Interventions": ""
+  },
+  "NCT02603991": {
+    "NCT_ID": "NCT02603991",
+    "Title": "Prospective Cohort Study on the Efficacy of Vagus Nerve Stimulation for Children and Adolescents With Epilepsy(PVNS-CAE)",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Epileptic Encephalopathy",
+    "Interventions": "PROCEDURE:PINS Vagus Nerve Stimulator; DRUG:Levetiracetam"
+  },
+  "NCT03360656": {
+    "NCT_ID": "NCT03360656",
+    "Title": "Transnasal Induction of Normothermia in Febrile Stroke Patients",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Stroke, Ischemic; Stroke Hemorrhagic; Fever",
+    "Interventions": "DEVICE:Transnasal Thermal Regulating Device"
+  },
+  "NCT02023866": {
+    "NCT_ID": "NCT02023866",
+    "Title": "Open-Label, Dose-Escalating Study Assessing Safety, Tolerability, Efficacy, of RP103 in Mitochondrial Disease",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Inherited Mitochondrial Disease, Including Leigh Syndrome",
+    "Interventions": "DRUG:Cysteamine Bitartrate"
+  },
+  "NCT07024771": {
+    "NCT_ID": "NCT07024771",
+    "Title": "Severity of Hypoxic Ischemic Encephalopathy and Neurological Pupil Index in Neonates",
+    "Overall_Status": "NOT_YET_RECRUITING",
+    "Conditions": "Hypoxic Ischemic Encephalopathy (HIE)",
+    "Interventions": "DEVICE:Automated Pupillometer"
+  },
+  "NCT07825675": {
+    "NCT_ID": "NCT07825675",
+    "Title": "EEG Abnormalities as Predictor of Outcome in Pediatric Encephalopathy",
+    "Overall_Status": "NOT_YET_RECRUITING",
+    "Conditions": "Encephalopathy; Brain Diseases",
+    "Interventions": ""
+  },
+  "NCT07184008": {
+    "NCT_ID": "NCT07184008",
+    "Title": "Echo and ECG Findings in Neuropediatrics",
+    "Overall_Status": "NOT_YET_RECRUITING",
+    "Conditions": "Migraine Seizures Encephalopathy; Arrythmia Congenital Heart Disease Cardiomyopathy",
+    "Interventions": ""
+  },
+  "NCT06145256": {
+    "NCT_ID": "NCT06145256",
+    "Title": "Radiological Evaluation of Hypoxic Ischemic Encephalopathy",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Hypoxic Ischemic Encephalopathy",
+    "Interventions": "DEVICE:MRI brain, MSCT brain, Transcranial Ultrasound"
+  },
+  "NCT07508670": {
+    "NCT_ID": "NCT07508670",
+    "Title": "An Observational Study of the NeuroBell EEG Monitor",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "EEG; Neonatology; Seizure",
+    "Interventions": "DEVICE:NeuroBell EEG Monitor"
+  },
+  "NCT01646619": {
+    "NCT_ID": "NCT01646619",
+    "Title": "Efficacy Study of Hypothermia Plus Magnesium Sulphate(MgSO4) in the Management of Term and Near Term Babies With Hypoxic Ischemic Encephalopathy",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Severe Hypoxic Ischemic Encephalopathy; Moderate Hypoxic Ischemic Encephalopathy",
+    "Interventions": "DRUG:Magnesium Sulphate; DRUG:Placebo"
+  },
+  "NCT07413211": {
+    "NCT_ID": "NCT07413211",
+    "Title": "Genetic Developmental and Epileptic Encephalopathy Natural History Study for Clinical Trial Readiness",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "MEF2C; DEE",
+    "Interventions": "OTHER:Observation"
+  },
+  "NCT05462054": {
+    "NCT_ID": "NCT05462054",
+    "Title": "Natural History Study in Pediatric Patients with STXBP1 Encephalopathy with Epilepsy",
+    "Overall_Status": "WITHDRAWN",
+    "Conditions": "STXBP1 Encephalopathy with Epilepsy",
+    "Interventions": ""
+  },
+  "NCT06855901": {
+    "NCT_ID": "NCT06855901",
+    "Title": "Home Ultra-long Term EEG Monitoring for Rare Epilepsies and Developmental and Epileptic Encephalopathies",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Epilepsies; Epilepsies, Focal; Epileptic Encephalopathy",
+    "Interventions": "DEVICE:Ultra-longterm EEG monitoring at home by means of a scubscalp electrode implant."
+  },
+  "NCT05226780": {
+    "NCT_ID": "NCT05226780",
+    "Title": "Extension Study to Evaluate How Safe and Tolerable NBI-921352 is as an Adjunctive Therapy for Participants With SCN8A-DEE",
+    "Overall_Status": "TERMINATED",
+    "Conditions": "SCN8A Developmental and Epileptic Encephalopathy Syndrome",
+    "Interventions": "DRUG:NBI-921352"
+  },
+  "NCT03123081": {
+    "NCT_ID": "NCT03123081",
+    "Title": "Role of Umbilical Cord Milking in the Management of Hypoxic-ischemic Encephalopathy in Neonates",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Hypoxic-Ischemic Encephalopathy",
+    "Interventions": "PROCEDURE:Umbilical Cord Milking"
+  },
+  "NCT04802707": {
+    "NCT_ID": "NCT04802707",
+    "Title": "Deoxynucleosides Pyrimidines as Treatment for Mitochondrial Depletion Syndrome",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Mitochondrial Diseases; Mitochondrial Encephalomyopathy; Mitochondrial Encephalopathy",
+    "Interventions": "COMBINATION_PRODUCT:deoxycytidine and deoxythymidine"
+  },
+  "NCT02578823": {
+    "NCT_ID": "NCT02578823",
+    "Title": "Targeted Temperature Management After In-Hospital Cardiac Arrest",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Hypoxic Ischemic Encephalopathy",
+    "Interventions": "DEVICE:Arctic Sun®; DEVICE:Arcticgel™; PROCEDURE:Conventional antipyretic treatment"
+  },
+  "NCT03955432": {
+    "NCT_ID": "NCT03955432",
+    "Title": "Long-term Cardiac Monitoring in Epilepsy",
+    "Overall_Status": "TERMINATED",
+    "Conditions": "Focal Epilepsy; Intractable Epilepsy; Epileptic Encephalopathy",
+    "Interventions": "DEVICE:Reveal LINQ ICM System"
+  },
+  "NCT04205838": {
+    "NCT_ID": "NCT04205838",
+    "Title": "Anakinra in Preventing Severe Chimeric Antigen Receptor T-Cell Related Encephalopathy Syndrome in Patients With Recurrent or Refractory Large B-cell Lymphoma",
+    "Overall_Status": "TERMINATED",
+    "Conditions": "Diffuse Large B-Cell Lymphoma, Not Otherwise Specified; High Grade B-Cell Lymphoma; Progressive Disease",
+    "Interventions": "BIOLOGICAL:Anakinra; BIOLOGICAL:Axicabtagene Ciloleucel; DRUG:Cyclophosphamide; DRUG:Fludarabine"
+  },
+  "NCT04639310": {
+    "NCT_ID": "NCT04639310",
+    "Title": "XEN496 (Ezogabine) in Children With KCNQ2 Developmental and Epileptic Encephalopathy",
+    "Overall_Status": "TERMINATED",
+    "Conditions": "Epilepsy; Epilepsy in Children; Epilepsy; Seizure",
+    "Interventions": "DRUG:XEN496; DRUG:Placebo"
+  },
+  "NCT06412653": {
+    "NCT_ID": "NCT06412653",
+    "Title": "Prospective Pilot Trial to Address Feasibility and Safety of Oral Zinc in GNAO1 Associated Disorders",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "GNAO1; Dystonia; Epilepsy",
+    "Interventions": "DRUG:Zinc Acetate Dihydrate"
+  },
+  "NCT02970240": {
+    "NCT_ID": "NCT02970240",
+    "Title": "Cardiopulmonary Testing in ME/CFS to Improve Diagnostic Accuracy",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Myalgic Encephalomyelitis; Chronic Fatigue Syndrome",
+    "Interventions": "PROCEDURE:Cardiopulmonary testing"
+  },
+  "NCT05818553": {
+    "NCT_ID": "NCT05818553",
+    "Title": "A Clinical Trial of PRAX-562 in Subjects With Developmental and Epileptic Encephalopathies (DEE)",
+    "Overall_Status": "ACTIVE_NOT_RECRUITING",
+    "Conditions": "SCN2A Encephalopathy; SCN8A Encephalopathy",
+    "Interventions": "DRUG:PRAX-562"
+  },
+  "NCT07019922": {
+    "NCT_ID": "NCT07019922",
+    "Title": "A Clinical Trial of Elsunersen in Pediatric SCN2A-DEE to Assess Efficacy and Safety",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Epileptic Encephalopathy; SCN2A Encephalopathy",
+    "Interventions": "DRUG:1mg elsunersen; DRUG:0.5mg elsunersen"
+  },
+  "NCT07577713": {
+    "NCT_ID": "NCT07577713",
+    "Title": "Prospective Observational Multimodal Neuromonitoring in Adult NSICU Patients",
+    "Overall_Status": "NOT_YET_RECRUITING",
+    "Conditions": "Subarachnoid Hemorrhage, Aneurysmal; Brain Injuries, Traumatic; Cerebral Hemorrhage",
+    "Interventions": ""
+  },
+  "NCT04042272": {
+    "NCT_ID": "NCT04042272",
+    "Title": "Evaluation of s100β, NSE and GFAP Levels in Renal Transplantation",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Kidney Transplant; Complications; Neurologic Manifestations; Uremic Encephalopathy",
+    "Interventions": "DIAGNOSTIC_TEST:S100β, Neuron specific enolase (NSE) and Glial fibrillary acidic protein (GFAP)"
+  },
+  "NCT07227857": {
+    "NCT_ID": "NCT07227857",
+    "Title": "A First-in-human Study of S230815 in Pediatric Participants With KCNT1-related Developmental and Epileptic Encephalopathy",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Epileptic Encephalopathy",
+    "Interventions": "DRUG:S230815- Starting dose A; DRUG:S230815- Dose B; DRUG:S230815- Dose C; DRUG:S230815- Dose D"
+  },
+  "NCT00006176": {
+    "NCT_ID": "NCT00006176",
+    "Title": "Clinical and Genetic Studies of Familial Presenile Dementia With Neuronal Inclusion Bodies",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Familial Dementia With Neuroserpin Inclusion Bodies; Nervous System Heredodegenerative Disorder",
+    "Interventions": ""
+  },
+  "NCT02960347": {
+    "NCT_ID": "NCT02960347",
+    "Title": "Examining the Efficacy of tDCS in the Attenuation of Epileptic Paroxysmal Discharges and Clinical Seizures",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Ohtahara Syndrome",
+    "Interventions": "DEVICE:High-definition (HD) transcranial direct current stimulator, HD-tDCS with 4x1 HD adaptor"
+  },
+  "NCT03098459": {
+    "NCT_ID": "NCT03098459",
+    "Title": "Illuminating Neuropsychological Dysfunction and Systemic Inflammatory Mechanisms Gleaned After Hospitalization in Trauma-ICU Study",
+    "Overall_Status": "ACTIVE_NOT_RECRUITING",
+    "Conditions": "Delirium; Cognitive Impairment; Alzheimer; Early Onset",
+    "Interventions": "OTHER:Non-interventional observational prospective cohort study"
+  },
+  "NCT07413562": {
+    "NCT_ID": "NCT07413562",
+    "Title": "Feasibility, Safety, and Preliminary Efficacy of Median Nerve Stimulation for Cognitive Dysfunction in Patients With Acute Traumatic Brain Injury",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Traumatic Brain Injury; Cognitive Dysfunction",
+    "Interventions": "DEVICE:Median nerve stimulation; DRUG:Sham"
+  },
+  "NCT07867210": {
+    "NCT_ID": "NCT07867210",
+    "Title": "Memantine Targeting Neurovascular Dysfunction After Mild and Moderate Traumatic Brain Injury (MEND)",
+    "Overall_Status": "NOT_YET_RECRUITING",
+    "Conditions": "Traumatic Brain Injury; Mild Traumatic Brain Injury; Moderate Traumatic Brain Injury (TBI)",
+    "Interventions": "DRUG:Memantine"
+  },
+  "NCT06221826": {
+    "NCT_ID": "NCT06221826",
+    "Title": "MEXIDOL® in the Rehabilitation Treatment of Patients With Acute Cerebral Failure",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Ischemic Stroke, Acute",
+    "Interventions": "DRUG:Mexidol"
+  },
+  "NCT00419874": {
+    "NCT_ID": "NCT00419874",
+    "Title": "Characteristics of Blood- Brain Barrier Permeability in Neurological Patients",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Traumatic Brain Injury; Cerebral Infarction; Cerebral Hemorrhage",
+    "Interventions": ""
+  },
+  "NCT00258505": {
+    "NCT_ID": "NCT00258505",
+    "Title": "Monitoring Brain Activity in Human Brain Injury",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Traumatic Brain Injury; Aneurysmal Subarachnoid Hemorrhage; Cerebral Infarction",
+    "Interventions": "PROCEDURE:Procedure: intracranial monitoring up to 9 days after injury"
+  },
+  "NCT00375869": {
+    "NCT_ID": "NCT00375869",
+    "Title": "Safety of Darbepoetin Alfa Treatment in Patients With Severe Traumatic Brain Injury",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DRUG:Darbeopoetin; DRUG:Normal Saline (Placebo)"
+  },
+  "NCT07679126": {
+    "NCT_ID": "NCT07679126",
+    "Title": "The Systemic Nature of Severe Traumatic Brain Injury",
+    "Overall_Status": "NOT_YET_RECRUITING",
+    "Conditions": "Severe Traumatic Brain Injury",
+    "Interventions": ""
+  },
+  "NCT01619293": {
+    "NCT_ID": "NCT01619293",
+    "Title": "The Neuromarker S-100B in Patients With Different Types of Intracranial Injury",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury; Trauma",
+    "Interventions": ""
+  },
+  "NCT05785000": {
+    "NCT_ID": "NCT05785000",
+    "Title": "Rehabilitation in Post Concussion Syndrome",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Post-Concussion Syndrome",
+    "Interventions": "OTHER:Physical exercise programme as an add-on; OTHER:Control patients receiving usual care"
+  },
+  "NCT04006054": {
+    "NCT_ID": "NCT04006054",
+    "Title": "Study on Cerebral Protection of Dexmedetomidine for Patients With Traumatic Brain Injury",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DRUG:Dexmedetomidine; DRUG:Midazolam"
+  },
+  "NCT02100150": {
+    "NCT_ID": "NCT02100150",
+    "Title": "A Safety and Efficacy Study of NNZ-2566 in Patients With Mild Traumatic Brain Injury (mTBI)",
+    "Overall_Status": "TERMINATED",
+    "Conditions": "Concussion",
+    "Interventions": "DRUG:NNZ-2566; DRUG:Placebo"
+  },
+  "NCT02746523": {
+    "NCT_ID": "NCT02746523",
+    "Title": "Effects of Multiple Concussions in Retired NHL Players",
+    "Overall_Status": "TERMINATED",
+    "Conditions": "Cognitive Deficits; Proprioceptive Disorders",
+    "Interventions": "OTHER:Sensory Organization Test; GENETIC:Biomarkers; OTHER:Conners' Adult ADHD Rating Scale (CAARS); OTHER:Depression Scale"
+  },
+  "NCT06034509": {
+    "NCT_ID": "NCT06034509",
+    "Title": "Cognitive and Vascular Functioning Following TBI",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Traumatic Brain Injury; Cognitive Decline; Vascular Dementia",
+    "Interventions": "OTHER:No intervention. This is an observational study."
+  },
+  "NCT00004730": {
+    "NCT_ID": "NCT00004730",
+    "Title": "Magnesium Sulfate For Brain Injury",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Brain Injuries; Head Injury; Brain Concussion",
+    "Interventions": "DRUG:magnesium sulfate"
+  },
+  "NCT02745210": {
+    "NCT_ID": "NCT02745210",
+    "Title": "Non-invasive Clinical Imaging of Cerebral Metabolism Following Brain Injury Using 13C Magnetic Resonance Spectroscopy.",
+    "Overall_Status": "TERMINATED",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DIAGNOSTIC_TEST:13C magnetic resonance spectroscopy"
+  },
+  "NCT02027987": {
+    "NCT_ID": "NCT02027987",
+    "Title": "Traumatic Neuroprotection and Epilepsy Prevention of Valproate Acid",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DRUG:valproate acid"
+  },
+  "NCT07715864": {
+    "NCT_ID": "NCT07715864",
+    "Title": "Naturally Produced Cannabinoids for Neuroprotection From Concussion",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Healthy",
+    "Interventions": "DRUG:Broad spectrum cannabinoid formulation; OTHER:Placebo gel capsule"
+  },
+  "NCT04058132": {
+    "NCT_ID": "NCT04058132",
+    "Title": "Cerebrovascular Reactivity Assessed With fNIRS as a Biomarker of TCVI After Acute Traumatic Brain Injury in Military",
+    "Overall_Status": "TERMINATED",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DRUG:Sildenafil Citrate 50Mg Tab; DEVICE:functional Near-infrared Spectroscopy (fNIRS); OTHER:Carbon Dioxide (CO2) 5%; OTHER:Neuropsychological Assessments"
+  },
+  "NCT03598140": {
+    "NCT_ID": "NCT03598140",
+    "Title": "Sildenafil Treatment for Mild TBI",
+    "Overall_Status": "TERMINATED",
+    "Conditions": "Vascular System Injuries; Concussion, Brain; Post-Concussion Syndrome",
+    "Interventions": "DRUG:Sildenafil Citrate; DRUG:Placebo oral capsule"
+  },
+  "NCT01206283": {
+    "NCT_ID": "NCT01206283",
+    "Title": "A Study Comparing Modified Lund Concept and Cerebral Perfusion Pressure-targeted Therapy in Secondary Brain Ischaemia.",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Brain Injuries; Subarachnoid Hemorrhage",
+    "Interventions": "PROCEDURE:Modified Lund concept; PROCEDURE:Cerebral perfusion pressure-targeted therapy"
+  },
+  "NCT00196131": {
+    "NCT_ID": "NCT00196131",
+    "Title": "Problems With Morphine Use in Patients With a Severe Brain Injury",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Head Trauma; Subarachnoid Hemorrhage; Close Head Injury",
+    "Interventions": "DRUG:morphine"
+  },
+  "NCT06142435": {
+    "NCT_ID": "NCT06142435",
+    "Title": "mTBI Identification and Monitoring Through Retinal Scanning",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Brain Injuries, Traumatic",
+    "Interventions": "DEVICE:Head and Intraocular Trauma Tool"
+  },
+  "NCT04806672": {
+    "NCT_ID": "NCT04806672",
+    "Title": "Euthyroid Sick Syndrome (ESS) Effect on Traumatic Brain Injury Patients and Its Relation With GFAP Level",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Euthyroid Sick Syndromes in Traumatic Brain Injury Patient and GFAP Level",
+    "Interventions": ""
+  },
+  "NCT06431139": {
+    "NCT_ID": "NCT06431139",
+    "Title": "Intensive Physical Exercise Versus Standard Exercise During Rehabilitation of Patients With Traumatic Brain Injury",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "OTHER:INSPIRE intervention protocol"
+  },
+  "NCT04737369": {
+    "NCT_ID": "NCT04737369",
+    "Title": "Multimodal Neuromonitoring",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Subarachnoid Hemorrhage; Intracerebral Hemorrhage; Traumatic Brain Injury",
+    "Interventions": ""
+  },
+  "NCT05379920": {
+    "NCT_ID": "NCT05379920",
+    "Title": "Salivary Biomarkers for Concussion Recovery",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Concussion, Brain",
+    "Interventions": "BEHAVIORAL:High Volume Aerobic Exercise; BEHAVIORAL:Low Volume Aerobic Exercise"
+  },
+  "NCT02997371": {
+    "NCT_ID": "NCT02997371",
+    "Title": "IL-1ra Dose-range Study for Moderate-to-severe TBI Patients",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Traumatic Brain INjury",
+    "Interventions": "DRUG:Anakinra Prefilled Syringe; DRUG:Isotonic saline"
+  },
+  "NCT04063215": {
+    "NCT_ID": "NCT04063215",
+    "Title": "A Clinical Trial to Determine the Safety and Efficacy of Hope Biosciences Autologous Mesenchymal Stem Cell Therapy for the Treatment of Traumatic Brain Injury and Hypoxic-Ischemic Encephalopathy",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "BIOLOGICAL:HB-adMSCs"
+  },
+  "NCT02988687": {
+    "NCT_ID": "NCT02988687",
+    "Title": "Metabolic and QOL Effects of GH Treatment in Patients With TBI and AGHD",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Adult-Onset Growth Hormone Deficiency",
+    "Interventions": ""
+  },
+  "NCT00623506": {
+    "NCT_ID": "NCT00623506",
+    "Title": "Adjunctive Pregnenolone in Veterans With Mild TBI",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DRUG:Pregnenolone; DRUG:Placebo"
+  },
+  "NCT07303933": {
+    "NCT_ID": "NCT07303933",
+    "Title": "Female Concussion Head Cooling",
+    "Overall_Status": "NOT_YET_RECRUITING",
+    "Conditions": "Concussion (Diagnosis); Concussion Post Syndrome; Concussion, Mild",
+    "Interventions": "DEVICE:Brain Cooling"
+  },
+  "NCT01851083": {
+    "NCT_ID": "NCT01851083",
+    "Title": "Pediatric Autologous Bone Marrow Mononuclear Cells for Severe Traumatic Brain Injury",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "BIOLOGICAL:autologous bone marrow mononuclear cells; OTHER:Placebo Infusion"
+  },
+  "NCT01712477": {
+    "NCT_ID": "NCT01712477",
+    "Title": "A Comparison of Propofol Versus Midazolam to Sedate Critically Brain Injury; Measurement of Cytokine Response and Assessment of Function",
+    "Overall_Status": "TERMINATED",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DRUG:Intravenous sedation using propofol; DRUG:Intravenous sedation with midazolam"
+  },
+  "NCT02240589": {
+    "NCT_ID": "NCT02240589",
+    "Title": "Memantine for Neuroprotection and Cognitive Enhancement Following Traumatic Brain Injury",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DRUG:Memantine; DRUG:Placebo"
+  },
+  "NCT03166449": {
+    "NCT_ID": "NCT03166449",
+    "Title": "Effects of Immunonutrition on Biomarkers in Traumatic Brain Injury",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury; Immuno-Deficiency; Nutrient Deficiency",
+    "Interventions": "DIETARY_SUPPLEMENT:Neomune; DIETARY_SUPPLEMENT:Fresubin® HP energy"
+  },
+  "NCT04263337": {
+    "NCT_ID": "NCT04263337",
+    "Title": "NFL LONG Prospective Study",
+    "Overall_Status": "ACTIVE_NOT_RECRUITING",
+    "Conditions": "Concussion, Brain",
+    "Interventions": "DRUG:[11C] PiB; DRUG:[18F] PBR111; DRUG:[18F] Flortaucipir"
+  },
+  "NCT06330935": {
+    "NCT_ID": "NCT06330935",
+    "Title": "Evaluating the Effect of Tranexamic Acid on the Clinical Outcomes in Patients With Traumatic Brain Injury",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DRUG:Tranexamic Acid (TXA); DRUG:Normal saline"
+  },
+  "NCT03788005": {
+    "NCT_ID": "NCT03788005",
+    "Title": "GET-UP Trial: Impact of an Early Out-of-bed Paradigm in Postoperative Outcomes of Chronic Subdural Hematomas",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Chronic Subdural Hematoma",
+    "Interventions": "PROCEDURE:Early mobilization"
+  },
+  "NCT07656818": {
+    "NCT_ID": "NCT07656818",
+    "Title": "Non-Thermal Plasma to Reduce Recurrence in Chronic Subdural Hematoma",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Chronic Subdural Hematoma; Subdural Hematoma; Recurrence",
+    "Interventions": "PROCEDURE:Standard Surgery Protocol; DEVICE:Non-Thermal Plasma"
+  },
+  "NCT06726135": {
+    "NCT_ID": "NCT06726135",
+    "Title": "The NRC Dataset. Developing a Minimum Dataset for Multidisciplinary Rehabilitation: a Modified E-Delphi Study",
+    "Overall_Status": "NOT_YET_RECRUITING",
+    "Conditions": "Pain; Traumatic Brain Injury; Major Trauma",
+    "Interventions": ""
+  },
+  "NCT05647044": {
+    "NCT_ID": "NCT05647044",
+    "Title": "Frontal iTBS for Impulsivity and Suicidal Ideation in Veterans With Mild Traumatic Brain Injury",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Mild Traumatic Brain Injury; Suicidal Ideation; Impulsivity",
+    "Interventions": "DEVICE:intermittent theta burst stimulation; DEVICE:placebo intermittent theta burst stimulation"
+  },
+  "NCT02381977": {
+    "NCT_ID": "NCT02381977",
+    "Title": "Prevalence of Acute Critical Neurological Disease in Children: a Global Epidemiological Assessment",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Cardiac Arrest; Stroke; Traumatic Brain Injury",
+    "Interventions": "OTHER:No intervention"
+  },
+  "NCT07535736": {
+    "NCT_ID": "NCT07535736",
+    "Title": "Prophylactic Anti-epileptic Regimen in Traumatic Brain Injury",
+    "Overall_Status": "NOT_YET_RECRUITING",
+    "Conditions": "Antiepileptic Efficacy and Safety; Brain Injuries",
+    "Interventions": "DRUG:Anti-Epileptic"
+  },
+  "NCT03313505": {
+    "NCT_ID": "NCT03313505",
+    "Title": "PROtein S100B for Mild Trauma of the HEad in Emergency Patients",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Mild Traumatic Brain Injury",
+    "Interventions": "BIOLOGICAL:S100B protein dosage; OTHER:Brain CT scan"
+  },
+  "NCT00893789": {
+    "NCT_ID": "NCT00893789",
+    "Title": "Study to Evaluate the Efficacy and Safety of Armodafinil as Treatment for Patients With Excessive Sleepiness Associated With Mild or Moderate Closed Traumatic Brain Injury",
+    "Overall_Status": "TERMINATED",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DRUG:Armodafinil; DRUG:Armodafinil; DRUG:Armodafinil; OTHER:Placebo"
+  },
+  "NCT04949607": {
+    "NCT_ID": "NCT04949607",
+    "Title": "Traumatic Brain Injury and the Gut Microbiome",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Brain Injury, Chronic; Brain Injuries, Traumatic",
+    "Interventions": "DIETARY_SUPPLEMENT:Inulin fructooligosaccharide"
+  },
+  "NCT06052787": {
+    "NCT_ID": "NCT06052787",
+    "Title": "Combined Cerebrolysin and Amantadine Sulfate Administration for Patients With Traumatic Brain Injury in the ICU",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DRUG:Cerebrolysin; DRUG:amantadine sulfate"
+  },
+  "NCT07246993": {
+    "NCT_ID": "NCT07246993",
+    "Title": "Targeting Neuroplasticity for Persistent Post-Concussive Cognitive Symptoms",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Persistent Post Concussion Syndrome; Mild Traumatic Brain Injury",
+    "Interventions": "DEVICE:Active tDCS; DEVICE:Sham tDCS"
+  },
+  "NCT02429167": {
+    "NCT_ID": "NCT02429167",
+    "Title": "Study of Safety and Effectiveness of PoNS Device to Treat Chronic Balance Deficit Due to Traumatic Brain Injury (TBI)",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury; Chronic Balance Disorder",
+    "Interventions": "DEVICE:Cranial nerve non-invasive neuromodulation via PoNS device; DEVICE:Sham PoNS device"
+  },
+  "NCT01463033": {
+    "NCT_ID": "NCT01463033",
+    "Title": "Levetiracetam to Prevent Post-Traumatic Epilepsy",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Epilepsy; Post-traumatic Epilepsy",
+    "Interventions": "DRUG:Levetiracetam"
+  },
+  "NCT01800383": {
+    "NCT_ID": "NCT01800383",
+    "Title": "Cerebral GABA and Fear Conditioning in PTSD",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Stress Disorders, Post-Traumatic",
+    "Interventions": ""
+  },
+  "NCT06828653": {
+    "NCT_ID": "NCT06828653",
+    "Title": "Comparing Digitally and Traditionally Made Ankle Foot Orthoses",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Flaccid Paresis; Spastic Paresis; Cerebral Palsy",
+    "Interventions": "DEVICE:Part A First Wear Period: Traditional AFO(s); DEVICE:Part A First Wear Period: Digital AFO(s); DEVICE:Part A Second Wear Period: Traditional AFO(s); DEVICE:Part A Second Wear Period: Digital AFO(s)"
+  },
+  "NCT04306601": {
+    "NCT_ID": "NCT04306601",
+    "Title": "Low-Intensity Focused Ultrasound on Individuals With Disorder of Consciousness of Traumatic Brain Injury",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury With Prolonged Loss of Consciousness",
+    "Interventions": "DEVICE:Low-Intensity Focused Ultrasound"
+  },
+  "NCT02901262": {
+    "NCT_ID": "NCT02901262",
+    "Title": "Continuous Quantified EEG in NeuroIntensive Care",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Coma; Traumatic Brain Injury; Subarachnoid Hemorrhage",
+    "Interventions": ""
+  },
+  "NCT07549893": {
+    "NCT_ID": "NCT07549893",
+    "Title": "Middle Meningeal Artery Coagulation During Burr-Hole Drainage for Chronic Subdural Haematoma (BURR-MMA)",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Chronic Subdural Hematomas",
+    "Interventions": "PROCEDURE:CT-Guided Intra-Operative Middle Meningeal Artery Interruption"
+  },
+  "NCT05491356": {
+    "NCT_ID": "NCT05491356",
+    "Title": "Use of Tissue Plasminogen Activator in the Clearance of Chronic Subdural Hematomas",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Hematoma, Subdural; Fibrinolytic; Hemorrhage",
+    "Interventions": "DRUG:Tissue Plasminogen Activator; DRUG:Placebo"
+  },
+  "NCT00790361": {
+    "NCT_ID": "NCT00790361",
+    "Title": "The Natural History of Traumatic Spinal Cord Injury Using fMRI, MRS and DTI",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Central Cord Syndrome",
+    "Interventions": ""
+  },
+  "NCT06426615": {
+    "NCT_ID": "NCT06426615",
+    "Title": "Connectivity and Neural Signatures of Consciousness in Unresponsive States",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Acute Brain Injury; Traumatic Brain Injury; Consciousness Disorders",
+    "Interventions": "DEVICE:Intracranial electrodes"
+  },
+  "NCT06467708": {
+    "NCT_ID": "NCT06467708",
+    "Title": "Transcutaneous Auricular Neurostimulation for ICU Patients With Traumatic Brain Injury",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "TBI (Traumatic Brain Injury)",
+    "Interventions": "DEVICE:Sparrow Ascent Transcutaneous Auricular Neurostimulation (tAN)"
+  },
+  "NCT04323150": {
+    "NCT_ID": "NCT04323150",
+    "Title": "The Effect of Closed Suction System on the Incidence of Ventilator-associated Pneumonia.",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Severe Traumatic Brain Injury; Pancreatic Diseases; Trauma Injury",
+    "Interventions": "DEVICE:Closed suction systems; DEVICE:Conventional suction system"
+  },
+  "NCT07719829": {
+    "NCT_ID": "NCT07719829",
+    "Title": "Paired VNS For TBI Rehabilitation",
+    "Overall_Status": "NOT_YET_RECRUITING",
+    "Conditions": "Traumatic Brain Injury; TBI (Traumatic Brain Injury)",
+    "Interventions": "DEVICE:VNS for TBI group"
+  },
+  "NCT06589362": {
+    "NCT_ID": "NCT06589362",
+    "Title": "Noninvasive Vagal Nerve Stimulation and Cognitive Rehabilitation",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DEVICE:Transcutaneous auricular vagus active nerve stimulation; DEVICE:Transcutaneous auricular vagus sham nerve stimulation"
+  },
+  "NCT06851234": {
+    "NCT_ID": "NCT06851234",
+    "Title": "Osteopathic Manipulative Treatment RCT and Computational Modeling for Head Injuries in Mixed Martial Artists",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Head Injury Trauma",
+    "Interventions": "PROCEDURE:osteopathic manipulative medicine; PROCEDURE:The sham light touch will be performed by an investigator not trained in bodywork or a first--year osteopathic medical student."
+  },
+  "NCT04836481": {
+    "NCT_ID": "NCT04836481",
+    "Title": "A Pharmacokinetic Analysis of Levetiracetam Prophylaxis in Critically Ill Patients With Severe Traumatic Brain Injury",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "OTHER:Serum Sample Collection"
+  },
+  "NCT07237386": {
+    "NCT_ID": "NCT07237386",
+    "Title": "Comparing the Ceriter Stride One, a Pressure-sensitive Smart Insole, With Gait Parameters Measured on the GRAIL in Neurological Populations",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Stroke; Incomplete Spinal Cord Injury; Traumatic Brain Injury",
+    "Interventions": "DEVICE:Wearing smart insoles"
+  },
+  "NCT01676311": {
+    "NCT_ID": "NCT01676311",
+    "Title": "Effects of Huperzine A in Treatment of Moderate to Severe TBI",
+    "Overall_Status": "TERMINATED",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DRUG:Huperzine A; DRUG:Placebo"
+  },
+  "NCT03698838": {
+    "NCT_ID": "NCT03698838",
+    "Title": "Myelin Imaging Changes In Patients With Neurosurgical Diseases",
+    "Overall_Status": "TERMINATED",
+    "Conditions": "Hydrocephalus in Children; Epilepsy; Craniosynostoses",
+    "Interventions": "DEVICE:McDESPOT"
+  },
+  "NCT01111682": {
+    "NCT_ID": "NCT01111682",
+    "Title": "Hypertonic Saline vs. Mannitol for Elevated Intercranial Pressure",
+    "Overall_Status": "TERMINATED",
+    "Conditions": "Traumatic Brain Injury; Elevated Intracranial Pressure",
+    "Interventions": "DRUG:Mannitol; DRUG:Hypertonic Saline"
+  },
+  "NCT07421453": {
+    "NCT_ID": "NCT07421453",
+    "Title": "Implementation of an Enhanced Recovery Pathway for Burr-hole Drainage in Patients With a Chronic Subdural Hematoma",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Chronic Subdural Hematoma; Chronic Subdural Hematomas",
+    "Interventions": ""
+  },
+  "NCT04211233": {
+    "NCT_ID": "NCT04211233",
+    "Title": "Diagnostic Subdural EEG-electrode And Subdural hEmatoma (DISEASE)",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Seizures; Subdural Hematoma",
+    "Interventions": "DEVICE:invasive subdural grid electrode; OTHER:Control arm"
+  },
+  "NCT07563387": {
+    "NCT_ID": "NCT07563387",
+    "Title": "taVNS for Speech and Language Recovery in Aphasia",
+    "Overall_Status": "ENROLLING_BY_INVITATION",
+    "Conditions": "Aphasia; Apraxia of Speech",
+    "Interventions": "DEVICE:taVNS; DEVICE:sham taVNS"
+  },
+  "NCT06584591": {
+    "NCT_ID": "NCT06584591",
+    "Title": "NEUROBALANCE Training to Improve Postural Control in Individuals With Traumatic Brain Injury",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Traumatic Brain Injury; TBI; Diffuse Axonal Brain Injury",
+    "Interventions": "DEVICE:Combined (Robotic balance training and high-definition transcranial direct current stimulation); OTHER:Standard of Care Balance Training"
+  },
+  "NCT03701620": {
+    "NCT_ID": "NCT03701620",
+    "Title": "Heart Rate Variability in Children With Traumatic Brain Injury",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury; Child Development",
+    "Interventions": "DIAGNOSTIC_TEST:HRV monitoring"
+  },
+  "NCT07718542": {
+    "NCT_ID": "NCT07718542",
+    "Title": "Prognosis of Epilepsy With Post-traumatic Stress Disorder and Surgery",
+    "Overall_Status": "NOT_YET_RECRUITING",
+    "Conditions": "Epilepsies, Focal; Drug Restistant Epilepsie; Anxiety Disorders",
+    "Interventions": "OTHER:Baseline PTSD status; OTHER:Psychiatric questionnaires"
+  },
+  "NCT03054285": {
+    "NCT_ID": "NCT03054285",
+    "Title": "Does Short-Term Anti-Seizure Prophylaxis After Traumatic Brain Injury Decrease Seizure Rates?",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Seizures; Traumatic Brain Injury",
+    "Interventions": "DRUG:Levetiracetam"
+  },
+  "NCT05823766": {
+    "NCT_ID": "NCT05823766",
+    "Title": "Transforming Research and Clinical Knowledge in Traumatic Brain Injury Epileptogenesis Project (TRACK-TBI EPI)",
+    "Overall_Status": "ACTIVE_NOT_RECRUITING",
+    "Conditions": "Traumatic Brain Injury; Post-traumatic Epilepsy",
+    "Interventions": "BEHAVIORAL:In-Person Outcome Assessment; PROCEDURE:3T Magnetic Resonance Imaging (MRI); BEHAVIORAL:Clinical Visit; PROCEDURE:Blood Draw"
+  },
+  "NCT06112093": {
+    "NCT_ID": "NCT06112093",
+    "Title": "Repetitive Transcranial Magnetic Stimulation for Post-concussion Headaches",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Brain Concussion; Mild Traumatic Brain Injury; Headache",
+    "Interventions": "DEVICE:Repetitive Transcranial Magnetic Stimulation; DEVICE:Sham Repetitive Transcranial Magnetic Stimulation"
+  },
+  "NCT07523685": {
+    "NCT_ID": "NCT07523685",
+    "Title": "Non-invasive Vagus Nerve Stimulation (nVNS) for Post-Traumatic Stress Disorder (PTSD)",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "PTSD; Post Traumatic Stress Disorder PTSD; PTSD - Post Traumatic Stress Disorder",
+    "Interventions": "DEVICE:non-invasive vagus nerve stimulation"
+  },
+  "NCT04966546": {
+    "NCT_ID": "NCT04966546",
+    "Title": "Targeting Spreading Depolarization After Chronic Subdural Hematoma Surgery (TASD)",
+    "Overall_Status": "WITHDRAWN",
+    "Conditions": "Chronic Subdural Hematoma",
+    "Interventions": "DRUG:Memantine Hydrochloride; DRUG:Placebo"
+  },
+  "NCT04387305": {
+    "NCT_ID": "NCT04387305",
+    "Title": "Traumatic Injury Clinical Trial Evaluating Tranexamic Acid in Children: An Efficacy Study",
+    "Overall_Status": "NOT_YET_RECRUITING",
+    "Conditions": "Brain Injuries, Traumatic; Wounds and Injury; Hemorrhage",
+    "Interventions": "DRUG:Tranexamic acid injection"
+  },
+  "NCT04296604": {
+    "NCT_ID": "NCT04296604",
+    "Title": "Transcranial Direct Current Stimulation (tDCS) Neuromodulation of Executive Function Across Neuropsychiatric Populations",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Traumatic Brain Injury; Major Depressive Disorder; Bipolar Disorder",
+    "Interventions": "DEVICE:Transcranial Direct Current Stimulation"
+  },
+  "NCT03882554": {
+    "NCT_ID": "NCT03882554",
+    "Title": "PoNS Clinical Experience Program (TBI)",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Mild to Moderate Traumatic Brain Injury",
+    "Interventions": "DEVICE:PoNS Treatment"
+  },
+  "NCT02670161": {
+    "NCT_ID": "NCT02670161",
+    "Title": "Quality Improvement and Practice Based Research in Neurology Using the EMR",
+    "Overall_Status": "ENROLLING_BY_INVITATION",
+    "Conditions": "Brain Tumors; Epilepsy; Migraine",
+    "Interventions": "DRUG:Listed for each disorder below, up to three drugs per disorder (too many characters to list in this field; see Intervention Description)"
+  },
+  "NCT05629169": {
+    "NCT_ID": "NCT05629169",
+    "Title": "Video Review of the Frequency and Assessment of Head Impacts During the FIFA World Cup 2022TM",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Head Injury; Concussion; Brain Injuries",
+    "Interventions": "OTHER:No intervention applied - observational study only"
+  },
+  "NCT06523725": {
+    "NCT_ID": "NCT06523725",
+    "Title": "Trial Investigating the Safety and Efficacy of BRC-003 in Refractory Post-Traumatic Epilepsy",
+    "Overall_Status": "WITHDRAWN",
+    "Conditions": "Post-traumatic Epilepsy",
+    "Interventions": "DRUG:PO BRC-003 (High Cannabidiol Cannabis Extract); DRUG:Placebo"
+  },
+  "NCT07072624": {
+    "NCT_ID": "NCT07072624",
+    "Title": "Early Post-Traumatic Seizures Prevention Trial (E-PTS Trial)",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Seizures; Traumatic Brain Injuries; Traumatic Brain Injury (TBI) Patients",
+    "Interventions": "DRUG:Phenytoin; DRUG:Levetiracetam; DRUG:Placebo"
+  },
+  "NCT07358312": {
+    "NCT_ID": "NCT07358312",
+    "Title": "TBI- Efficacy of Steroids in Acute Vasogenic Edema",
+    "Overall_Status": "NOT_YET_RECRUITING",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": ""
+  },
+  "NCT07719595": {
+    "NCT_ID": "NCT07719595",
+    "Title": "Vagus Nerve Stimulation in Patients in Comatose State",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Traumatic Brain Injury; Severe Traumatic Brain Injury; Disorders of Consciousness Due to Severe Brain Injury",
+    "Interventions": "DEVICE:Dual-Site Transcutaneous Auricular Nerve Stimulation (taVNS + taTNS)"
+  },
+  "NCT03342495": {
+    "NCT_ID": "NCT03342495",
+    "Title": "Evaluating Innovations in Transition From Pediatric to Adult Care - The Transition Navigator Trial",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Diabetes; Endocrine System Diseases; Gastro-Intestinal Disorder",
+    "Interventions": "OTHER:Patient Navigator; OTHER:Usual Care"
+  },
+  "NCT06583395": {
+    "NCT_ID": "NCT06583395",
+    "Title": "Quest to Analyze One Thousand Humans Meditating",
+    "Overall_Status": "ENROLLING_BY_INVITATION",
+    "Conditions": "Amyotrophic Lateral Sclerosis (ALS); Angina, Stable; Anxiety",
+    "Interventions": "BEHAVIORAL:Advanced multi-component meditation practice"
+  },
+  "NCT06724029": {
+    "NCT_ID": "NCT06724029",
+    "Title": "Neurosurgical Outcome Network",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Aneurysms; Arteriovenous Malformations; Cavernomas",
+    "Interventions": ""
+  },
+  "NCT01990768": {
+    "NCT_ID": "NCT01990768",
+    "Title": "Prehospital Tranexamic Acid Use for Traumatic Brain Injury",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DRUG:1 gram Tranexamic Acid (TXA); DRUG:2 grams TXA; DRUG:0.9% Sodium Chloride injectable"
+  },
+  "NCT02167971": {
+    "NCT_ID": "NCT02167971",
+    "Title": "Brain Stimulation for Traumatic Brain Injury",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury; Diffuse Axonal Injury",
+    "Interventions": "OTHER:Active Coil; OTHER:Sham"
+  },
+  "NCT07373366": {
+    "NCT_ID": "NCT07373366",
+    "Title": "Assessment of Noninvasive Neuromodulation in a Group of Traumatic Brain Injured Patients and Healthy Volunteers",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DEVICE:Subjects in the intervention group receive low-frequency radioelectric therapy; DEVICE:Sham, the device simulates a therapy session"
+  },
+  "NCT02240394": {
+    "NCT_ID": "NCT02240394",
+    "Title": "TCD Detection of Ophthalmic Artery Blood Flow Velocity Prediction Feasibility Study of Intracranial Pressure",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Traumatic Brain Injury; Cerebral Hemorrhage; Increased Intracranial Pressure",
+    "Interventions": ""
+  },
+  "NCT07867015": {
+    "NCT_ID": "NCT07867015",
+    "Title": "Transcutaneous Auricular Vagus Nerve Stimulation to Improve Upper Extremity Recovery After Traumatic Brain Injury",
+    "Overall_Status": "NOT_YET_RECRUITING",
+    "Conditions": "Traumatic Brain Injury; Upper Extremity",
+    "Interventions": "DEVICE:taVNS; OTHER:FTP"
+  },
+  "NCT05327829": {
+    "NCT_ID": "NCT05327829",
+    "Title": "Stimulating After Recovery From Traumatic Brain Injury",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "TBI (Traumatic Brain Injury)",
+    "Interventions": "COMBINATION_PRODUCT:External non-invasive stimulation; BEHAVIORAL:COGED"
+  },
+  "NCT07192536": {
+    "NCT_ID": "NCT07192536",
+    "Title": "Accelerated Neuromodulation for Concurrent Post-Traumatic Stress Disorder (PTSD) & Chronic Pain in Veterans",
+    "Overall_Status": "NOT_YET_RECRUITING",
+    "Conditions": "Chronic Pain; Post-traumatic Stress Disorder (PTSD)",
+    "Interventions": "DEVICE:Transcranial magnetic stimulation"
+  },
+  "NCT02292589": {
+    "NCT_ID": "NCT02292589",
+    "Title": "Brain Stimulation for Mild Traumatic Brain Injury",
+    "Overall_Status": "ACTIVE_NOT_RECRUITING",
+    "Conditions": "Traumatic Brain Injury; Post-Concussion Symptoms",
+    "Interventions": "DEVICE:Frontal Stimulation; DEVICE:Temporal Stimulation; DEVICE:Sham Stimulation"
+  },
+  "NCT06480838": {
+    "NCT_ID": "NCT06480838",
+    "Title": "Cerebral Autoregulation, Brain Perfusion, and Neurocognitive Outcomes After Traumatic Brain Injury",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Traumatic Brain Injury With Loss of Consciousness; Brain Injury Traumatic Severe; Brain Injury Traumatic Moderate",
+    "Interventions": ""
+  },
+  "NCT07720687": {
+    "NCT_ID": "NCT07720687",
+    "Title": "Template-Guided Burr-Hole Drainage With Middle Meningeal Artery Coagulation for Chronic Subdural Hematoma",
+    "Overall_Status": "NOT_YET_RECRUITING",
+    "Conditions": "Chronic Subdural Hematoma",
+    "Interventions": "PROCEDURE:Standard Burr-Hole Drainage Group; PROCEDURE:3D-Printed Template-Guided Burr-Hole Drainage With Attempted MMA Coagulation Group"
+  },
+  "NCT02974959": {
+    "NCT_ID": "NCT02974959",
+    "Title": "Vagus Nerve Stimulation to Treat Moderate Traumatic Brain Injury",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury; Acute Brain Injuries",
+    "Interventions": "DEVICE:gammaCore active device; DEVICE:gammaCore sham device"
+  },
+  "NCT03655223": {
+    "NCT_ID": "NCT03655223",
+    "Title": "Early Check: Expanded Screening in Newborns",
+    "Overall_Status": "ACTIVE_NOT_RECRUITING",
+    "Conditions": "Spinal Muscular Atrophy; Fragile X Syndrome; Fragile X - Premutation",
+    "Interventions": "DIAGNOSTIC_TEST:Confirmatory Testing"
+  },
+  "NCT04244058": {
+    "NCT_ID": "NCT04244058",
+    "Title": "Changes in Glutamatergic Neurotransmission of Severe TBI Patients",
+    "Overall_Status": "SUSPENDED",
+    "Conditions": "Disorder of Consciousness; Traumatic Brain Injury",
+    "Interventions": "DRUG:Amantadine + L-DOPA; DRUG:NMDA blocker"
+  },
+  "NCT00805818": {
+    "NCT_ID": "NCT00805818",
+    "Title": "Study of NNZ-2566 in Patients With Traumatic Brain Injury",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Brain Injuries",
+    "Interventions": "DRUG:NNZ-2566; DRUG:Placebo"
+  },
+  "NCT00336882": {
+    "NCT_ID": "NCT00336882",
+    "Title": "Anaesthesia With Propofol Versus Midazolam : Effect on Oxidative Stress in the Brain of Head Trauma Patients",
+    "Overall_Status": "TERMINATED",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DRUG:Propofol; DRUG:Midazolam"
+  },
+  "NCT06624137": {
+    "NCT_ID": "NCT06624137",
+    "Title": "Computer Game, Qualitative, and MEG/EEG Assessment of Serotonergic Psychedelics",
+    "Overall_Status": "TERMINATED",
+    "Conditions": "OCD; Major Depressive Disorder (MDD); Alcohol Use Disorder (AUD)",
+    "Interventions": "DRUG:Serotonergic Psychedelic; DRUG:Placebo"
+  },
+  "NCT07356167": {
+    "NCT_ID": "NCT07356167",
+    "Title": "Passive Neurosensory Reintegration Training as a Tool to Augment Mild Traumatic Brain Injury",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Mild Traumatic Brain Injury",
+    "Interventions": "DEVICE:Passive neurosensory reintegration training (PNRT)"
+  },
+  "NCT01260090": {
+    "NCT_ID": "NCT01260090",
+    "Title": "Vagus Nerve Stimulation to Augment Recovery From Minimally Conscious or Persistently Vegetative States After Traumatic Brain Injury",
+    "Overall_Status": "WITHDRAWN",
+    "Conditions": "Minimally Conscious States Due to Traumatic Brain Injury; Persistently Vegetative States Due to Traumatic Brain Injury",
+    "Interventions": "DEVICE:Vagus nerve stimulation;; DEVICE:No stimulation"
+  },
+  "NCT02158494": {
+    "NCT_ID": "NCT02158494",
+    "Title": "Noninvasive Neuromodulation for Treatment of Symptoms Due to Mild or Moderate Traumatic Brain Injury",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Brain Injuries, Traumatic",
+    "Interventions": "DEVICE:Balance and Gait Training using neurostimulation modulation.; DEVICE:Sham Device"
+  },
+  "NCT02901028": {
+    "NCT_ID": "NCT02901028",
+    "Title": "Innovative Concussion Prevention Device",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Concussion",
+    "Interventions": "OTHER:Laboratory testing; OTHER:Blood and Urine Draws"
+  },
+  "NCT00129857": {
+    "NCT_ID": "NCT00129857",
+    "Title": "Dexanabinol in Severe Traumatic Brain Injury",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DRUG:Dexanabinol"
+  },
+  "NCT03886753": {
+    "NCT_ID": "NCT03886753",
+    "Title": "Pharmacokinetic (PK) and Pharmacodynamics (PD) Study of Ilera Specific Products",
+    "Overall_Status": "TERMINATED",
+    "Conditions": "ALS; Autism Spectrum Disorder; Cancer",
+    "Interventions": "OTHER:Registry; OTHER:PK microsampling of blood"
+  },
+  "NCT07410624": {
+    "NCT_ID": "NCT07410624",
+    "Title": "Augmented Renal Clearance in Neurocritical Care",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "TBI (Traumatic Brain Injury); Status Epilepticus; Bacterial Meningitis",
+    "Interventions": ""
+  },
+  "NCT01483937": {
+    "NCT_ID": "NCT01483937",
+    "Title": "Evaluation of a Sensory Enrichment Multimodal Device (SEMD) on Physical Therapy Patients With Disequilibrium",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Vestibular Diseases; Labyrinth Diseases; Ear Diseases",
+    "Interventions": "DEVICE:Usual care physical therapy plus SEMD; OTHER:Usual care physical therapy only"
+  },
+  "NCT01575470": {
+    "NCT_ID": "NCT01575470",
+    "Title": "Treatment of Severe Adult Traumatic Brain Injury Using Bone Marrow Mononuclear Cells",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "BIOLOGICAL:autologous bone marrow mononuclear cells"
+  },
+  "NCT07731620": {
+    "NCT_ID": "NCT07731620",
+    "Title": "Frontal vs Parietal Eminence Drainage for Chronic Subdural Hematoma",
+    "Overall_Status": "NOT_YET_RECRUITING",
+    "Conditions": "Chronic Subdural Hematoma",
+    "Interventions": "PROCEDURE:Frontal-region puncture drainage; PROCEDURE:Parietal Eminence region puncture drainage"
+  },
+  "NCT04496076": {
+    "NCT_ID": "NCT04496076",
+    "Title": "COVID-19 Brain Injury",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Sars-CoV2; Severe Neurologic Injury; Ischemic Stroke",
+    "Interventions": ""
+  },
+  "NCT06135064": {
+    "NCT_ID": "NCT06135064",
+    "Title": "Ultrasonic Neuromodulation for Treatment of PTSD",
+    "Overall_Status": "TERMINATED",
+    "Conditions": "PTSD",
+    "Interventions": "DEVICE:Diadem"
+  },
+  "NCT03732755": {
+    "NCT_ID": "NCT03732755",
+    "Title": "PoNS Clinical Experience Program (TBI)",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Mild to Moderate Traumatic Brain Injury",
+    "Interventions": "DEVICE:PoNS Treatment"
+  },
+  "NCT02404402": {
+    "NCT_ID": "NCT02404402",
+    "Title": "LED Treatment to Improve Cognition and Promote Recovery in TBI",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury; Posttraumatic Stress Disorder",
+    "Interventions": "OTHER:LED; OTHER:sham LED"
+  },
+  "NCT06265103": {
+    "NCT_ID": "NCT06265103",
+    "Title": "Epilepsy Learning Healthcare System (ELHS)",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Epilepsy; Seizure Disorder; Neurologic Disorder",
+    "Interventions": "OTHER:Clinical care and quality improvement"
+  },
+  "NCT01673828": {
+    "NCT_ID": "NCT01673828",
+    "Title": "Allopregnanolone for the Treatment of Traumatic Brain Injury",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury; Posttraumatic Epilepsy",
+    "Interventions": "DRUG:Allopregnanolone injection; DRUG:Placebo injection"
+  },
+  "NCT07273864": {
+    "NCT_ID": "NCT07273864",
+    "Title": "Effect of Median Nerve Electrical Stimulation Combined With Auricular Acupuncture on Consciousness Disturbance in Patients With Craniocerebral Injury",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury; Cerebral Hemorrhage",
+    "Interventions": "OTHER:Conventional Neurosurgical and Supportive Care; DEVICE:Right Median Nerve Electrical Stimulation; DEVICE:Auricular Press-Needle Therapy"
+  },
+  "NCT03852732": {
+    "NCT_ID": "NCT03852732",
+    "Title": "PoNS Clinical Experience Program (TBI)",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Mild to Moderate Traumatic Brain Injury",
+    "Interventions": "DEVICE:PoNS Treatment"
+  },
+  "NCT00618436": {
+    "NCT_ID": "NCT00618436",
+    "Title": "Assess Safety and Efficacy of Levetiracetam(LEV;Keppra)for Seizure Prevention",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury; Subarachnoid Hemorrhage",
+    "Interventions": "DRUG:Levetiracetam; DRUG:Phenytoin"
+  },
+  "NCT06581003": {
+    "NCT_ID": "NCT06581003",
+    "Title": "Hyperbaric Oxygen Treatment for Veterans With Traumatic Brain Injury",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Traumatic Brain Injury; Military Operations",
+    "Interventions": "DRUG:Oxygen 99.7 %; DRUG:Oxygen 21 %"
+  },
+  "NCT06621407": {
+    "NCT_ID": "NCT06621407",
+    "Title": "A National Study Examining the Most Effective Drainage Method After Burr Hole Evacuation of Chronic Subdural Hematoma",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Chronic Subdural Hematoma; Surgical Procedures, Operative; Recurrence",
+    "Interventions": "PROCEDURE:24 hours active subperiostal drainage; PROCEDURE:24 hours passive subdural drainage"
+  },
+  "NCT03441867": {
+    "NCT_ID": "NCT03441867",
+    "Title": "Neuroimaging Biomarker for Seizures",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Seizure Disorder; Seizure Disorder, Post Traumatic; Traumatic Brain Injury",
+    "Interventions": "BEHAVIORAL:Cognitive Behavioral Therapy for Seizures; OTHER:Standard Medical Care"
+  },
+  "NCT02109198": {
+    "NCT_ID": "NCT02109198",
+    "Title": "Cranial-nerve Non-invasive Neuromodulation (CN-NINM) for Balance Deficits After Mild Traumatic Brain Injury (Pilot Trial)",
+    "Overall_Status": "WITHDRAWN",
+    "Conditions": "Mild Traumatic Brain Injury",
+    "Interventions": "DEVICE:Active CN-NINM PoNS; DEVICE:Sham CN-NINM PoNS"
+  },
+  "NCT04517604": {
+    "NCT_ID": "NCT04517604",
+    "Title": "Neuromodulation and Yoga for Mild Traumatic Brain Injury and Chronic Pain",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Mild Traumatic Brain Injury; Chronic Pain",
+    "Interventions": "DEVICE:Magventure MagProx100 with MagOption"
+  },
+  "NCT04521881": {
+    "NCT_ID": "NCT04521881",
+    "Title": "Clinical Randomisation of an Anti-fibrinolytic in Symptomatic Mild Head Injury in Older Adults",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DRUG:Tranexamic Acid 500 MG"
+  },
+  "NCT04079907": {
+    "NCT_ID": "NCT04079907",
+    "Title": "Ketone Supplementation in Adolescents Post-Concussion",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Concussion, Mild; Concussion, Severe; Concussion, Brain",
+    "Interventions": "DIETARY_SUPPLEMENT:Ketone; DIETARY_SUPPLEMENT:Placebo"
+  },
+  "NCT01573507": {
+    "NCT_ID": "NCT01573507",
+    "Title": "Lactate Therapy After Traumatic Brain Injury",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury; Subarachnoid Hemorrhage",
+    "Interventions": "OTHER:sodium lactate infusion"
+  },
+  "NCT00810615": {
+    "NCT_ID": "NCT00810615",
+    "Title": "Treatment of Traumatic Brain Injury With Hyperbaric Oxygen Therapy",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Brain Injury, Chronic",
+    "Interventions": "OTHER:Hyperbaric oxygen @ 2.4 ATA; OTHER:Sham treatment"
+  },
+  "NCT01658748": {
+    "NCT_ID": "NCT01658748",
+    "Title": "A Pilot Study of Deep Brain Stimulation of the Amygdala for Treatment-Refractory Combat Post-Traumatic Stress Disorder",
+    "Overall_Status": "WITHDRAWN",
+    "Conditions": "Post Traumatic Stress Disorder",
+    "Interventions": "DEVICE:Week 0 Medtronic 3387 electrodes/Activa PC amygdala DBS; DEVICE:Week 12 Medtronic 3387 electrodes/Activa PC amygdala DBS"
+  },
+  "NCT06073886": {
+    "NCT_ID": "NCT06073886",
+    "Title": "Personalized Brain Stimulation to Treat Chronic Concussive Symptoms",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Post-Concussion Syndrome; Concussion, Brain; Mild Traumatic Brain Injury",
+    "Interventions": "DEVICE:Active cTBS; DEVICE:Inactive/Sham cTBS; BEHAVIORAL:Imaginal exposure"
+  },
+  "NCT02071407": {
+    "NCT_ID": "NCT02071407",
+    "Title": "A Clinical Trial of the Effect of Midazolam on the Cerebral Metabolism and Inflammatory Response in Patients With Moderate and Severe Traumatic Brain Injury",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DRUG:Midazolam; DRUG:Placebo"
+  },
+  "NCT06556316": {
+    "NCT_ID": "NCT06556316",
+    "Title": "The Brain Injury Neurorehabilitation Project",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Traumatic Brain Injury; CVA (Cerebrovascular Accident)",
+    "Interventions": "BEHAVIORAL:Cognitive Intervention with the Categorization Program; BEHAVIORAL:Social Cognitive Communication Program; DEVICE:Non-Invasive Brain Stimulation with tDCS"
+  },
+  "NCT07116109": {
+    "NCT_ID": "NCT07116109",
+    "Title": "Neuromodulation + Prolonged Exposure Therapy: Evaluation of a Technology-Enhanced, Integrated Treatment for Pain and PTSD",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Chronic Pain; Post Traumatic Stress Disorder (PTSD)",
+    "Interventions": "DEVICE:Transcranial Direct Current Stimulation (tDCS); BEHAVIORAL:Massed-Prolonged Exposure (PE); DEVICE:Sham Transcranial Direct Current Stimulation (tDCS)"
+  },
+  "NCT06899711": {
+    "NCT_ID": "NCT06899711",
+    "Title": "External Post-Operative Skull Prosthesis to Prevent Sunken Flap Syndrome in Craniectomy Patients",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Craniectomy; Trephined Syndrome; Traumatic Brain Injury (TBI) Patients",
+    "Interventions": "DEVICE:External Cranial Prosthesis"
+  },
+  "NCT03502967": {
+    "NCT_ID": "NCT03502967",
+    "Title": "Imaging of Traumatic Brain Injury Metabolism Using Hyperpolarized Carbon-13 Pyruvate",
+    "Overall_Status": "ENROLLING_BY_INVITATION",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DRUG:Hyperpolarized [1-13C] Pyruvate; DRUG:Hyperpolarized [2-13C] Pyruvate"
+  },
+  "NCT02130674": {
+    "NCT_ID": "NCT02130674",
+    "Title": "Optimized Therapy in Severe Traumatic Brain Injured Patients",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury; Coma",
+    "Interventions": "DRUG:Dipeptiven"
+  },
+  "NCT06081283": {
+    "NCT_ID": "NCT06081283",
+    "Title": "Antiseizure Medication in Seizure Networks at Early Acute Brain Injury",
+    "Overall_Status": "TERMINATED",
+    "Conditions": "Brain Injuries, Acute; Brain Injuries, Traumatic; Brain Ischemia",
+    "Interventions": "DRUG:Phenobarbital Sodium Injection; DRUG:Levetiracetam; DRUG:Lacosamide Injectable Product; DRUG:Valproate Sodium"
+  },
+  "NCT00983437": {
+    "NCT_ID": "NCT00983437",
+    "Title": "Study to Evaluate the Safety, Tolerability, and Efficacy of Armodafinil as Treatment for Patients With Excessive Sleepiness Associated With Mild or Moderate Closed Traumatic Brain Injury",
+    "Overall_Status": "TERMINATED",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DRUG:Armodafinil"
+  },
+  "NCT04157634": {
+    "NCT_ID": "NCT04157634",
+    "Title": "Prediction of Neurological Outcome of Children After a Traumatic Brain Injury Based on an Integrated Predictive Model",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DIAGNOSTIC_TEST:Prognostication model"
+  },
+  "NCT06149975": {
+    "NCT_ID": "NCT06149975",
+    "Title": "Feasibility of a Motor-cognitive Training Program in Patients With Traumatic Brain Injury",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "OTHER:motor-cognitive training"
+  },
+  "NCT06119932": {
+    "NCT_ID": "NCT06119932",
+    "Title": "Evaluation of One Burr Hole Evacuation for Subdural Hematoma",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Subdural Hematoma",
+    "Interventions": "PROCEDURE:Evacuation for subdural hematoma by one burrhole"
+  },
+  "NCT05353452": {
+    "NCT_ID": "NCT05353452",
+    "Title": "Collaborative Care in Posttraumatic Epilepsy",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Epilepsy, Post-Traumatic",
+    "Interventions": "BEHAVIORAL:Neurology Based Collaborative Care; BEHAVIORAL:SOC Neurological care"
+  },
+  "NCT04490122": {
+    "NCT_ID": "NCT04490122",
+    "Title": "Impact of Mode of Anesthesia on Ischemia Modified Albumin in Patients With Traumatic Brain Injury",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Oxidative Stress",
+    "Interventions": ""
+  },
+  "NCT07560631": {
+    "NCT_ID": "NCT07560631",
+    "Title": "SeeMe: Using Automated Facial Tracking to Detect Voluntary Behavior in Brain Injury",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Traumatic Brain Injury (TBI) Patients; Severe Traumatic Brain Injury",
+    "Interventions": "DIAGNOSTIC_TEST:SeeMe Multimodal Auditory Command Protocol"
+  },
+  "NCT07295301": {
+    "NCT_ID": "NCT07295301",
+    "Title": "Protein Intake Dosage on the Prognosis of Neurocritical Patients",
+    "Overall_Status": "NOT_YET_RECRUITING",
+    "Conditions": "Neurocritical Conditions; Traumatic Brain Injury; Ischemic Stroke",
+    "Interventions": "DIETARY_SUPPLEMENT:Low-Dose Enteral Protein Supplementation (Enteral Nutrition Formulas + Whey Protein Powder); DIETARY_SUPPLEMENT:Moderate-Dose Enteral Protein Supplementation (Enteral Nutrition Formulas + Whey Protein Powder); DIETARY_SUPPLEMENT:High-Dose Enteral Protein Supplementation (Enteral Nutrition Formulas + Whey Protein Powder)"
+  },
+  "NCT02798185": {
+    "NCT_ID": "NCT02798185",
+    "Title": "The DIAGNOSE-CTE Research Project",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Chronic Traumatic Encephalopathy",
+    "Interventions": ""
+  },
+  "NCT06067750": {
+    "NCT_ID": "NCT06067750",
+    "Title": "Comparison of Narcotrend and Cerebral Function Analysing Monitor in Intensive Care to Monitor Seizures and Deep Sedation",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury; Subarachnoid Hemorrhage; Intracerebral Haemorrhage",
+    "Interventions": "DIAGNOSTIC_TEST:Narcotrend compared to Cerebral Function Analysing Monitor (CFAM)"
+  },
+  "NCT03430817": {
+    "NCT_ID": "NCT03430817",
+    "Title": "Citicholine-Amantadine Trial in Traumatic Brain Injury",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Intensive Care Unit",
+    "Interventions": "DRUG:Citicholine; DRUG:Amantadine"
+  },
+  "NCT07874178": {
+    "NCT_ID": "NCT07874178",
+    "Title": "Temporal Interference Stimulation for Disorders of Consciousness",
+    "Overall_Status": "NOT_YET_RECRUITING",
+    "Conditions": "Disorder of Consciousness; Minimally Conscious State; Vegetative State",
+    "Interventions": "DEVICE:Temporal Interference"
+  },
+  "NCT04291235": {
+    "NCT_ID": "NCT04291235",
+    "Title": "The NEUROlogically-impaired Extubation Timing Trial (NEURO-ETT)",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Acute Brain Injury",
+    "Interventions": "PROCEDURE:Airway Management Pathway; PROCEDURE:Usual Care"
+  },
+  "NCT06866691": {
+    "NCT_ID": "NCT06866691",
+    "Title": "Seizure Prevention in Traumatic Brain Injury With Levetiracetam and Lacosamide",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DRUG:levetiracetam; DRUG:lacosamide"
+  },
+  "NCT05236010": {
+    "NCT_ID": "NCT05236010",
+    "Title": "Control Network Neuromodulation to Enhance Cognitive Training in Complex Traumatic Brain Injury",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DEVICE:rTMS; DEVICE:HD-tDCS; OTHER:Attention Process Training"
+  },
+  "NCT05413499": {
+    "NCT_ID": "NCT05413499",
+    "Title": "Blood Biomarkers to Improve Management of Children With Traumatic Brain Injury",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "OTHER:Biomarkers research"
+  },
+  "NCT01171131": {
+    "NCT_ID": "NCT01171131",
+    "Title": "A Pilot Study to Identify Biomarkers Associated With Chronic Traumatic Brain Injury",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "OTHER:Blood/saliva sampling"
+  },
+  "NCT06429657": {
+    "NCT_ID": "NCT06429657",
+    "Title": "Ketamine for Sedation in Severe Traumatic Brain Injury",
+    "Overall_Status": "SUSPENDED",
+    "Conditions": "Severe Traumatic Brain Injury; Intracranial Hypertension; Intracranial Hemorrhage, Hypertensive",
+    "Interventions": "DRUG:Ketamine with propofol; OTHER:Standard of Care propofol, fentanyl, dexmedetomidine, morphine, hydromorphone, midazolam, or lorazepam"
+  },
+  "NCT07213869": {
+    "NCT_ID": "NCT07213869",
+    "Title": "Alpha tACS for Disorders of Consciousness : a Single Case Experimental Design",
+    "Overall_Status": "NOT_YET_RECRUITING",
+    "Conditions": "Disorder of Consciousness",
+    "Interventions": "DEVICE:Transcranial alternating current stimulation (tACS)"
+  },
+  "NCT04926987": {
+    "NCT_ID": "NCT04926987",
+    "Title": "The Research of Human Cortex Cell Atlas",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Aging; Epilepsy; Trauma, Brain",
+    "Interventions": "OTHER:brain tissue single-cell sequencing"
+  },
+  "NCT04568369": {
+    "NCT_ID": "NCT04568369",
+    "Title": "Treatment of Post-concussion Syndrome With TMS: Using FNIRS as a Biomarker of Response",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Transcranial Magnetic Stimulation; Functional Near-Infrared Spectroscopy; Post-Concussion Syndrome",
+    "Interventions": "DEVICE:rTMS"
+  },
+  "NCT03958903": {
+    "NCT_ID": "NCT03958903",
+    "Title": "Investigations of Amygdala Function Using Neurophysiological Recording and Stimulation",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Fear; PTSD; Panic Disorder",
+    "Interventions": "DEVICE:Amygdala recording and stimulation using Neuropace RNS; BEHAVIORAL:Behavioral tasks"
+  },
+  "NCT02122991": {
+    "NCT_ID": "NCT02122991",
+    "Title": "Cardiovascular, Cerebrovascular, and Cognitive Function in Spinal Cord Injury",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Spinal Cord Injury",
+    "Interventions": ""
+  },
+  "NCT04673240": {
+    "NCT_ID": "NCT04673240",
+    "Title": "CLINICAL EFFECT OF BOTULINUM TOXIN TYPE A IN TREATMENT OF SPASTICITY",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Spasticity; Brain Injuries; Spinal Cord Injuries",
+    "Interventions": "DRUG:Botulinum toxin type A injection"
+  },
+  "NCT07510074": {
+    "NCT_ID": "NCT07510074",
+    "Title": "Modulating Inflammation in Neuro-Trauma",
+    "Overall_Status": "NOT_YET_RECRUITING",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DEVICE:Nurosym taVNS; DEVICE:Nurosym (sham)"
+  },
+  "NCT01380028": {
+    "NCT_ID": "NCT01380028",
+    "Title": "Interest of Oral Corticosteroids in the Treatment of Chronic Subdural Hematomas",
+    "Overall_Status": "TERMINATED",
+    "Conditions": "Chronic Intracranial Subdural Hematoma",
+    "Interventions": "DRUG:oral corticosteroids; DRUG:placebo"
+  },
+  "NCT03343964": {
+    "NCT_ID": "NCT03343964",
+    "Title": "Amplitude-integrated EEG in Improvement of Seizure Detection and Prognostication in Children With TBI",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DIAGNOSTIC_TEST:Amplitude-integrated electroencephalography"
+  },
+  "NCT07414537": {
+    "NCT_ID": "NCT07414537",
+    "Title": "Remotely Administered tDCS to Improve Cognitive Function in Veterans With mTBI and PTSD Principal Investigator",
+    "Overall_Status": "NOT_YET_RECRUITING",
+    "Conditions": "Cognition; Brain Injuries; Stress Disorders, Post-Traumatic",
+    "Interventions": "DEVICE:Transcranial direct current stimulation (tDCS); OTHER:Cognitive training"
+  },
+  "NCT06337994": {
+    "NCT_ID": "NCT06337994",
+    "Title": "Memantine Hydrochloride for Treatment of Cognitive Dysfunction Due to Traumatic Brain Injury",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Treatment of Cognitive Deficits After Traumatic Brain Injury",
+    "Interventions": "DRUG:Memantine Hydrochloride"
+  },
+  "NCT03881176": {
+    "NCT_ID": "NCT03881176",
+    "Title": "PoNS Clinical Experience Program in Traumatic Brain Injury Patients (TBI)",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Mild to Moderate Traumatic Brain Injury",
+    "Interventions": "DEVICE:PoNS Treatment"
+  },
+  "NCT00004817": {
+    "NCT_ID": "NCT00004817",
+    "Title": "Phase III Double Blind Trial of Valproate Sodium for Prophylaxis of Post Traumatic Seizures",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Post-Traumatic Seizure Disorder; Head Injuries",
+    "Interventions": "DRUG:phenytoin; DRUG:valproate sodium"
+  },
+  "NCT07052656": {
+    "NCT_ID": "NCT07052656",
+    "Title": "Risk Factors and Outcomes in Patients Treated in Neurocritical Care",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Neuro-intensive Care Unit Patients; Subarachnoid Hemorrhage, Aneurysmal; Ischemic Stroke",
+    "Interventions": "OTHER:Observational study, participants are not assigned an intervention as part of the study.; OTHER:Transport modality"
+  },
+  "NCT06413173": {
+    "NCT_ID": "NCT06413173",
+    "Title": "Remotely Supervised tDCS+ for Complex Attention in mTBI (Cognetric)",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Brain Concussion; Brain Trauma; Attention Concentration Difficulty",
+    "Interventions": "COMBINATION_PRODUCT:Active tDCS and Cognitive Training Intervention; COMBINATION_PRODUCT:Sham tDCS and Cognitive Training Intervention"
+  },
+  "NCT00598923": {
+    "NCT_ID": "NCT00598923",
+    "Title": "Preventing Epilepsy After Traumatic Brain Injury With Topiramate",
+    "Overall_Status": "TERMINATED",
+    "Conditions": "Traumatic Brain Injury; Epilepsy",
+    "Interventions": "DRUG:topiramate; DRUG:topiramate; DRUG:phenytoin"
+  },
+  "NCT00178659": {
+    "NCT_ID": "NCT00178659",
+    "Title": "Proteomics of Brain Trauma-associated Elevated Intracranial Pressure (ICP)",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Brain Injuries, Traumatic; Traumatic Brain Injury",
+    "Interventions": "OTHER:Blood/saliva samples for protein/molecular analysis"
+  },
+  "NCT02920580": {
+    "NCT_ID": "NCT02920580",
+    "Title": "The NEUROlogically-impaired Extubation Timing Trial",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Acute Brain Injury",
+    "Interventions": "PROCEDURE:Extubation; PROCEDURE:Usual Care"
+  },
+  "NCT01366820": {
+    "NCT_ID": "NCT01366820",
+    "Title": "Study of NNZ-2566 in Patients With Traumatic Brain Injury Under EFIC",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Brain Injuries",
+    "Interventions": "DRUG:NNZ-2566; DRUG:Placebo"
+  },
+  "NCT01402882": {
+    "NCT_ID": "NCT01402882",
+    "Title": "Clinical Randomisation of an Antifibrinolytic in Significant Head Injury",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DRUG:Tranexamic Acid"
+  },
+  "NCT01420042": {
+    "NCT_ID": "NCT01420042",
+    "Title": "Safety Study of NNZ-2566 in Healthy Subjects, Following Oral Administration",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Brain Injuries, Traumatic",
+    "Interventions": "DRUG:NNZ-2566; DRUG:Placebo"
+  },
+  "NCT06027411": {
+    "NCT_ID": "NCT06027411",
+    "Title": "Assess the Clinical Effectiveness in AI Prioritising CT Heads",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Trauma, Brain; Mass Lesion; Skull Fractures",
+    "Interventions": "DEVICE:qER (qER EU 2.0)"
+  },
+  "NCT02125591": {
+    "NCT_ID": "NCT02125591",
+    "Title": "Cranial-nerve Non-invasive Neuromodulation (CN-NINM) for Balance Deficits After Mild Traumatic Brain Injury (Full Trial)",
+    "Overall_Status": "WITHDRAWN",
+    "Conditions": "Mild Traumatic Brain Injury",
+    "Interventions": "DEVICE:Active CN-NINM PoNS; DEVICE:Sham CN-NINM PoNS"
+  },
+  "NCT03944447": {
+    "NCT_ID": "NCT03944447",
+    "Title": "Outcomes Mandate National Integration With Cannabis as Medicine",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Chronic Pain; Chronic Pain Syndrome; Chronic Pain Due to Injury",
+    "Interventions": "DRUG:Cannabis, Medical; DEVICE:RYAH-Medtech Inhaler"
+  },
+  "NCT04945213": {
+    "NCT_ID": "NCT04945213",
+    "Title": "Biperiden Trial for Epilepsy Prevention",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Brain Injury Traumatic Moderate; Brain Injury Traumatic Severe; Post Traumatic Epilepsy",
+    "Interventions": "DRUG:Biperiden; OTHER:Placebo"
+  },
+  "NCT03215771": {
+    "NCT_ID": "NCT03215771",
+    "Title": "Myoelectric Upper Limb Orthosis Use by Persons With TBI and Stroke",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury; Stroke",
+    "Interventions": "DEVICE:MyoPro Motion-G; OTHER:Motor Learning-Based Therapy"
+  },
+  "NCT06323434": {
+    "NCT_ID": "NCT06323434",
+    "Title": "Spinal CSF Leaks in Chronic Subdural Hematoma",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Chronic Subdural Hematoma",
+    "Interventions": ""
+  },
+  "NCT04183998": {
+    "NCT_ID": "NCT04183998",
+    "Title": "Restorative Neuromodulation for Upper Extremity Functions",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury; Cervical Spinal Cord Injury",
+    "Interventions": "OTHER:Trans-spinal Electrical Stimulation (tsES)"
+  },
+  "NCT00600717": {
+    "NCT_ID": "NCT00600717",
+    "Title": "Clinical Applications of High-Frequency Oscillations",
+    "Overall_Status": "WITHDRAWN",
+    "Conditions": "Epilepsy; Migraine; Headache",
+    "Interventions": ""
+  },
+  "NCT05517954": {
+    "NCT_ID": "NCT05517954",
+    "Title": "Cortical Excitability in Post-traumatic Epilepsy",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Traumatic Brain Injury; Cortical Excitability; Epilepsy",
+    "Interventions": ""
+  },
+  "NCT00561782": {
+    "NCT_ID": "NCT00561782",
+    "Title": "MR Spectroscopy as a Diagnostic and Outcome Measure in Pain and SCI",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Spinal Cord Injury; Hyperalgesia, Secondary; Hyperalgesic Sensations",
+    "Interventions": ""
+  },
+  "NCT07202494": {
+    "NCT_ID": "NCT07202494",
+    "Title": "Integrating Metabolism, Connectivity, and Mesoscale Imaging at Ultra-high Field to Decipher Mechanisms of Resilience and Neurodegeneration in Neurological Diseases and Healthy Aging",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Multiple Sclerosis; Neuromyelitis Optica Spectrum Disorders; Myelin Oligodendrocyte Glycoprotein Antibody-Associated Disease (MOGAD)",
+    "Interventions": "OTHER:Imaging Techniques (MRI 3T & 7T, Functional, Structural, and Metabolic Imaging)"
+  },
+  "NCT05819008": {
+    "NCT_ID": "NCT05819008",
+    "Title": "Remote Neuropsychological Assessment of Patients With Neurological Disorders and Injuries",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Traumatic Brain Injury; Stroke; Multiple Sclerosis",
+    "Interventions": "DIAGNOSTIC_TEST:Neuropsychological Assessment"
+  },
+  "NCT06494592": {
+    "NCT_ID": "NCT06494592",
+    "Title": "The Exercise and Concussion Health Study",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Concussion, Mild; Concussion, Brain; TBI (Traumatic Brain Injury)",
+    "Interventions": "BEHAVIORAL:Aerobic Exercise; BEHAVIORAL:Balance Exercise"
+  },
+  "NCT00961779": {
+    "NCT_ID": "NCT00961779",
+    "Title": "Safety Study of NNZ-2566 in Healthy Female Subjects",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Brain Injuries, Traumatic",
+    "Interventions": "DRUG:NNZ-2566; DRUG:Placebo"
+  },
+  "NCT03092687": {
+    "NCT_ID": "NCT03092687",
+    "Title": "Procedures for Sample Acquisition and Distribution for The Human Brain Collection Core",
+    "Overall_Status": "TERMINATED",
+    "Conditions": "Schizophrenia; Major Depression; Bipolar Disorder",
+    "Interventions": ""
+  },
+  "NCT04270955": {
+    "NCT_ID": "NCT04270955",
+    "Title": "Dartmouth Middle Meningeal Embolization Trial (DaMMET)",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Chronic Subdural Hematoma; Subdural Hematoma",
+    "Interventions": "PROCEDURE:Embolization of the Middle Meningeal Artery; PROCEDURE:Standard of care including possible surgical evacuation of subdural hematoma"
+  },
+  "NCT05084352": {
+    "NCT_ID": "NCT05084352",
+    "Title": "Real Time Vital Sign Assessment to Predict Neurological Decline After Traumatic Brain Injury",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": ""
+  },
+  "NCT05008926": {
+    "NCT_ID": "NCT05008926",
+    "Title": "The NIPA Study Naloxegol Administration to Prevent Opioids Induced Gastrointestinal Motility Disturbance in Brain Injured PAtients",
+    "Overall_Status": "SUSPENDED",
+    "Conditions": "Brain Injuries",
+    "Interventions": "DRUG:Naloxegol; DRUG:Placebo"
+  },
+  "NCT04437498": {
+    "NCT_ID": "NCT04437498",
+    "Title": "Vagal Nerve Stimulation in mTBI",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "PTSD; mTBI",
+    "Interventions": "DEVICE:sham stimulation; DEVICE:nVNS"
+  },
+  "NCT06873750": {
+    "NCT_ID": "NCT06873750",
+    "Title": "Neuromodulation and fMRI in Neurodegenerative Diseases Study",
+    "Overall_Status": "NOT_YET_RECRUITING",
+    "Conditions": "Mild Cognitive Impairment; Traumatic Brain Injury; Neurodegeneration",
+    "Interventions": "DEVICE:Transcranial Alternating Current Stimulation"
+  },
+  "NCT03819608": {
+    "NCT_ID": "NCT03819608",
+    "Title": "Neuromodulation and Neurorehabilitation for mTBI",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Mild Traumatic Brain Injury; Post Traumatic Stress Disorder",
+    "Interventions": "DEVICE:real iTBS; BEHAVIORAL:real APT; BEHAVIORAL:placebo APT; DEVICE:placebo iTBS"
+  },
+  "NCT06337851": {
+    "NCT_ID": "NCT06337851",
+    "Title": "Comparing Simultaneous and Consecutive Drainage of Bilateral Chronic Subdural Hematoma",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Subdural Hematoma, Chronic",
+    "Interventions": "OTHER:Simultaneous burr hole craniostomy; OTHER:Consecutive burr hole craniostomy"
+  },
+  "NCT06347796": {
+    "NCT_ID": "NCT06347796",
+    "Title": "Chronic Subdural Hematoma Treatment With Embolization Versus Surgery Study",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Chronic Subdural Hematoma",
+    "Interventions": "PROCEDURE:Conventional Surgery; DEVICE:Middle Meningeal Artery Embolization (MMAE)"
+  },
+  "NCT03840369": {
+    "NCT_ID": "NCT03840369",
+    "Title": "Pathophysiological Understanding and Treatment of PTSD: an rTMS Approach",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Stress Disorders, Post-Traumatic; Brain Injuries; Transcranial Magnetic Stimulation",
+    "Interventions": "DEVICE:Repetitive Transcranial Magnetic Stimulation to Right Dorsolateral Prefrontal Cortex; DEVICE:Sham Repetitive Transcranial Magnetic Stimulation; DEVICE:Repetitive Transcranial Magnetic Stimulation to Right Dorsomedial Prefrontal Cortex"
+  },
+  "NCT01984476": {
+    "NCT_ID": "NCT01984476",
+    "Title": "Impact of Age on Cardiovascular, Cerebrovascular and Cognitive Health in Spinal Cord Injury",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Spinal Cord Injury",
+    "Interventions": ""
+  },
+  "NCT06069674": {
+    "NCT_ID": "NCT06069674",
+    "Title": "Use of Cerebral Biomarkers in Minor Traumatic Brain Injury in the Emergency Unit",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Brain Injuries, Traumatic; Trauma; Trauma, Nervous System",
+    "Interventions": "DIAGNOSTIC_TEST:Serum dosage of GFAP and UCH-L1"
+  },
+  "NCT05337618": {
+    "NCT_ID": "NCT05337618",
+    "Title": "Improving Neurotrauma by Depolarization Inhibition With Combination Therapy (INDICT)",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DIAGNOSTIC_TEST:Full-band Electrocorticography; COMBINATION_PRODUCT:Treatment Algorithm"
+  },
+  "NCT00254722": {
+    "NCT_ID": "NCT00254722",
+    "Title": "Safety of Autologous Stem Cell Treatment for Traumatic Brain Injury in Children",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DRUG:Autologous bone marrow precursor cell harvest and transplant"
+  },
+  "NCT02645578": {
+    "NCT_ID": "NCT02645578",
+    "Title": "Asia Coma Electrical Stimulation (the ACES Trial)",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "TBI (Traumatic Brain Injury)",
+    "Interventions": "DEVICE:Right median nerve stimulation"
+  },
+  "NCT07614074": {
+    "NCT_ID": "NCT07614074",
+    "Title": "Recovery Trajectory for Coma and Disorders of Consciousness",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Coma; Disorders of Consciousness; Cardiac Arrest (CA)",
+    "Interventions": ""
+  },
+  "NCT04935697": {
+    "NCT_ID": "NCT04935697",
+    "Title": "Non-invasive Vagal Neurostimulation (nVNS) for Traumatic Brain Injury (TBI)-Induced Acute Respiratory Distress",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Acute Respiratory Distress Syndrome; Acute Lung Injury; Acute Lung Injury/Acute Respiratory Distress Syndrome (ARDS)",
+    "Interventions": "DEVICE:nVNS; OTHER:SOC"
+  },
+  "NCT07828483": {
+    "NCT_ID": "NCT07828483",
+    "Title": "Development of Low-Intensity Focused Ultrasound for Post Traumatic Brain Injury Depression",
+    "Overall_Status": "NOT_YET_RECRUITING",
+    "Conditions": "Post-traumatic Brain Injury Depression; Veteran Health",
+    "Interventions": "DEVICE:Active Low-Intensity Focused Ultrasound (LIFU); OTHER:Sham Low-Intensity Focused Ultrasound (LIFU)"
+  },
+  "NCT05235061": {
+    "NCT_ID": "NCT05235061",
+    "Title": "HOme-Based Self-management and COgnitive Training CHanges Lives (HOBSCOTCH) -Post-Traumatic Epilepsy (PTE)",
+    "Overall_Status": "ACTIVE_NOT_RECRUITING",
+    "Conditions": "Epilepsy, Traumatic; Brain Injuries, Traumatic",
+    "Interventions": "BEHAVIORAL:Home Based Self-management and Cognitive Training Changes lives in post traumatic epilepsy (HOBSCOTCH-PTE); BEHAVIORAL:HOBSCOTCH-PTE for Caregivers"
+  },
+  "NCT01322009": {
+    "NCT_ID": "NCT01322009",
+    "Title": "Overcoming Membrane Transporters to Improve CNS Drug Delivery - Improving Brain Antioxidants After Traumatic Brain Injury",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Pediatric Traumatic Brain Injury",
+    "Interventions": "DRUG:Probenecid and N-acetyl cysteine; DRUG:Placebo"
+  },
+  "NCT05551871": {
+    "NCT_ID": "NCT05551871",
+    "Title": "Effects of Usage of Simvastatin in Mild to Moderate Traumatic Brain Injury (TBI) Patients. Could it Make a Difference?",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DRUG:Simvastatin; DRUG:Placebo drug"
+  },
+  "NCT06036732": {
+    "NCT_ID": "NCT06036732",
+    "Title": "A New Approach in Intensive Care Unit Consciousness Assessment: FIVE Score",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Postoperative Intracranial Hematoma; Postoperative Intracranial Haemorrhage; Supratentorial Cancer",
+    "Interventions": ""
+  },
+  "NCT02122458": {
+    "NCT_ID": "NCT02122458",
+    "Title": "Blast Exposed Veterans With Auditory Complaints",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Hearing Impairment; Hearing Aid Fitting",
+    "Interventions": "DEVICE:mild-gain hearing aids with high-frequency emphasis over 6-months"
+  },
+  "NCT04500795": {
+    "NCT_ID": "NCT04500795",
+    "Title": "Prospective Study on the Use of Middle Meningeal Artery Embolization for Chronic Subdural Haematoma",
+    "Overall_Status": "WITHDRAWN",
+    "Conditions": "Chronic Subdural Hematoma; Subdural Hematoma",
+    "Interventions": "PROCEDURE:Middle meningeal artery embolization"
+  },
+  "NCT04614792": {
+    "NCT_ID": "NCT04614792",
+    "Title": "Excitatory Prefrontal Weak Current Stimulation in Vegetative Patients",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Disorder of Consciousness; MMN; Modification of Cognitive Status Indication",
+    "Interventions": "DEVICE:Transcranial direct current stimulation"
+  },
+  "NCT05569993": {
+    "NCT_ID": "NCT05569993",
+    "Title": "Glutamine and Traumatic Brain Injury",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Brain Injuries, Traumatic",
+    "Interventions": "DRUG:Glutamine; OTHER:Placcebo"
+  },
+  "NCT02232347": {
+    "NCT_ID": "NCT02232347",
+    "Title": "Ketamine and Glutamate After Brain Injury : a Microdialysis Study",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Head Trauma",
+    "Interventions": "DRUG:Ketamine; DRUG:Sufentanil"
+  },
+  "NCT05823168": {
+    "NCT_ID": "NCT05823168",
+    "Title": "Seizures and Traumatic Brain Injury Rehabilitation",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Seizures; Traumatic Brain Injury",
+    "Interventions": "DRUG:Antiepileptic Drug"
+  },
+  "NCT01110187": {
+    "NCT_ID": "NCT01110187",
+    "Title": "A Pilot Study of NSICU Assessment of Seizure Prophylaxis With Lacosamide",
+    "Overall_Status": "TERMINATED",
+    "Conditions": "Traumatic Brain Injury",
+    "Interventions": "DRUG:lacosamide; DRUG:Fosphenytoin"
+  },
+  "NCT03881202": {
+    "NCT_ID": "NCT03881202",
+    "Title": "PoNS Clinical Experience Program (TBI)",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Mild to Moderate Traumatic Brain Injury",
+    "Interventions": "DEVICE:PoNS Treatment"
+  },
+  "NCT06723743": {
+    "NCT_ID": "NCT06723743",
+    "Title": "Transcutaneous Vagus Nerve Stimulation for Attention and Memory",
+    "Overall_Status": "NOT_YET_RECRUITING",
+    "Conditions": "Traumatic Brain Injury (TBI) Patients",
+    "Interventions": "OTHER:Transcutaneous vagus nerve stimulation for attention in veterans with TBI; DEVICE:Soterix Medical Vagus Nerve Stimulation mini-CT"
+  },
+  "NCT07730099": {
+    "NCT_ID": "NCT07730099",
+    "Title": "Cognitive Network Restoration Therapy for Moderate to Severe Traumatic Brain Injury: A Feasibility Study",
+    "Overall_Status": "NOT_YET_RECRUITING",
+    "Conditions": "Chronic Traumatic Brain Injury; TBI (Traumatic Brain Injury)",
+    "Interventions": "DEVICE:Deep brain stimulation"
+  },
+  "NCT07176936": {
+    "NCT_ID": "NCT07176936",
+    "Title": "Improving Speech in Noise Using Noninvasive Stimulation",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Traumatic Brain Injury; Hearing Loss",
+    "Interventions": "DEVICE:Cymba Conchae stimulation; DEVICE:Earlobe stimulation"
+  },
+  "NCT07277309": {
+    "NCT_ID": "NCT07277309",
+    "Title": "Promoting Recovery After Brain Injury Using Focused Ultrasound",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Consciousness Disorders; Disorders of Consciousness Due to Severe Brain Injury",
+    "Interventions": "DEVICE:Low-intensity focused ultrasound"
+  },
+  "NCT00566046": {
+    "NCT_ID": "NCT00566046",
+    "Title": "Prevention of Post-traumatic Seizures With Levetiracetam",
+    "Overall_Status": "TERMINATED",
+    "Conditions": "Epilepsy, Post-Traumatic",
+    "Interventions": "DRUG:Levetiracetam; DRUG:Placebo"
+  },
+  "NCT04898712": {
+    "NCT_ID": "NCT04898712",
+    "Title": "Tranexamic Acid in the Treatment of Residual Chronic Subdural Hematoma -2",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Chronic Subdural Hematoma",
+    "Interventions": "DRUG:Tranexamic Acid 500 MG; DRUG:Placebo"
+  },
+  "NCT05682677": {
+    "NCT_ID": "NCT05682677",
+    "Title": "Combined Neuromodulation and Cognitive Training for Post-mTBI Depression",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Depression; Mild Traumatic Brain Injury; Concussion, Brain",
+    "Interventions": "DEVICE:iTBS; DEVICE:sham iTBS; BEHAVIORAL:Personalized, Augmented Cognitive Training (PACT)"
+  },
+  "NCT04700345": {
+    "NCT_ID": "NCT04700345",
+    "Title": "Managing Non-acute Subdural Hematoma Using Liquid Materials：a Chinese Randomized Trial of MMA Treatment",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Subdural Hematoma, Non-acute",
+    "Interventions": "DEVICE:Onyx; PROCEDURE:Burr-hole; OTHER:Medical Management"
+  },
+  "NCT07688473": {
+    "NCT_ID": "NCT07688473",
+    "Title": "Surgical Management of Chronic Subdural Hematoma: Clinical Outcomes Following Single VS Double Burr Holes Evacuation",
+    "Overall_Status": "ACTIVE_NOT_RECRUITING",
+    "Conditions": "Chronic Subdural Hematoma",
+    "Interventions": "PROCEDURE:Chronic Subdural Hematoma Evacuation"
+  },
+  "NCT06953388": {
+    "NCT_ID": "NCT06953388",
+    "Title": "Understanding Non-invasive Vagus Nerve Stimulation Effects in PTSD",
+    "Overall_Status": "NOT_YET_RECRUITING",
+    "Conditions": "PTSD - Post Traumatic Stress Disorder",
+    "Interventions": "DEVICE:transcutaneous auricular vagus nerve stimulation; DEVICE:sham transcutaneous auricular vagus nerve stimulation"
+  },
+  "NCT06871124": {
+    "NCT_ID": "NCT06871124",
+    "Title": "Early Neuromodulation in Traumatic Brain Injury",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Traumatic Brain Injury (TBI) Patients",
+    "Interventions": "DEVICE:transcranial electrical stimulation; DEVICE:Sham Comparator"
+  },
+  "NCT03464370": {
+    "NCT_ID": "NCT03464370",
+    "Title": "Evaluation of Stress Sensitivity and Hyperemotivity in Epilepsy Compared to and a Group of Healthy Volunteers",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Epilepsy",
+    "Interventions": "OTHER:Measure of emotional stressors"
+  },
+  "NCT06665880": {
+    "NCT_ID": "NCT06665880",
+    "Title": "Genes, Proteins, and Metabolites in Drug-resistant Epilepsy (DRE) Patients",
+    "Overall_Status": "NOT_YET_RECRUITING",
+    "Conditions": "Drug Resistant Epilepsy; Traumatic Brain Injury Without Open Intracranial Wound",
+    "Interventions": "OTHER:Routine clinical treatment"
+  },
+  "NCT07428980": {
+    "NCT_ID": "NCT07428980",
+    "Title": "Noninvasive Brain Stimulation to Enhance Cognition at Home Following a TBI.",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "TBI Traumatic Brain Injury",
+    "Interventions": "DEVICE:Transcutaneous Vagus Nerve Stimulation (tVNS)"
+  },
+  "NCT04759196": {
+    "NCT_ID": "NCT04759196",
+    "Title": "Generating Evidence on NonEpileptic, Stereotypical and Intermittent Symptoms (NESIS) in Chronic Subdural Hematomas",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Chronic Subdural Hematoma; Epilepsy; Seizure; Cortical Depression; Cortical Depolarization",
+    "Interventions": "DRUG:Topamax; DRUG:Levetiracetam"
+  },
+  "NCT02840097": {
+    "NCT_ID": "NCT02840097",
+    "Title": "Traumatic Injury Clinical Trial Evaluating Tranexamic Acid in Children: A Pilot and Feasibility Study",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Brain Injuries; Wounds and Injuries; Hemorrhage",
+    "Interventions": "DRUG:Tranexamic Acid; DRUG:Placebo"
+  },
+  "NCT05591508": {
+    "NCT_ID": "NCT05591508",
+    "Title": "Ketogenic Diet for Status Epilepticus in Children Post Cessation of Convulsive Status Epilepticus",
+    "Overall_Status": "UNKNOWN",
+    "Conditions": "Status Epilepticus; Ketogenic Dieting",
+    "Interventions": "DIETARY_SUPPLEMENT:Ketogenic Diet"
+  },
+  "NCT06401707": {
+    "NCT_ID": "NCT06401707",
+    "Title": "PeRampanel fOr Status ePilEpticus pRophylaxis Post-cardiac Arrest",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Heart Arrest; Seizures; Status Epilepticus",
+    "Interventions": "DRUG:Perampanel; DRUG:Placebo"
+  },
+  "NCT02127918": {
+    "NCT_ID": "NCT02127918",
+    "Title": "Electrical Status Epilepticus in Sleep: Response of Neuropsychological Deficits and Epileptiform Activity to Clobazam Treatment",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Electrical Status Epilepticus in Sleep",
+    "Interventions": "DRUG:ESES treated with clobazam"
+  },
+  "NCT05756621": {
+    "NCT_ID": "NCT05756621",
+    "Title": "Dual Anti-glutamate Therapy in Super-refractory Status Epilepticus After Cardiac Arrest",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Status Epilepticus; Cardiac Arrest",
+    "Interventions": "DRUG:Ketamine; DRUG:Any anti-epileptic and anesthetic therapy, excluding Ketamine and Perampanel"
+  },
+  "NCT06403150": {
+    "NCT_ID": "NCT06403150",
+    "Title": "The Efficacy and Safety of Levetiracetam Versus Fosphenytoin in Convulsive Status Epilepticus",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Status Epilepticus",
+    "Interventions": "DRUG:Levetiracetam Injection; DRUG:Fosphenytoin Injection"
+  },
+  "NCT07281027": {
+    "NCT_ID": "NCT07281027",
+    "Title": "COMparison Between Anakinra and Tocilizumab in NORSE - \"COMBAT-NORSE\"",
+    "Overall_Status": "NOT_YET_RECRUITING",
+    "Conditions": "New Onset Refractory Status Epilepticus; New-Onset Refractory Status Epilepticus; Febrile Infection-Related Epilepsy Syndrome (FIRES)",
+    "Interventions": "DRUG:Anakinra; DRUG:Tocilizumab; OTHER:Standard medical treatment"
+  },
+  "NCT04421846": {
+    "NCT_ID": "NCT04421846",
+    "Title": "Study of Pathophysiology of Status Epilepticus and Dysimmune Encephalitis",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Status Epilepticus; Dysimmune Encephalopathy",
+    "Interventions": "OTHER:Blood sampling, cerebrospinal fluid , post-mortem cerebral tissues (NA for the Group 3); OTHER:Blood sampling, cerebrospinal fluid, stool sampling post-mortem cerebral tissues (NA for the Group 3)"
+  },
+  "NCT01359332": {
+    "NCT_ID": "NCT01359332",
+    "Title": "Evaluation of Therapeutic Hypothermia in Convulsive Status EPILEPTICUS in Adults in Intensive Care",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Convulsive Status EPILEPTICUS",
+    "Interventions": "PROCEDURE:Moderate hypothermia"
+  },
+  "NCT04772547": {
+    "NCT_ID": "NCT04772547",
+    "Title": "VIGABatrin in Post-anoxic STATus Epilepticus - Phase IIa",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Status Epilepticus, Electrographic; Coma",
+    "Interventions": "DRUG:Vigabatrin Only Product"
+  },
+  "NCT01796574": {
+    "NCT_ID": "NCT01796574",
+    "Title": "Ketogenic Diet for Refractory Status Epilepticus",
+    "Overall_Status": "COMPLETED",
+    "Conditions": "Status Epilepticus; Seizure; Epilepsy",
+    "Interventions": "DIETARY_SUPPLEMENT:Ketogenic diet"
+  },
+  "NCT07496749": {
+    "NCT_ID": "NCT07496749",
+    "Title": "KD Treatment for Super-refractory Status Epilepticus",
+    "Overall_Status": "RECRUITING",
+    "Conditions": "Super-refractory Status Epilepticus",
+    "Interventions": "OTHER:the ketogenic diet; DRUG:Standard Medical Therapy"
+  },
+  "NCT06966830": {
+    "NCT_ID": "NCT06966830",
+    "Title": "Lacosamide Intravenous Injection for Emergency Termination of Status Epilepticus",
+    "Overall_Status": "NOT_YET_RECRUITING",
+    "Conditions": "Epilepsy; Status Epilepticus",
+    "Interventions": "DRUG:Lacosamide (LCM)"
+  },
+  "NCT03115489": {
+    "NCT_ID": "NCT03115489",
+    "Title": "Efficacy of Ketamine Infusion Compared With Traditional Anti-epileptic Agents in Refractory Status Epilepticus",
+    "Overall_Status": "WITHDRAWN",
+    "Conditions": "Refractory Epilepsy",
+    "Interventions": "DRUG:Traditional Treatment (Group T); DRUG:Ketamine Infusion (Group K)"
+  }
+}

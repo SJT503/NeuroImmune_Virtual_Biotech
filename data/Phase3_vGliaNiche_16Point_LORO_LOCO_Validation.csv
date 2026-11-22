@@ -1,0 +1,17 @@
+Regimen,Modality,State_X,Full_Model_Pred,Public_Obs,LORO_Out_of_Sample_Pred,LOCO_Out_of_Sample_Pred
+1_Sham_Baseline (Intact Homeostatic Checkpoint),Microglia_Storm_Pct,0.015,1.7,23.8,16.822187205382324,13.541018480208947
+2_Moderate_TBI_Insult (Intact Checkpoint + Moderate Injury),Microglia_Storm_Pct,0.3522,39.1,37.7,39.20951517097527,39.29562314530341
+3_Severe_Unbraked_TBI_SE (Checkpoint Loss -> Glial Storm & Gate Collapse),Microglia_Storm_Pct,0.8764,97.3,83.9,69.75027889101747,69.32096958712104
+4_Severe_TBI_plus_Early_Glial_Brake (t=0h Stage-1 Innate Brake),Microglia_Storm_Pct,0.2915,32.4,29.3,35.74974474858341,35.79975281269522
+1_Sham_Baseline (Intact Homeostatic Checkpoint),Astro_BBB_Pct,0.015,1.7,31.0,15.55308445649658,13.541018480208947
+2_Moderate_TBI_Insult (Intact Checkpoint + Moderate Injury),Astro_BBB_Pct,0.3847,42.7,42.7,41.054251809641784,41.26157710891118
+3_Severe_Unbraked_TBI_SE (Checkpoint Loss -> Glial Storm & Gate Collapse),Astro_BBB_Pct,0.8106,90.0,65.4,68.41087249514047,65.42124522099499
+4_Severe_TBI_plus_Early_Glial_Brake (t=0h Stage-1 Innate Brake),Astro_BBB_Pct,0.2889,32.1,46.4,34.24682921057793,35.6421771448377
+1_Sham_Baseline (Intact Homeostatic Checkpoint),Chromatin_Lock_Pct,0.012,1.2,6.2,19.722543552851622,13.319763970824727
+2_Moderate_TBI_Insult (Intact Checkpoint + Moderate Injury),Chromatin_Lock_Pct,0.1112,11.1,17.1,24.803909649313056,24.71731836901192
+3_Severe_Unbraked_TBI_SE (Checkpoint Loss -> Glial Storm & Gate Collapse),Chromatin_Lock_Pct,0.8608,86.1,70.5,71.27771156495238,68.39641487417931
+4_Severe_TBI_plus_Early_Glial_Brake (t=0h Stage-1 Innate Brake),Chromatin_Lock_Pct,0.0617,6.2,11.1,22.274616585026386,21.87248801513464
+1_Sham_Baseline (Intact Homeostatic Checkpoint),Neuronal_Gate_Pct,0.985,98.5,63.2,83.57472688595035,85.07997651443986
+2_Moderate_TBI_Insult (Intact Checkpoint + Moderate Injury),Neuronal_Gate_Pct,0.7319,73.2,70.0,62.156948015002115,62.26401452936099
+3_Severe_Unbraked_TBI_SE (Checkpoint Loss -> Glial Storm & Gate Collapse),Neuronal_Gate_Pct,0.1995,19.9,30.6,29.382895643343744,29.203592331334853
+4_Severe_TBI_plus_Early_Glial_Brake (t=0h Stage-1 Innate Brake),Neuronal_Gate_Pct,0.8011,80.1,70.1,66.96438665220873,66.68458371276863
